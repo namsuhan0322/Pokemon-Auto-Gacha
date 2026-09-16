@@ -1,9 +1,69 @@
 {
   "version": 1,
-  "totalPulls": 0,
-  "updatedAt": null,
-  "lastPull": null,
-  "pulls": [],
-  "pokemon": {},
-  "typeTotals": {}
+  "totalPulls": 1,
+  "updatedAt": "2026-09-16T01:36:14.279Z",
+  "lastPull": {
+    "id": 882,
+    "name": "dracovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:36:14.279Z"
+  },
+  "pulls": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:36:14.279Z"
+    }
+  ],
+  "pokemon": {
+    "882": {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:36:14.279Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:36:14.279Z",
+      "lastPulledAt": "2026-09-16T01:36:14.279Z"
+    }
+  },
+  "typeTotals": {
+    "normal": 131,
+    "fire": 81,
+    "water": 154,
+    "electric": 69,
+    "grass": 127,
+    "ice": 48,
+    "fighting": 73,
+    "poison": 83,
+    "ground": 75,
+    "flying": 109,
+    "psychic": 102,
+    "bug": 92,
+    "rock": 74,
+    "ghost": 65,
+    "dragon": 70,
+    "dark": 69,
+    "steel": 65,
+    "fairy": 64
+  }
 }
