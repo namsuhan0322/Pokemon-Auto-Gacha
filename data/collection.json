@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:36:14.279Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T06:22:05.356Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 329,
+    "name": "vibrava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
     "types": [
-      "water",
+      "ground",
       "dragon"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:36:14.279Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-16T06:22:05.356Z"
   },
   "pulls": [
+    {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-16T06:22:05.356Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -29,6 +41,22 @@
     }
   ],
   "pokemon": {
+    "329": {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-16T06:22:05.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:22:05.356Z",
+      "lastPulledAt": "2026-09-16T06:22:05.356Z"
+    },
     "882": {
       "id": 882,
       "name": "dracovish",
