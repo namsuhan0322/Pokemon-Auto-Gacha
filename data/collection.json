@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T16:00:26.595Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T19:31:22.842Z",
   "lastPull": {
-    "id": 52,
-    "name": "meowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "id": 51,
+    "name": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "types": [
-      "normal"
+      "ground"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-16T16:00:26.595Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-09-16T19:31:22.842Z"
   },
   "pulls": [
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:31:22.842Z"
+    },
     {
       "id": 52,
       "name": "meowth",
@@ -63,6 +74,21 @@
     }
   ],
   "pokemon": {
+    "51": {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:31:22.842Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T19:31:22.842Z",
+      "lastPulledAt": "2026-09-16T19:31:22.842Z"
+    },
     "52": {
       "id": 52,
       "name": "meowth",
