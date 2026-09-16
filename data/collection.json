@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T19:31:22.842Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T22:18:02.124Z",
   "lastPull": {
-    "id": 51,
-    "name": "dugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 425,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-16T19:31:22.842Z"
+    "pulledAt": "2026-09-16T22:18:02.124Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:18:02.124Z"
+    },
     {
       "id": 51,
       "name": "dugtrio",
@@ -119,6 +130,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:53:56.163Z",
       "lastPulledAt": "2026-09-16T11:53:56.163Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:18:02.124Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T22:18:02.124Z",
+      "lastPulledAt": "2026-09-16T22:18:02.124Z"
     },
     "329": {
       "id": 329,
