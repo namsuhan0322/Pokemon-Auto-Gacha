@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T11:53:56.163Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T16:00:26.595Z",
   "lastPull": {
-    "id": 75,
-    "name": "graveler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "rock",
-      "ground"
+      "normal"
     ],
-    "totalStats": 390,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-09-16T11:53:56.163Z"
+    "pulledAt": "2026-09-16T16:00:26.595Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-16T16:00:26.595Z"
+    },
     {
       "id": 75,
       "name": "graveler",
@@ -53,6 +63,21 @@
     }
   ],
   "pokemon": {
+    "52": {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-16T16:00:26.595Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T16:00:26.595Z",
+      "lastPulledAt": "2026-09-16T16:00:26.595Z"
+    },
     "75": {
       "id": 75,
       "name": "graveler",
