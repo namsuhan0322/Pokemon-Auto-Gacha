@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-17T10:13:24.446Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T15:04:05.331Z",
   "lastPull": {
-    "id": 406,
-    "name": "budew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "id": 44,
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "types": [
       "grass",
       "poison"
     ],
-    "totalStats": 280,
+    "totalStats": 395,
     "grade": "N",
-    "pulledAt": "2026-09-17T10:13:24.446Z"
+    "pulledAt": "2026-09-17T15:04:05.331Z"
   },
   "pulls": [
+    {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-17T15:04:05.331Z"
+    },
     {
       "id": 406,
       "name": "budew",
@@ -120,6 +132,22 @@
     }
   ],
   "pokemon": {
+    "44": {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-17T15:04:05.331Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:04:05.331Z",
+      "lastPulledAt": "2026-09-17T15:04:05.331Z"
+    },
     "51": {
       "id": 51,
       "name": "dugtrio",
