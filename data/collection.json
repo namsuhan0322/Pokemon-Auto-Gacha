@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T18:58:39.356Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T22:00:11.050Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 207,
+    "name": "gligar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
     "types": [
-      "bug"
+      "ground",
+      "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-17T18:58:39.356Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-17T22:00:11.050Z"
   },
   "pulls": [
+    {
+      "id": 207,
+      "name": "gligar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:00:11.050Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -115,18 +128,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-09-16T11:53:56.163Z"
-    },
-    {
-      "id": 329,
-      "name": "vibrava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-16T06:22:05.356Z"
     }
   ],
   "pokemon": {
@@ -206,6 +207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:18:02.124Z",
       "lastPulledAt": "2026-09-16T22:18:02.124Z"
+    },
+    "207": {
+      "id": 207,
+      "name": "gligar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:00:11.050Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:00:11.050Z",
+      "lastPulledAt": "2026-09-17T22:00:11.050Z"
     },
     "329": {
       "id": 329,
