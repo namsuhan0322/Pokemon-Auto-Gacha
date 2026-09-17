@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T22:18:02.124Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-17T00:38:30.716Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 405,
+    "name": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-16T22:18:02.124Z"
+    "totalStats": 523,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T00:38:30.716Z"
   },
   "pulls": [
+    {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T00:38:30.716Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -161,6 +172,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:22:05.356Z",
       "lastPulledAt": "2026-09-16T06:22:05.356Z"
+    },
+    "405": {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T00:38:30.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T00:38:30.716Z",
+      "lastPulledAt": "2026-09-17T00:38:30.716Z"
     },
     "882": {
       "id": 882,
