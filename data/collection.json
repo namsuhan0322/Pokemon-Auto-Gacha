@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-17T00:38:30.716Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-17T05:21:58.278Z",
   "lastPull": {
-    "id": 405,
-    "name": "luxray",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "id": 353,
+    "name": "shuppet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
     "types": [
-      "electric"
+      "ghost"
     ],
-    "totalStats": 523,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T00:38:30.716Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-09-17T05:21:58.278Z"
   },
   "pulls": [
+    {
+      "id": 353,
+      "name": "shuppet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:21:58.278Z"
+    },
     {
       "id": 405,
       "name": "luxray",
@@ -172,6 +183,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:22:05.356Z",
       "lastPulledAt": "2026-09-16T06:22:05.356Z"
+    },
+    "353": {
+      "id": 353,
+      "name": "shuppet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:21:58.278Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:21:58.278Z",
+      "lastPulledAt": "2026-09-17T05:21:58.278Z"
     },
     "405": {
       "id": 405,
