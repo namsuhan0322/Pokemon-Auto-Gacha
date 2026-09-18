@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-18T00:03:40.683Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-18T04:35:32.146Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 684,
+    "name": "swirlix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
     "types": [
-      "ghost",
-      "poison"
+      "fairy"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T00:03:40.683Z"
+    "totalStats": 341,
+    "grade": "N",
+    "pulledAt": "2026-09-18T04:35:32.146Z"
   },
   "pulls": [
+    {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-09-18T04:35:32.146Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -117,17 +127,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-09-16T19:31:22.842Z"
-    },
-    {
-      "id": 52,
-      "name": "meowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-16T16:00:26.595Z"
     }
   ],
   "pokemon": {
@@ -316,6 +315,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:58:39.356Z",
       "lastPulledAt": "2026-09-17T18:58:39.356Z"
+    },
+    "684": {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-09-18T04:35:32.146Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T04:35:32.146Z",
+      "lastPulledAt": "2026-09-18T04:35:32.146Z"
     },
     "882": {
       "id": 882,
