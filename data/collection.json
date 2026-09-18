@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T21:54:23.098Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T23:50:10.097Z",
   "lastPull": {
-    "id": 192,
-    "name": "sunflora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "id": 321,
+    "name": "wailord",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-09-18T21:54:23.098Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T23:50:10.097Z"
   },
   "pulls": [
+    {
+      "id": 321,
+      "name": "wailord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:50:10.097Z"
+    },
     {
       "id": 192,
       "name": "sunflora",
@@ -118,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-17T18:58:39.356Z"
-    },
-    {
-      "id": 44,
-      "name": "gloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-17T15:04:05.331Z"
     }
   ],
   "pokemon": {
@@ -272,6 +271,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:38:23.410Z",
       "lastPulledAt": "2026-09-18T13:38:23.410Z"
+    },
+    "321": {
+      "id": 321,
+      "name": "wailord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T23:50:10.097Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:50:10.097Z",
+      "lastPulledAt": "2026-09-18T23:50:10.097Z"
     },
     "329": {
       "id": 329,
