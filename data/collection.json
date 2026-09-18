@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-18T09:10:45.541Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-18T13:38:23.410Z",
   "lastPull": {
-    "id": 973,
-    "name": "flamigo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "id": 282,
+    "name": "gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
     "types": [
-      "flying",
-      "fighting"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 500,
+    "totalStats": 518,
     "grade": "SR",
-    "pulledAt": "2026-09-18T09:10:45.541Z"
+    "pulledAt": "2026-09-18T13:38:23.410Z"
   },
   "pulls": [
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T13:38:23.410Z"
+    },
     {
       "id": 973,
       "name": "flamigo",
@@ -118,17 +130,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-09-17T00:38:30.716Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-16T22:18:02.124Z"
     }
   ],
   "pokemon": {
@@ -240,6 +241,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:00:11.050Z",
       "lastPulledAt": "2026-09-17T22:00:11.050Z"
+    },
+    "282": {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T13:38:23.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T13:38:23.410Z",
+      "lastPulledAt": "2026-09-18T13:38:23.410Z"
     },
     "329": {
       "id": 329,
