@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T23:50:10.097Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-19T01:41:44.831Z",
   "lastPull": {
-    "id": 321,
-    "name": "wailord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "id": 997,
+    "name": "arctibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
     "types": [
-      "water"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T23:50:10.097Z"
+    "totalStats": 423,
+    "grade": "R",
+    "pulledAt": "2026-09-19T01:41:44.831Z"
   },
   "pulls": [
+    {
+      "id": 997,
+      "name": "arctibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:41:44.831Z"
+    },
     {
       "id": 321,
       "name": "wailord",
@@ -118,17 +131,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-17T22:00:11.050Z"
-    },
-    {
-      "id": 616,
-      "name": "shelmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-17T18:58:39.356Z"
     }
   ],
   "pokemon": {
@@ -442,6 +444,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:40:35.164Z",
       "lastPulledAt": "2026-09-18T19:40:35.164Z"
+    },
+    "997": {
+      "id": 997,
+      "name": "arctibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:41:44.831Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:41:44.831Z",
+      "lastPulledAt": "2026-09-19T01:41:44.831Z"
     }
   },
   "typeTotals": {
