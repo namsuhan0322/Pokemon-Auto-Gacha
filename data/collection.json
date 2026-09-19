@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T06:41:44.842Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T11:36:34.656Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 607,
+    "name": "litwick",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
     "types": [
+      "ghost",
       "fire"
     ],
-    "totalStats": 365,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-19T06:41:44.842Z"
+    "pulledAt": "2026-09-19T11:36:34.656Z"
   },
   "pulls": [
+    {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-19T11:36:34.656Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -117,18 +130,6 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-09-18T04:35:32.146Z"
-    },
-    {
-      "id": 94,
-      "name": "gengar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T00:03:40.683Z"
     }
   ],
   "pokemon": {
@@ -363,6 +364,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:13:24.446Z",
       "lastPulledAt": "2026-09-17T10:13:24.446Z"
+    },
+    "607": {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-19T11:36:34.656Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T11:36:34.656Z",
+      "lastPulledAt": "2026-09-19T11:36:34.656Z"
     },
     "616": {
       "id": 616,
