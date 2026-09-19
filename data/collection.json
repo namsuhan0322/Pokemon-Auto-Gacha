@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-19T11:36:34.656Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-19T14:46:00.230Z",
   "lastPull": {
-    "id": 607,
-    "name": "litwick",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "id": 503,
+    "name": "samurott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
     "types": [
-      "ghost",
-      "fire"
+      "water"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-19T11:36:34.656Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T14:46:00.230Z"
   },
   "pulls": [
+    {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T14:46:00.230Z"
+    },
     {
       "id": 607,
       "name": "litwick",
@@ -119,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T09:10:45.541Z"
-    },
-    {
-      "id": 684,
-      "name": "swirlix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 341,
-      "grade": "N",
-      "pulledAt": "2026-09-18T04:35:32.146Z"
     }
   ],
   "pokemon": {
@@ -364,6 +363,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:13:24.446Z",
       "lastPulledAt": "2026-09-17T10:13:24.446Z"
+    },
+    "503": {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T14:46:00.230Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T14:46:00.230Z",
+      "lastPulledAt": "2026-09-19T14:46:00.230Z"
     },
     "607": {
       "id": 607,
