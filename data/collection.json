@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T21:42:52.223Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T23:37:00.116Z",
   "lastPull": {
-    "id": 988,
-    "name": "slither-wing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+    "id": 396,
+    "name": "starly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
     "types": [
-      "bug",
-      "fighting"
+      "normal",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T21:42:52.223Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-19T23:37:00.116Z"
   },
   "pulls": [
+    {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:37:00.116Z"
+    },
     {
       "id": 988,
       "name": "slither-wing",
@@ -116,18 +128,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-09-18T21:54:23.098Z"
-    },
-    {
-      "id": 979,
-      "name": "annihilape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T19:40:35.164Z"
     }
   ],
   "pokemon": {
@@ -346,6 +346,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:21:58.278Z",
       "lastPulledAt": "2026-09-17T05:21:58.278Z"
+    },
+    "396": {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:37:00.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T23:37:00.116Z",
+      "lastPulledAt": "2026-09-19T23:37:00.116Z"
     },
     "405": {
       "id": 405,
