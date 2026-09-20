@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T23:37:00.116Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-20T01:36:00.380Z",
   "lastPull": {
-    "id": 396,
-    "name": "starly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "id": 305,
+    "name": "lairon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "rock"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-09-19T23:37:00.116Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-20T01:36:00.380Z"
   },
   "pulls": [
+    {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T01:36:00.380Z"
+    },
     {
       "id": 396,
       "name": "starly",
@@ -117,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T23:50:10.097Z"
-    },
-    {
-      "id": 192,
-      "name": "sunflora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-09-18T21:54:23.098Z"
     }
   ],
   "pokemon": {
@@ -300,6 +301,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:38:23.410Z",
       "lastPulledAt": "2026-09-18T13:38:23.410Z"
+    },
+    "305": {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T01:36:00.380Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:36:00.380Z",
+      "lastPulledAt": "2026-09-20T01:36:00.380Z"
     },
     "321": {
       "id": 321,
