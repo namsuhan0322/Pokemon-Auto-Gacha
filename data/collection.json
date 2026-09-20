@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-20T01:36:00.380Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-20T06:57:15.872Z",
   "lastPull": {
-    "id": 305,
-    "name": "lairon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "id": 351,
+    "name": "castform",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
     "types": [
-      "steel",
-      "rock"
+      "normal"
     ],
-    "totalStats": 430,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-20T01:36:00.380Z"
+    "pulledAt": "2026-09-20T06:57:15.872Z"
   },
   "pulls": [
+    {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-20T06:57:15.872Z"
+    },
     {
       "id": 305,
       "name": "lairon",
@@ -118,17 +128,6 @@
       "totalStats": 423,
       "grade": "R",
       "pulledAt": "2026-09-19T01:41:44.831Z"
-    },
-    {
-      "id": 321,
-      "name": "wailord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T23:50:10.097Z"
     }
   ],
   "pokemon": {
@@ -348,6 +347,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:22:05.356Z",
       "lastPulledAt": "2026-09-16T06:22:05.356Z"
+    },
+    "351": {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-20T06:57:15.872Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T06:57:15.872Z",
+      "lastPulledAt": "2026-09-20T06:57:15.872Z"
     },
     "353": {
       "id": 353,
