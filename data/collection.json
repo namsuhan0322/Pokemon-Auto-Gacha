@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-20T06:57:15.872Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-20T12:03:49.872Z",
   "lastPull": {
-    "id": 351,
-    "name": "castform",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "id": 118,
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-20T06:57:15.872Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-20T12:03:49.872Z"
   },
   "pulls": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-20T12:03:49.872Z"
+    },
     {
       "id": 351,
       "name": "castform",
@@ -116,18 +127,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-09-19T06:41:44.842Z"
-    },
-    {
-      "id": 997,
-      "name": "arctibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-09-19T01:41:44.831Z"
     }
   ],
   "pokemon": {
@@ -223,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:18:02.124Z",
       "lastPulledAt": "2026-09-16T22:18:02.124Z"
+    },
+    "118": {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-20T12:03:49.872Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T12:03:49.872Z",
+      "lastPulledAt": "2026-09-20T12:03:49.872Z"
     },
     "151": {
       "id": 151,
