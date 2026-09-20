@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-20T18:38:13.342Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-20T21:03:14.620Z",
   "lastPull": {
-    "id": 580,
-    "name": "ducklett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "id": 797,
+    "name": "celesteela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
     "types": [
-      "water",
+      "steel",
       "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-20T18:38:13.342Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T21:03:14.620Z"
   },
   "pulls": [
+    {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:03:14.620Z"
+    },
     {
       "id": 580,
       "name": "ducklett",
@@ -118,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-19T17:28:38.729Z"
-    },
-    {
-      "id": 503,
-      "name": "samurott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T14:46:00.230Z"
     }
   ],
   "pokemon": {
@@ -548,6 +549,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:35:32.146Z",
       "lastPulledAt": "2026-09-18T04:35:32.146Z"
+    },
+    "797": {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T21:03:14.620Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:03:14.620Z",
+      "lastPulledAt": "2026-09-20T21:03:14.620Z"
     },
     "882": {
       "id": 882,
