@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-20T12:03:49.872Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-20T15:59:12.452Z",
   "lastPull": {
-    "id": 118,
-    "name": "goldeen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "id": 269,
+    "name": "dustox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
     "types": [
-      "water"
+      "bug",
+      "poison"
     ],
-    "totalStats": 320,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-09-20T12:03:49.872Z"
+    "pulledAt": "2026-09-20T15:59:12.452Z"
   },
   "pulls": [
+    {
+      "id": 269,
+      "name": "dustox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-09-20T15:59:12.452Z"
+    },
     {
       "id": 118,
       "name": "goldeen",
@@ -116,17 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-19T11:36:34.656Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-09-19T06:41:44.842Z"
     }
   ],
   "pokemon": {
@@ -298,6 +300,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:41:44.842Z",
       "lastPulledAt": "2026-09-19T06:41:44.842Z"
+    },
+    "269": {
+      "id": 269,
+      "name": "dustox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-09-20T15:59:12.452Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T15:59:12.452Z",
+      "lastPulledAt": "2026-09-20T15:59:12.452Z"
     },
     "282": {
       "id": 282,
