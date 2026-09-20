@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-20T15:59:12.452Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-20T18:38:13.342Z",
   "lastPull": {
-    "id": 269,
-    "name": "dustox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "id": 580,
+    "name": "ducklett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
     "types": [
-      "bug",
-      "poison"
+      "water",
+      "flying"
     ],
-    "totalStats": 385,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-20T15:59:12.452Z"
+    "pulledAt": "2026-09-20T18:38:13.342Z"
   },
   "pulls": [
+    {
+      "id": 580,
+      "name": "ducklett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-20T18:38:13.342Z"
+    },
     {
       "id": 269,
       "name": "dustox",
@@ -117,18 +129,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-19T14:46:00.230Z"
-    },
-    {
-      "id": 607,
-      "name": "litwick",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-19T11:36:34.656Z"
     }
   ],
   "pokemon": {
@@ -486,6 +486,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:46:00.230Z",
       "lastPulledAt": "2026-09-19T14:46:00.230Z"
+    },
+    "580": {
+      "id": 580,
+      "name": "ducklett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-20T18:38:13.342Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T18:38:13.342Z",
+      "lastPulledAt": "2026-09-20T18:38:13.342Z"
     },
     "607": {
       "id": 607,
