@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-21T06:26:12.509Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-21T13:08:49.024Z",
   "lastPull": {
-    "id": 957,
-    "name": "tinkatink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
     "types": [
-      "fairy",
-      "steel"
+      "normal"
     ],
-    "totalStats": 297,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-09-21T06:26:12.509Z"
+    "pulledAt": "2026-09-21T13:08:49.024Z"
   },
   "pulls": [
+    {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-21T13:08:49.024Z"
+    },
     {
       "id": 957,
       "name": "tinkatink",
@@ -119,18 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-20T01:36:00.380Z"
-    },
-    {
-      "id": 396,
-      "name": "starly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-19T23:37:00.116Z"
     }
   ],
   "pokemon": {
@@ -473,6 +471,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:13:24.446Z",
       "lastPulledAt": "2026-09-17T10:13:24.446Z"
+    },
+    "431": {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-21T13:08:49.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T13:08:49.024Z",
+      "lastPulledAt": "2026-09-21T13:08:49.024Z"
     },
     "491": {
       "id": 491,
