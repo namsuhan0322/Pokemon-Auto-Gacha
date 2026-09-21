@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-21T13:08:49.024Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-21T18:39:39.434Z",
   "lastPull": {
-    "id": 431,
-    "name": "glameow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "id": 446,
+    "name": "munchlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
     "types": [
       "normal"
     ],
-    "totalStats": 310,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-09-21T13:08:49.024Z"
+    "pulledAt": "2026-09-21T18:39:39.434Z"
   },
   "pulls": [
+    {
+      "id": 446,
+      "name": "munchlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-21T18:39:39.434Z"
+    },
     {
       "id": 431,
       "name": "glameow",
@@ -117,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-20T06:57:15.872Z"
-    },
-    {
-      "id": 305,
-      "name": "lairon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-20T01:36:00.380Z"
     }
   ],
   "pokemon": {
@@ -486,6 +485,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:08:49.024Z",
       "lastPulledAt": "2026-09-21T13:08:49.024Z"
+    },
+    "446": {
+      "id": 446,
+      "name": "munchlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-21T18:39:39.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T18:39:39.434Z",
+      "lastPulledAt": "2026-09-21T18:39:39.434Z"
     },
     "491": {
       "id": 491,
