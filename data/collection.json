@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-21T18:39:39.434Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-21T22:13:46.172Z",
   "lastPull": {
-    "id": 446,
-    "name": "munchlax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "id": 46,
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "types": [
-      "normal"
+      "bug",
+      "grass"
     ],
-    "totalStats": 390,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-09-21T18:39:39.434Z"
+    "pulledAt": "2026-09-21T22:13:46.172Z"
   },
   "pulls": [
+    {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-21T22:13:46.172Z"
+    },
     {
       "id": 446,
       "name": "munchlax",
@@ -117,17 +130,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-20T12:03:49.872Z"
-    },
-    {
-      "id": 351,
-      "name": "castform",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-20T06:57:15.872Z"
     }
   ],
   "pokemon": {
@@ -146,6 +148,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:05.331Z",
       "lastPulledAt": "2026-09-17T15:04:05.331Z"
+    },
+    "46": {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-09-21T22:13:46.172Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T22:13:46.172Z",
+      "lastPulledAt": "2026-09-21T22:13:46.172Z"
     },
     "51": {
       "id": 51,
