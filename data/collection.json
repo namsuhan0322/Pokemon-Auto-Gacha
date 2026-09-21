@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-21T01:10:25.581Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T06:26:12.509Z",
   "lastPull": {
-    "id": 204,
-    "name": "pineco",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "id": 957,
+    "name": "tinkatink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
     "types": [
-      "bug"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 290,
+    "totalStats": 297,
     "grade": "N",
-    "pulledAt": "2026-09-21T01:10:25.581Z"
+    "pulledAt": "2026-09-21T06:26:12.509Z"
   },
   "pulls": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-09-21T06:26:12.509Z"
+    },
     {
       "id": 204,
       "name": "pineco",
@@ -118,18 +131,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-09-19T23:37:00.116Z"
-    },
-    {
-      "id": 988,
-      "name": "slither-wing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T21:42:52.223Z"
     }
   ],
   "pokemon": {
@@ -628,6 +629,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:12:18.965Z",
       "lastPulledAt": "2026-09-18T17:12:18.965Z"
+    },
+    "957": {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-09-21T06:26:12.509Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T06:26:12.509Z",
+      "lastPulledAt": "2026-09-21T06:26:12.509Z"
     },
     "973": {
       "id": 973,
