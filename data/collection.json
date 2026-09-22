@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-22T15:06:08.993Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T18:49:22.739Z",
   "lastPull": {
-    "id": 617,
-    "name": "accelgor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "bug"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-22T15:06:08.993Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T18:49:22.739Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T18:49:22.739Z"
+    },
     {
       "id": 617,
       "name": "accelgor",
@@ -117,18 +130,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-21T01:10:25.581Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T23:11:26.854Z"
     }
   ],
   "pokemon": {
@@ -672,6 +673,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:35:32.146Z",
       "lastPulledAt": "2026-09-18T04:35:32.146Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T18:49:22.739Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T18:49:22.739Z",
+      "lastPulledAt": "2026-09-22T18:49:22.739Z"
     },
     "715": {
       "id": 715,
