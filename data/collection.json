@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-22T00:52:58.628Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-22T05:47:20.803Z",
   "lastPull": {
-    "id": 79,
-    "name": "slowpoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "id": 183,
+    "name": "marill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
     "types": [
       "water",
-      "psychic"
+      "fairy"
     ],
-    "totalStats": 315,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-09-22T00:52:58.628Z"
+    "pulledAt": "2026-09-22T05:47:20.803Z"
   },
   "pulls": [
+    {
+      "id": 183,
+      "name": "marill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-22T05:47:20.803Z"
+    },
     {
       "id": 79,
       "name": "slowpoke",
@@ -119,18 +131,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-20T18:38:13.342Z"
-    },
-    {
-      "id": 269,
-      "name": "dustox",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-09-20T15:59:12.452Z"
     }
   ],
   "pokemon": {
@@ -288,6 +288,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:28:38.729Z",
       "lastPulledAt": "2026-09-19T17:28:38.729Z"
+    },
+    "183": {
+      "id": 183,
+      "name": "marill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-22T05:47:20.803Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T05:47:20.803Z",
+      "lastPulledAt": "2026-09-22T05:47:20.803Z"
     },
     "192": {
       "id": 192,
