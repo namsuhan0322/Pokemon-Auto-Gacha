@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T18:49:22.739Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T21:42:10.436Z",
   "lastPull": {
-    "id": 697,
-    "name": "tyrantrum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "id": 100,
+    "name": "voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
     "types": [
-      "rock",
-      "dragon"
+      "electric"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T18:49:22.739Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-22T21:42:10.436Z"
   },
   "pulls": [
+    {
+      "id": 100,
+      "name": "voltorb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-22T21:42:10.436Z"
+    },
     {
       "id": 697,
       "name": "tyrantrum",
@@ -119,17 +129,6 @@
       "totalStats": 297,
       "grade": "N",
       "pulledAt": "2026-09-21T06:26:12.509Z"
-    },
-    {
-      "id": 204,
-      "name": "pineco",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-21T01:10:25.581Z"
     }
   ],
   "pokemon": {
@@ -242,6 +241,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:03:40.683Z",
       "lastPulledAt": "2026-09-18T00:03:40.683Z"
+    },
+    "100": {
+      "id": 100,
+      "name": "voltorb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-22T21:42:10.436Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T21:42:10.436Z",
+      "lastPulledAt": "2026-09-22T21:42:10.436Z"
     },
     "115": {
       "id": 115,
