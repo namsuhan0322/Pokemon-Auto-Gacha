@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-22T10:22:57.733Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-22T15:06:08.993Z",
   "lastPull": {
-    "id": 715,
-    "name": "noivern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "id": 617,
+    "name": "accelgor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
     "types": [
-      "flying",
-      "dragon"
+      "bug"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T10:22:57.733Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-22T15:06:08.993Z"
   },
   "pulls": [
+    {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-22T15:06:08.993Z"
+    },
     {
       "id": 715,
       "name": "noivern",
@@ -119,18 +129,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-20T23:11:26.854Z"
-    },
-    {
-      "id": 797,
-      "name": "celesteela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T21:03:14.620Z"
     }
   ],
   "pokemon": {
@@ -644,6 +642,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:58:39.356Z",
       "lastPulledAt": "2026-09-17T18:58:39.356Z"
+    },
+    "617": {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-22T15:06:08.993Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T15:06:08.993Z",
+      "lastPulledAt": "2026-09-22T15:06:08.993Z"
     },
     "684": {
       "id": 684,
