@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-23T03:01:45.275Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-23T08:29:39.947Z",
   "lastPull": {
-    "id": 300,
-    "name": "skitty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "id": 457,
+    "name": "lumineon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-09-23T03:01:45.275Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-23T08:29:39.947Z"
   },
   "pulls": [
+    {
+      "id": 457,
+      "name": "lumineon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T08:29:39.947Z"
+    },
     {
       "id": 300,
       "name": "skitty",
@@ -118,17 +129,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-09-21T22:13:46.172Z"
-    },
-    {
-      "id": 446,
-      "name": "munchlax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-09-21T18:39:39.434Z"
     }
   ],
   "pokemon": {
@@ -595,6 +595,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T18:39:39.434Z",
       "lastPulledAt": "2026-09-21T18:39:39.434Z"
+    },
+    "457": {
+      "id": 457,
+      "name": "lumineon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-23T08:29:39.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T08:29:39.947Z",
+      "lastPulledAt": "2026-09-23T08:29:39.947Z"
     },
     "491": {
       "id": 491,
