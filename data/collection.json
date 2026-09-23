@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T21:25:01.609Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T23:49:48.924Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 822,
+    "name": "corvisquire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
     "types": [
-      "grass",
-      "ghost"
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T21:25:01.609Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-09-23T23:49:48.924Z"
   },
   "pulls": [
+    {
+      "id": 822,
+      "name": "corvisquire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-23T23:49:48.924Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -117,18 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-22T15:06:08.993Z"
-    },
-    {
-      "id": 715,
-      "name": "noivern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T10:22:57.733Z"
     }
   ],
   "pokemon": {
@@ -828,6 +826,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:03:14.620Z",
       "lastPulledAt": "2026-09-20T21:03:14.620Z"
+    },
+    "822": {
+      "id": 822,
+      "name": "corvisquire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-23T23:49:48.924Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:49:48.924Z",
+      "lastPulledAt": "2026-09-23T23:49:48.924Z"
     },
     "882": {
       "id": 882,
