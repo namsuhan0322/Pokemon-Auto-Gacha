@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T13:48:44.745Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T17:59:40.130Z",
   "lastPull": {
-    "id": 86,
-    "name": "seel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "id": 425,
+    "name": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
     "types": [
-      "water"
+      "ghost",
+      "flying"
     ],
-    "totalStats": 325,
+    "totalStats": 348,
     "grade": "N",
-    "pulledAt": "2026-09-23T13:48:44.745Z"
+    "pulledAt": "2026-09-23T17:59:40.130Z"
   },
   "pulls": [
+    {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:59:40.130Z"
+    },
     {
       "id": 86,
       "name": "seel",
@@ -116,18 +129,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-09-22T05:47:20.803Z"
-    },
-    {
-      "id": 79,
-      "name": "slowpoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-09-22T00:52:58.628Z"
     }
   ],
   "pokemon": {
@@ -579,6 +580,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:13:24.446Z",
       "lastPulledAt": "2026-09-17T10:13:24.446Z"
+    },
+    "425": {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:59:40.130Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T17:59:40.130Z",
+      "lastPulledAt": "2026-09-23T17:59:40.130Z"
     },
     "431": {
       "id": 431,
