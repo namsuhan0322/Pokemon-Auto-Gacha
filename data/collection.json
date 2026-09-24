@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T23:49:48.924Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-24T01:41:16.146Z",
   "lastPull": {
-    "id": 822,
-    "name": "corvisquire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "id": 269,
+    "name": "dustox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
     "types": [
-      "flying"
+      "bug",
+      "poison"
     ],
-    "totalStats": 365,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-09-23T23:49:48.924Z"
+    "pulledAt": "2026-09-24T01:41:16.146Z"
   },
   "pulls": [
+    {
+      "id": 269,
+      "name": "dustox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:41:16.146Z"
+    },
     {
       "id": 822,
       "name": "corvisquire",
@@ -116,17 +129,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-22T18:49:22.739Z"
-    },
-    {
-      "id": 617,
-      "name": "accelgor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-22T15:06:08.993Z"
     }
   ],
   "pokemon": {
@@ -419,10 +421,10 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-09-20T15:59:12.452Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T15:59:12.452Z",
-      "lastPulledAt": "2026-09-20T15:59:12.452Z"
+      "lastPulledAt": "2026-09-24T01:41:16.146Z"
     },
     "282": {
       "id": 282,
