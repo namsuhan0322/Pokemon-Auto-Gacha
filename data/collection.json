@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T20:38:05.756Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T23:26:07.837Z",
   "lastPull": {
-    "id": 84,
-    "name": "doduo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "id": 951,
+    "name": "capsakid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
     "types": [
-      "normal",
-      "flying"
+      "grass"
     ],
-    "totalStats": 310,
+    "totalStats": 304,
     "grade": "N",
-    "pulledAt": "2026-09-24T20:38:05.756Z"
+    "pulledAt": "2026-09-24T23:26:07.837Z"
   },
   "pulls": [
+    {
+      "id": 951,
+      "name": "capsakid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:26:07.837Z"
+    },
     {
       "id": 84,
       "name": "doduo",
@@ -119,17 +129,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-23T13:48:44.745Z"
-    },
-    {
-      "id": 457,
-      "name": "lumineon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-23T08:29:39.947Z"
     }
   ],
   "pokemon": {
@@ -939,6 +938,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:20:42.609Z",
       "lastPulledAt": "2026-09-24T17:20:42.609Z"
+    },
+    "951": {
+      "id": 951,
+      "name": "capsakid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:26:07.837Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:26:07.837Z",
+      "lastPulledAt": "2026-09-24T23:26:07.837Z"
     },
     "957": {
       "id": 957,
