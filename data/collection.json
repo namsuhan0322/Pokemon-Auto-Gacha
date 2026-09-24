@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-24T01:41:16.146Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-24T06:47:20.529Z",
   "lastPull": {
-    "id": 269,
-    "name": "dustox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "id": 632,
+    "name": "durant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
     "types": [
       "bug",
-      "poison"
+      "steel"
     ],
-    "totalStats": 385,
-    "grade": "N",
-    "pulledAt": "2026-09-24T01:41:16.146Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-09-24T06:47:20.529Z"
   },
   "pulls": [
+    {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-24T06:47:20.529Z"
+    },
     {
       "id": 269,
       "name": "dustox",
@@ -117,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-22T21:42:10.436Z"
-    },
-    {
-      "id": 697,
-      "name": "tyrantrum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T18:49:22.739Z"
     }
   ],
   "pokemon": {
@@ -749,6 +749,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:06:08.993Z",
       "lastPulledAt": "2026-09-22T15:06:08.993Z"
+    },
+    "632": {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-24T06:47:20.529Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T06:47:20.529Z",
+      "lastPulledAt": "2026-09-24T06:47:20.529Z"
     },
     "684": {
       "id": 684,
