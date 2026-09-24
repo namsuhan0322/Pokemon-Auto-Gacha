@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-24T12:19:16.430Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-24T17:20:42.609Z",
   "lastPull": {
-    "id": 371,
-    "name": "bagon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "id": 922,
+    "name": "pawmo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
     "types": [
-      "dragon"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 300,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-09-24T12:19:16.430Z"
+    "pulledAt": "2026-09-24T17:20:42.609Z"
   },
   "pulls": [
+    {
+      "id": 922,
+      "name": "pawmo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-24T17:20:42.609Z"
+    },
     {
       "id": 371,
       "name": "bagon",
@@ -116,18 +129,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-09-23T03:01:45.275Z"
-    },
-    {
-      "id": 259,
-      "name": "marshtomp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-22T23:52:17.521Z"
     }
   ],
   "pokemon": {
@@ -905,6 +906,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:12:18.965Z",
       "lastPulledAt": "2026-09-18T17:12:18.965Z"
+    },
+    "922": {
+      "id": 922,
+      "name": "pawmo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-24T17:20:42.609Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:20:42.609Z",
+      "lastPulledAt": "2026-09-24T17:20:42.609Z"
     },
     "957": {
       "id": 957,
