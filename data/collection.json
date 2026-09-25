@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-25T20:33:19.467Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-25T23:30:11.592Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-09-25T20:33:19.467Z"
+    "totalStats": 507,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T23:30:11.592Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T23:30:11.592Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -115,18 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-24T12:19:16.430Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-09-24T06:47:20.529Z"
     }
   ],
   "pokemon": {
@@ -949,6 +948,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T17:20:00.800Z",
       "lastPulledAt": "2026-09-25T17:20:00.800Z"
+    },
+    "865": {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T23:30:11.592Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T23:30:11.592Z",
+      "lastPulledAt": "2026-09-25T23:30:11.592Z"
     },
     "882": {
       "id": 882,
