@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-24T23:26:07.837Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-25T01:42:54.996Z",
   "lastPull": {
-    "id": 951,
-    "name": "capsakid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "id": 211,
+    "name": "qwilfish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
     "types": [
-      "grass"
+      "water",
+      "poison"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-09-24T23:26:07.837Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-09-25T01:42:54.996Z"
   },
   "pulls": [
+    {
+      "id": 211,
+      "name": "qwilfish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-25T01:42:54.996Z"
+    },
     {
       "id": 951,
       "name": "capsakid",
@@ -118,17 +131,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-23T17:59:40.130Z"
-    },
-    {
-      "id": 86,
-      "name": "seel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-23T13:48:44.745Z"
     }
   ],
   "pokemon": {
@@ -394,6 +396,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:00:11.050Z",
       "lastPulledAt": "2026-09-17T22:00:11.050Z"
+    },
+    "211": {
+      "id": 211,
+      "name": "qwilfish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-25T01:42:54.996Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:42:54.996Z",
+      "lastPulledAt": "2026-09-25T01:42:54.996Z"
     },
     "240": {
       "id": 240,
