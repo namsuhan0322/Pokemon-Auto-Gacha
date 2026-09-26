@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-26T19:18:34.194Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-26T22:00:01.884Z",
   "lastPull": {
-    "id": 454,
-    "name": "toxicroak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "id": 548,
+    "name": "petilil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
     "types": [
-      "poison",
-      "fighting"
+      "grass"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-26T19:18:34.194Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-09-26T22:00:01.884Z"
   },
   "pulls": [
+    {
+      "id": 548,
+      "name": "petilil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:00:01.884Z"
+    },
     {
       "id": 454,
       "name": "toxicroak",
@@ -118,17 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-09-25T12:19:26.705Z"
-    },
-    {
-      "id": 158,
-      "name": "totodile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-09-25T06:41:21.631Z"
     }
   ],
   "pokemon": {
@@ -797,6 +796,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:46:00.230Z",
       "lastPulledAt": "2026-09-19T14:46:00.230Z"
+    },
+    "548": {
+      "id": 548,
+      "name": "petilil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-26T22:00:01.884Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T22:00:01.884Z",
+      "lastPulledAt": "2026-09-26T22:00:01.884Z"
     },
     "580": {
       "id": 580,
