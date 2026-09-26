@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T23:30:11.592Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-26T01:53:11.922Z",
   "lastPull": {
-    "id": 865,
-    "name": "sirfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "id": 318,
+    "name": "carvanha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
     "types": [
-      "fighting"
+      "water",
+      "dark"
     ],
-    "totalStats": 507,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T23:30:11.592Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-26T01:53:11.922Z"
   },
   "pulls": [
+    {
+      "id": 318,
+      "name": "carvanha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-26T01:53:11.922Z"
+    },
     {
       "id": 865,
       "name": "sirfetchd",
@@ -115,17 +128,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-24T17:20:42.609Z"
-    },
-    {
-      "id": 371,
-      "name": "bagon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-24T12:19:16.430Z"
     }
   ],
   "pokemon": {
@@ -516,6 +518,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:36:00.380Z",
       "lastPulledAt": "2026-09-20T01:36:00.380Z"
+    },
+    "318": {
+      "id": 318,
+      "name": "carvanha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-26T01:53:11.922Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T01:53:11.922Z",
+      "lastPulledAt": "2026-09-26T01:53:11.922Z"
     },
     "321": {
       "id": 321,
