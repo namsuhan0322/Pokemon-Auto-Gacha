@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T15:19:51.916Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T19:04:00.323Z",
   "lastPull": {
-    "id": 510,
-    "name": "liepard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "id": 37,
+    "name": "vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "types": [
-      "dark"
+      "fire"
     ],
-    "totalStats": 446,
-    "grade": "R",
-    "pulledAt": "2026-09-27T15:19:51.916Z"
+    "totalStats": 299,
+    "grade": "N",
+    "pulledAt": "2026-09-27T19:04:00.323Z"
   },
   "pulls": [
+    {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-09-27T19:04:00.323Z"
+    },
     {
       "id": 510,
       "name": "liepard",
@@ -117,18 +128,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-09-26T06:59:54.543Z"
-    },
-    {
-      "id": 318,
-      "name": "carvanha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-26T01:53:11.922Z"
     }
   ],
   "pokemon": {
@@ -147,6 +146,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T06:59:54.543Z",
       "lastPulledAt": "2026-09-26T06:59:54.543Z"
+    },
+    "37": {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-09-27T19:04:00.323Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T19:04:00.323Z",
+      "lastPulledAt": "2026-09-27T19:04:00.323Z"
     },
     "44": {
       "id": 44,
