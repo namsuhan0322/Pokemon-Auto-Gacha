@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T05:32:26.531Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T10:42:46.288Z",
   "lastPull": {
-    "id": 229,
-    "name": "houndoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "id": 932,
+    "name": "nacli",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
     "types": [
-      "dark",
-      "fire"
+      "rock"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T05:32:26.531Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-09-27T10:42:46.288Z"
   },
   "pulls": [
+    {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T10:42:46.288Z"
+    },
     {
       "id": 229,
       "name": "houndoom",
@@ -119,17 +129,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-25T23:30:11.592Z"
-    },
-    {
-      "id": 705,
-      "name": "sliggoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-09-25T20:33:19.467Z"
     }
   ],
   "pokemon": {
@@ -1140,6 +1139,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:20:42.609Z",
       "lastPulledAt": "2026-09-24T17:20:42.609Z"
+    },
+    "932": {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T10:42:46.288Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:42:46.288Z",
+      "lastPulledAt": "2026-09-27T10:42:46.288Z"
     },
     "951": {
       "id": 951,
