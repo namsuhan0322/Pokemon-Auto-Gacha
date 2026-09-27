@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-27T10:42:46.288Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T15:19:51.916Z",
   "lastPull": {
-    "id": 932,
-    "name": "nacli",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+    "id": 510,
+    "name": "liepard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
     "types": [
-      "rock"
+      "dark"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-09-27T10:42:46.288Z"
+    "totalStats": 446,
+    "grade": "R",
+    "pulledAt": "2026-09-27T15:19:51.916Z"
   },
   "pulls": [
+    {
+      "id": 510,
+      "name": "liepard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 446,
+      "grade": "R",
+      "pulledAt": "2026-09-27T15:19:51.916Z"
+    },
     {
       "id": 932,
       "name": "nacli",
@@ -118,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-26T01:53:11.922Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T23:30:11.592Z"
     }
   ],
   "pokemon": {
@@ -828,6 +828,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:46:00.230Z",
       "lastPulledAt": "2026-09-19T14:46:00.230Z"
+    },
+    "510": {
+      "id": 510,
+      "name": "liepard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 446,
+      "grade": "R",
+      "pulledAt": "2026-09-27T15:19:51.916Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T15:19:51.916Z",
+      "lastPulledAt": "2026-09-27T15:19:51.916Z"
     },
     "548": {
       "id": 548,
