@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-26T22:00:01.884Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-27T00:25:40.279Z",
   "lastPull": {
-    "id": 548,
-    "name": "petilil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "id": 341,
+    "name": "corphish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 280,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-09-26T22:00:01.884Z"
+    "pulledAt": "2026-09-27T00:25:40.279Z"
   },
   "pulls": [
+    {
+      "id": 341,
+      "name": "corphish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:25:40.279Z"
+    },
     {
       "id": 548,
       "name": "petilil",
@@ -117,17 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T17:20:00.800Z"
-    },
-    {
-      "id": 921,
-      "name": "pawmi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-09-25T12:19:26.705Z"
     }
   ],
   "pokemon": {
@@ -581,6 +581,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:22:05.356Z",
       "lastPulledAt": "2026-09-16T06:22:05.356Z"
+    },
+    "341": {
+      "id": 341,
+      "name": "corphish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-27T00:25:40.279Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T00:25:40.279Z",
+      "lastPulledAt": "2026-09-27T00:25:40.279Z"
     },
     "351": {
       "id": 351,
