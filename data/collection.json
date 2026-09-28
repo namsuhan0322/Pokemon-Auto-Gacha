@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T12:02:40.676Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T19:37:40.239Z",
   "lastPull": {
-    "id": 438,
-    "name": "bonsly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "id": 863,
+    "name": "perrserker",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
     "types": [
-      "rock"
+      "steel"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-28T12:02:40.676Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-09-28T19:37:40.239Z"
   },
   "pulls": [
+    {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-28T19:37:40.239Z"
+    },
     {
       "id": 438,
       "name": "bonsly",
@@ -114,17 +125,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-09-27T00:25:40.279Z"
-    },
-    {
-      "id": 548,
-      "name": "petilil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-26T22:00:01.884Z"
     }
   ],
   "pokemon": {
@@ -1116,6 +1116,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T17:20:00.800Z",
       "lastPulledAt": "2026-09-25T17:20:00.800Z"
+    },
+    "863": {
+      "id": 863,
+      "name": "perrserker",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-28T19:37:40.239Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T19:37:40.239Z",
+      "lastPulledAt": "2026-09-28T19:37:40.239Z"
     },
     "865": {
       "id": 865,
