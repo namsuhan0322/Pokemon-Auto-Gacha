@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-28T19:37:40.239Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-28T23:55:37.805Z",
   "lastPull": {
-    "id": 863,
-    "name": "perrserker",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "id": 87,
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "types": [
-      "steel"
+      "water",
+      "ice"
     ],
-    "totalStats": 440,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-09-28T19:37:40.239Z"
+    "pulledAt": "2026-09-28T23:55:37.805Z"
   },
   "pulls": [
+    {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-28T23:55:37.805Z"
+    },
     {
       "id": 863,
       "name": "perrserker",
@@ -114,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-27T05:32:26.531Z"
-    },
-    {
-      "id": 341,
-      "name": "corphish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-09-27T00:25:40.279Z"
     }
   ],
   "pokemon": {
@@ -283,6 +285,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T13:48:44.745Z",
       "lastPulledAt": "2026-09-23T13:48:44.745Z"
+    },
+    "87": {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-28T23:55:37.805Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T23:55:37.805Z",
+      "lastPulledAt": "2026-09-28T23:55:37.805Z"
     },
     "94": {
       "id": 94,
