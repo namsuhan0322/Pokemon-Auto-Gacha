@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-09-27T22:03:17.610Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-09-28T00:37:20.539Z",
   "lastPull": {
-    "id": 1007,
-    "name": "koraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+    "id": 134,
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "types": [
-      "fighting",
-      "dragon"
+      "water"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-27T22:03:17.610Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T00:37:20.539Z"
   },
   "pulls": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T00:37:20.539Z"
+    },
     {
       "id": 1007,
       "name": "koraidon",
@@ -117,18 +127,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-26T16:28:01.340Z"
-    },
-    {
-      "id": 866,
-      "name": "mr-rime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
-      "types": [
-        "ice",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T12:10:46.752Z"
     }
   ],
   "pokemon": {
@@ -348,6 +346,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:03:49.872Z",
       "lastPulledAt": "2026-09-20T12:03:49.872Z"
+    },
+    "134": {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T00:37:20.539Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T00:37:20.539Z",
+      "lastPulledAt": "2026-09-28T00:37:20.539Z"
     },
     "151": {
       "id": 151,
