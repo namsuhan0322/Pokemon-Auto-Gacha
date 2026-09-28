@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-28T00:37:20.539Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T05:50:07.300Z",
   "lastPull": {
-    "id": 134,
-    "name": "vaporeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "id": 370,
+    "name": "luvdisc",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
     "types": [
       "water"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T00:37:20.539Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-28T05:50:07.300Z"
   },
   "pulls": [
+    {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-28T05:50:07.300Z"
+    },
     {
       "id": 134,
       "name": "vaporeon",
@@ -115,18 +126,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-26T19:18:34.194Z"
-    },
-    {
-      "id": 1009,
-      "name": "walking-wake",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T16:28:01.340Z"
     }
   ],
   "pokemon": {
@@ -671,6 +670,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:21:58.278Z",
       "lastPulledAt": "2026-09-17T05:21:58.278Z"
+    },
+    "370": {
+      "id": 370,
+      "name": "luvdisc",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-28T05:50:07.300Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T05:50:07.300Z",
+      "lastPulledAt": "2026-09-28T05:50:07.300Z"
     },
     "371": {
       "id": 371,
