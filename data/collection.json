@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-29T16:37:42.271Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-29T21:01:39.218Z",
   "lastPull": {
-    "id": 2,
-    "name": "ivysaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "id": 42,
+    "name": "golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
     "types": [
-      "grass",
-      "poison"
+      "poison",
+      "flying"
     ],
-    "totalStats": 405,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-09-29T16:37:42.271Z"
+    "pulledAt": "2026-09-29T21:01:39.218Z"
   },
   "pulls": [
+    {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-29T21:01:39.218Z"
+    },
     {
       "id": 2,
       "name": "ivysaur",
@@ -118,17 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-27T22:03:17.610Z"
-    },
-    {
-      "id": 37,
-      "name": "vulpix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 299,
-      "grade": "N",
-      "pulledAt": "2026-09-27T19:04:00.323Z"
     }
   ],
   "pokemon": {
@@ -178,6 +179,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:04:00.323Z",
       "lastPulledAt": "2026-09-27T19:04:00.323Z"
+    },
+    "42": {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-29T21:01:39.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T21:01:39.218Z",
+      "lastPulledAt": "2026-09-29T21:01:39.218Z"
     },
     "44": {
       "id": 44,
