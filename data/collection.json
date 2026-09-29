@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T04:05:03.518Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T10:37:12.877Z",
   "lastPull": {
-    "id": 227,
-    "name": "skarmory",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "id": 779,
+    "name": "bruxish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
     "types": [
-      "steel",
-      "flying"
+      "water",
+      "psychic"
     ],
-    "totalStats": 465,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-09-29T04:05:03.518Z"
+    "pulledAt": "2026-09-29T10:37:12.877Z"
   },
   "pulls": [
+    {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-29T10:37:12.877Z"
+    },
     {
       "id": 227,
       "name": "skarmory",
@@ -116,17 +128,6 @@
       "totalStats": 446,
       "grade": "R",
       "pulledAt": "2026-09-27T15:19:51.916Z"
-    },
-    {
-      "id": 932,
-      "name": "nacli",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-27T10:42:46.288Z"
     }
   ],
   "pokemon": {
@@ -1104,6 +1105,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T21:25:01.609Z",
       "lastPulledAt": "2026-09-23T21:25:01.609Z"
+    },
+    "779": {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-29T10:37:12.877Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T10:37:12.877Z",
+      "lastPulledAt": "2026-09-29T10:37:12.877Z"
     },
     "797": {
       "id": 797,
