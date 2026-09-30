@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T21:01:39.218Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-30T00:21:34.001Z",
   "lastPull": {
-    "id": 42,
-    "name": "golbat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
-      "poison",
-      "flying"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-29T21:01:39.218Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T00:21:34.001Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T00:21:34.001Z"
+    },
     {
       "id": 42,
       "name": "golbat",
@@ -118,18 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-28T00:37:20.539Z"
-    },
-    {
-      "id": 1007,
-      "name": "koraidon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
-      "types": [
-        "fighting",
-        "dragon"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-27T22:03:17.610Z"
     }
   ],
   "pokemon": {
@@ -1420,6 +1420,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:41:44.831Z",
       "lastPulledAt": "2026-09-19T01:41:44.831Z"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T00:21:34.001Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T00:21:34.001Z",
+      "lastPulledAt": "2026-09-30T00:21:34.001Z"
     },
     "1007": {
       "id": 1007,
