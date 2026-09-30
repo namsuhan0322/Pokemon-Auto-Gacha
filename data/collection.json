@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T11:24:15.873Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T16:54:24.187Z",
   "lastPull": {
-    "id": 998,
-    "name": "baxcalibur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+    "id": 883,
+    "name": "arctovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
     "types": [
-      "dragon",
+      "water",
       "ice"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-30T11:24:15.873Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T16:54:24.187Z"
   },
   "pulls": [
+    {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T16:54:24.187Z"
+    },
     {
       "id": 998,
       "name": "baxcalibur",
@@ -120,17 +132,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-28T12:02:40.676Z"
-    },
-    {
-      "id": 370,
-      "name": "luvdisc",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-28T05:50:07.300Z"
     }
   ],
   "pokemon": {
@@ -1264,6 +1265,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:36:14.279Z",
       "lastPulledAt": "2026-09-16T01:36:14.279Z"
+    },
+    "883": {
+      "id": 883,
+      "name": "arctovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T16:54:24.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T16:54:24.187Z",
+      "lastPulledAt": "2026-09-30T16:54:24.187Z"
     },
     "890": {
       "id": 890,
