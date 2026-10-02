@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-02T02:11:12.108Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-02T08:36:49.930Z",
   "lastPull": {
-    "id": 103,
-    "name": "exeggutor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "id": 658,
+    "name": "greninja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
     "types": [
-      "grass",
-      "psychic"
+      "water",
+      "dark"
     ],
     "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-02T02:11:12.108Z"
+    "pulledAt": "2026-10-02T08:36:49.930Z"
   },
   "pulls": [
+    {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T08:36:49.930Z"
+    },
     {
       "id": 103,
       "name": "exeggutor",
@@ -122,18 +134,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-30T11:24:15.873Z"
-    },
-    {
-      "id": 1000,
-      "name": "gholdengo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T00:21:34.001Z"
     }
   ],
   "pokemon": {
@@ -1177,6 +1177,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:47:20.529Z",
       "lastPulledAt": "2026-09-24T06:47:20.529Z"
+    },
+    "658": {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T08:36:49.930Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T08:36:49.930Z",
+      "lastPulledAt": "2026-10-02T08:36:49.930Z"
     },
     "684": {
       "id": 684,
