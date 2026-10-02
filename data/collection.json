@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-02T08:36:49.930Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-02T14:57:55.319Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
-      "water",
-      "dark"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 530,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-10-02T08:36:49.930Z"
+    "pulledAt": "2026-10-02T14:57:55.319Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T14:57:55.319Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -122,18 +134,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-30T16:54:24.187Z"
-    },
-    {
-      "id": 998,
-      "name": "baxcalibur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-30T11:24:15.873Z"
     }
   ],
   "pokemon": {
@@ -1596,10 +1596,10 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-30T00:21:34.001Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T00:21:34.001Z",
-      "lastPulledAt": "2026-09-30T00:21:34.001Z"
+      "lastPulledAt": "2026-10-02T14:57:55.319Z"
     },
     "1007": {
       "id": 1007,
