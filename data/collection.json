@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-02T14:57:55.319Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T19:48:24.720Z",
   "lastPull": {
-    "id": 1000,
-    "name": "gholdengo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "id": 725,
+    "name": "litten",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
     "types": [
-      "steel",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T14:57:55.319Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-02T19:48:24.720Z"
   },
   "pulls": [
+    {
+      "id": 725,
+      "name": "litten",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-02T19:48:24.720Z"
+    },
     {
       "id": 1000,
       "name": "gholdengo",
@@ -122,18 +132,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-30T21:10:48.679Z"
-    },
-    {
-      "id": 883,
-      "name": "arctovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T16:54:24.187Z"
     }
   ],
   "pokemon": {
@@ -1271,6 +1269,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T21:25:01.609Z",
       "lastPulledAt": "2026-09-23T21:25:01.609Z"
+    },
+    "725": {
+      "id": 725,
+      "name": "litten",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-02T19:48:24.720Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T19:48:24.720Z",
+      "lastPulledAt": "2026-10-02T19:48:24.720Z"
     },
     "779": {
       "id": 779,
