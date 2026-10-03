@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-10-03T13:19:25.751Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-10-03T17:26:10.237Z",
   "lastPull": {
-    "id": 267,
-    "name": "beautifly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "id": 236,
+    "name": "tyrogue",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
     "types": [
-      "bug",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 395,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-10-03T13:19:25.751Z"
+    "pulledAt": "2026-10-03T17:26:10.237Z"
   },
   "pulls": [
+    {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-03T17:26:10.237Z"
+    },
     {
       "id": 267,
       "name": "beautifly",
@@ -119,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-01T23:07:40.047Z"
-    },
-    {
-      "id": 267,
-      "name": "beautifly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-01T19:04:40.740Z"
     }
   ],
   "pokemon": {
@@ -601,6 +599,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:32:26.531Z",
       "lastPulledAt": "2026-09-27T05:32:26.531Z"
+    },
+    "236": {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-03T17:26:10.237Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T17:26:10.237Z",
+      "lastPulledAt": "2026-10-03T17:26:10.237Z"
     },
     "240": {
       "id": 240,
