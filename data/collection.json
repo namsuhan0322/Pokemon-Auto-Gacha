@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-03T08:01:11.041Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-03T13:19:25.751Z",
   "lastPull": {
-    "id": 584,
-    "name": "vanilluxe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "id": 267,
+    "name": "beautifly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
     "types": [
-      "ice"
+      "bug",
+      "flying"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T08:01:11.041Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-03T13:19:25.751Z"
   },
   "pulls": [
+    {
+      "id": 267,
+      "name": "beautifly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-03T13:19:25.751Z"
+    },
     {
       "id": 584,
       "name": "vanilluxe",
@@ -118,18 +131,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-01T19:04:40.740Z"
-    },
-    {
-      "id": 167,
-      "name": "spinarak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-01T13:47:57.796Z"
     }
   ],
   "pokemon": {
@@ -643,10 +644,10 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-01T19:04:40.740Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:04:40.740Z",
-      "lastPulledAt": "2026-10-01T19:04:40.740Z"
+      "lastPulledAt": "2026-10-03T13:19:25.751Z"
     },
     "269": {
       "id": 269,
