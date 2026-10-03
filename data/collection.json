@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-02T23:18:26.690Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-03T02:05:51.628Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 782,
+    "name": "jangmo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
     "types": [
-      "water",
-      "grass"
+      "dragon"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-02T23:18:26.690Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-03T02:05:51.628Z"
   },
   "pulls": [
+    {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T02:05:51.628Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -121,18 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-01T06:29:47.106Z"
-    },
-    {
-      "id": 303,
-      "name": "mawile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-01T00:35:28.835Z"
     }
   ],
   "pokemon": {
@@ -1317,6 +1315,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T10:37:12.877Z",
       "lastPulledAt": "2026-09-29T10:37:12.877Z"
+    },
+    "782": {
+      "id": 782,
+      "name": "jangmo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T02:05:51.628Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T02:05:51.628Z",
+      "lastPulledAt": "2026-10-03T02:05:51.628Z"
     },
     "797": {
       "id": 797,
