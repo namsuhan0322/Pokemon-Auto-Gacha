@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-04T14:21:26.451Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T18:15:55.056Z",
   "lastPull": {
-    "id": 35,
-    "name": "clefairy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "fairy"
+      "water",
+      "psychic"
     ],
-    "totalStats": 323,
-    "grade": "N",
-    "pulledAt": "2026-10-04T14:21:26.451Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T18:15:55.056Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:15:55.056Z"
+    },
     {
       "id": 35,
       "name": "clefairy",
@@ -115,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-03T02:05:51.628Z"
-    },
-    {
-      "id": 272,
-      "name": "ludicolo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-02T23:18:26.690Z"
     }
   ],
   "pokemon": {
@@ -441,6 +442,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:03:49.872Z",
       "lastPulledAt": "2026-09-20T12:03:49.872Z"
+    },
+    "121": {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:15:55.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T18:15:55.056Z",
+      "lastPulledAt": "2026-10-04T18:15:55.056Z"
     },
     "134": {
       "id": 134,
