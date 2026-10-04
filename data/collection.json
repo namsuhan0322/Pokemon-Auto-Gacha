@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-04T18:15:55.056Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-04T21:35:22.055Z",
   "lastPull": {
-    "id": 121,
-    "name": "starmie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "id": 655,
+    "name": "delphox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
     "types": [
-      "water",
+      "fire",
       "psychic"
     ],
-    "totalStats": 520,
+    "totalStats": 534,
     "grade": "SR",
-    "pulledAt": "2026-10-04T18:15:55.056Z"
+    "pulledAt": "2026-10-04T21:35:22.055Z"
   },
   "pulls": [
+    {
+      "id": 655,
+      "name": "delphox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T21:35:22.055Z"
+    },
     {
       "id": 121,
       "name": "starmie",
@@ -117,17 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-03T08:01:11.041Z"
-    },
-    {
-      "id": 782,
-      "name": "jangmo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-03T02:05:51.628Z"
     }
   ],
   "pokemon": {
@@ -1279,6 +1280,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:47:20.529Z",
       "lastPulledAt": "2026-09-24T06:47:20.529Z"
+    },
+    "655": {
+      "id": 655,
+      "name": "delphox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T21:35:22.055Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T21:35:22.055Z",
+      "lastPulledAt": "2026-10-04T21:35:22.055Z"
     },
     "658": {
       "id": 658,
