@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-04T02:20:32.142Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-04T08:38:05.305Z",
   "lastPull": {
-    "id": 962,
-    "name": "bombirdier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "flying",
-      "dark"
+      "grass"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-04T02:20:32.142Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T08:38:05.305Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T08:38:05.305Z"
+    },
     {
       "id": 962,
       "name": "bombirdier",
@@ -117,18 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-02T19:48:24.720Z"
-    },
-    {
-      "id": 1000,
-      "name": "gholdengo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T14:57:55.319Z"
     }
   ],
   "pokemon": {
@@ -1049,6 +1047,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T08:29:39.947Z",
       "lastPulledAt": "2026-09-23T08:29:39.947Z"
+    },
+    "465": {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T08:38:05.305Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T08:38:05.305Z",
+      "lastPulledAt": "2026-10-04T08:38:05.305Z"
     },
     "491": {
       "id": 491,
