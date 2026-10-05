@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T12:35:33.938Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T20:48:28.969Z",
   "lastPull": {
-    "id": 823,
-    "name": "corviknight",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "id": 520,
+    "name": "tranquill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
     "types": [
-      "flying",
-      "steel"
+      "normal",
+      "flying"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-05T12:35:33.938Z"
+    "totalStats": 358,
+    "grade": "N",
+    "pulledAt": "2026-10-05T20:48:28.969Z"
   },
   "pulls": [
+    {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-10-05T20:48:28.969Z"
+    },
     {
       "id": 823,
       "name": "corviknight",
@@ -119,17 +131,6 @@
       "totalStats": 236,
       "grade": "N",
       "pulledAt": "2026-10-03T22:51:01.948Z"
-    },
-    {
-      "id": 814,
-      "name": "raboot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-03T20:04:21.404Z"
     }
   ],
   "pokemon": {
@@ -1172,6 +1173,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:19:51.916Z",
       "lastPulledAt": "2026-09-27T15:19:51.916Z"
+    },
+    "520": {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-10-05T20:48:28.969Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T20:48:28.969Z",
+      "lastPulledAt": "2026-10-05T20:48:28.969Z"
     },
     "548": {
       "id": 548,
