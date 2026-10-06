@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-06T01:31:10.224Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-06T08:05:04.764Z",
   "lastPull": {
-    "id": 180,
-    "name": "flaaffy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "id": 192,
+    "name": "sunflora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
     "types": [
-      "electric"
+      "grass"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-10-06T01:31:10.224Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-06T08:05:04.764Z"
   },
   "pulls": [
+    {
+      "id": 192,
+      "name": "sunflora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-06T08:05:04.764Z"
+    },
     {
       "id": 180,
       "name": "flaaffy",
@@ -117,18 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-04T08:38:05.305Z"
-    },
-    {
-      "id": 962,
-      "name": "bombirdier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-      "types": [
-        "flying",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-04T02:20:32.142Z"
     }
   ],
   "pokemon": {
@@ -562,10 +561,10 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-09-18T21:54:23.098Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:54:23.098Z",
-      "lastPulledAt": "2026-09-18T21:54:23.098Z"
+      "lastPulledAt": "2026-10-06T08:05:04.764Z"
     },
     "204": {
       "id": 204,
