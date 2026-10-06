@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-06T15:04:09.462Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-06T20:12:32.718Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 400,
+    "name": "bibarel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
     "types": [
-      "fire"
+      "normal",
+      "water"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-10-06T15:04:09.462Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-06T20:12:32.718Z"
   },
   "pulls": [
+    {
+      "id": 400,
+      "name": "bibarel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T20:12:32.718Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -117,17 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-04T18:15:55.056Z"
-    },
-    {
-      "id": 35,
-      "name": "clefairy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 323,
-      "grade": "N",
-      "pulledAt": "2026-10-04T14:21:26.451Z"
     }
   ],
   "pokemon": {
@@ -971,6 +973,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:37:00.116Z",
       "lastPulledAt": "2026-09-19T23:37:00.116Z"
+    },
+    "400": {
+      "id": 400,
+      "name": "bibarel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+      "types": [
+        "normal",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T20:12:32.718Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T20:12:32.718Z",
+      "lastPulledAt": "2026-10-06T20:12:32.718Z"
     },
     "403": {
       "id": 403,
