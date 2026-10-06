@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-06T08:05:04.764Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-06T15:04:09.462Z",
   "lastPull": {
-    "id": 192,
-    "name": "sunflora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "id": 240,
+    "name": "magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
     "types": [
-      "grass"
+      "fire"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-06T08:05:04.764Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-10-06T15:04:09.462Z"
   },
   "pulls": [
+    {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:04:09.462Z"
+    },
     {
       "id": 192,
       "name": "sunflora",
@@ -117,17 +128,6 @@
       "totalStats": 323,
       "grade": "N",
       "pulledAt": "2026-10-04T14:21:26.451Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T08:38:05.305Z"
     }
   ],
   "pokemon": {
@@ -670,10 +670,10 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-09-19T06:41:44.842Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:41:44.842Z",
-      "lastPulledAt": "2026-09-19T06:41:44.842Z"
+      "lastPulledAt": "2026-10-06T15:04:09.462Z"
     },
     "259": {
       "id": 259,
