@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-06T23:51:39.789Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-07T03:59:27.237Z",
   "lastPull": {
-    "id": 157,
-    "name": "typhlosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "id": 224,
+    "name": "octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-06T23:51:39.789Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-07T03:59:27.237Z"
   },
   "pulls": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-07T03:59:27.237Z"
+    },
     {
       "id": 157,
       "name": "typhlosion",
@@ -116,18 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-05T00:08:20.385Z"
-    },
-    {
-      "id": 655,
-      "name": "delphox",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T21:35:22.055Z"
     }
   ],
   "pokemon": {
@@ -627,6 +626,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:42:54.996Z",
       "lastPulledAt": "2026-09-25T01:42:54.996Z"
+    },
+    "224": {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-07T03:59:27.237Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T03:59:27.237Z",
+      "lastPulledAt": "2026-10-07T03:59:27.237Z"
     },
     "227": {
       "id": 227,
