@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-10-07T03:59:27.237Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-10-07T10:58:32.841Z",
   "lastPull": {
-    "id": 224,
-    "name": "octillery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "id": 733,
+    "name": "toucannon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
     "types": [
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 480,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-07T03:59:27.237Z"
+    "pulledAt": "2026-10-07T10:58:32.841Z"
   },
   "pulls": [
+    {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-07T10:58:32.841Z"
+    },
     {
       "id": 224,
       "name": "octillery",
@@ -115,18 +128,6 @@
       "totalStats": 263,
       "grade": "N",
       "pulledAt": "2026-10-05T05:31:52.538Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T00:08:20.385Z"
     }
   ],
   "pokemon": {
@@ -1495,6 +1496,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T19:48:24.720Z",
       "lastPulledAt": "2026-10-02T19:48:24.720Z"
+    },
+    "733": {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-07T10:58:32.841Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T10:58:32.841Z",
+      "lastPulledAt": "2026-10-07T10:58:32.841Z"
     },
     "779": {
       "id": 779,
