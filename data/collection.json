@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-08T02:03:04.571Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-08T08:53:15.262Z",
   "lastPull": {
-    "id": 140,
-    "name": "kabuto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "id": 513,
+    "name": "pansear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
     "types": [
-      "rock",
-      "water"
+      "fire"
     ],
-    "totalStats": 355,
+    "totalStats": 316,
     "grade": "N",
-    "pulledAt": "2026-10-08T02:03:04.571Z"
+    "pulledAt": "2026-10-08T08:53:15.262Z"
   },
   "pulls": [
+    {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-10-08T08:53:15.262Z"
+    },
     {
       "id": 140,
       "name": "kabuto",
@@ -117,17 +127,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-06T08:05:04.764Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-06T01:31:10.224Z"
     }
   ],
   "pokemon": {
@@ -1263,6 +1262,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:19:51.916Z",
       "lastPulledAt": "2026-09-27T15:19:51.916Z"
+    },
+    "513": {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-10-08T08:53:15.262Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T08:53:15.262Z",
+      "lastPulledAt": "2026-10-08T08:53:15.262Z"
     },
     "520": {
       "id": 520,
