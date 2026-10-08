@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-07T22:17:16.307Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-08T02:03:04.571Z",
   "lastPull": {
-    "id": 130,
-    "name": "gyarados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "id": 140,
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "types": [
-      "water",
-      "flying"
+      "rock",
+      "water"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T22:17:16.307Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-10-08T02:03:04.571Z"
   },
   "pulls": [
+    {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-08T02:03:04.571Z"
+    },
     {
       "id": 130,
       "name": "gyarados",
@@ -116,18 +128,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-06T01:31:10.224Z"
-    },
-    {
-      "id": 520,
-      "name": "tranquill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 358,
-      "grade": "N",
-      "pulledAt": "2026-10-05T20:48:28.969Z"
     }
   ],
   "pokemon": {
@@ -489,6 +489,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:37:20.539Z",
       "lastPulledAt": "2026-09-28T00:37:20.539Z"
+    },
+    "140": {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-08T02:03:04.571Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T02:03:04.571Z",
+      "lastPulledAt": "2026-10-08T02:03:04.571Z"
     },
     "151": {
       "id": 151,
