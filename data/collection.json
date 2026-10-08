@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-08T08:53:15.262Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-08T16:05:25.573Z",
   "lastPull": {
-    "id": 513,
-    "name": "pansear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "id": 260,
+    "name": "swampert",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
     "types": [
-      "fire"
+      "water",
+      "ground"
     ],
-    "totalStats": 316,
-    "grade": "N",
-    "pulledAt": "2026-10-08T08:53:15.262Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-08T16:05:25.573Z"
   },
   "pulls": [
+    {
+      "id": 260,
+      "name": "swampert",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T16:05:25.573Z"
+    },
     {
       "id": 513,
       "name": "pansear",
@@ -116,17 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-06T15:04:09.462Z"
-    },
-    {
-      "id": 192,
-      "name": "sunflora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-06T08:05:04.764Z"
     }
   ],
   "pokemon": {
@@ -751,6 +753,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T23:52:17.521Z",
       "lastPulledAt": "2026-09-22T23:52:17.521Z"
+    },
+    "260": {
+      "id": 260,
+      "name": "swampert",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T16:05:25.573Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T16:05:25.573Z",
+      "lastPulledAt": "2026-10-08T16:05:25.573Z"
     },
     "267": {
       "id": 267,
