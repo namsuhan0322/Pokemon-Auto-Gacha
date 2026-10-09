@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-09T01:15:33.421Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-09T07:27:37.951Z",
   "lastPull": {
-    "id": 748,
-    "name": "toxapex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "id": 826,
+    "name": "orbeetle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
     "types": [
-      "poison",
-      "water"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-09T01:15:33.421Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T07:27:37.951Z"
   },
   "pulls": [
+    {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T07:27:37.951Z"
+    },
     {
       "id": 748,
       "name": "toxapex",
@@ -119,17 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-07T03:59:27.237Z"
-    },
-    {
-      "id": 157,
-      "name": "typhlosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T23:51:39.789Z"
     }
   ],
   "pokemon": {
@@ -1702,6 +1703,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T12:35:33.938Z",
       "lastPulledAt": "2026-10-05T12:35:33.938Z"
+    },
+    "826": {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T07:27:37.951Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T07:27:37.951Z",
+      "lastPulledAt": "2026-10-09T07:27:37.951Z"
     },
     "828": {
       "id": 828,
