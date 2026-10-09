@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-09T07:27:37.951Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-09T14:31:46.454Z",
   "lastPull": {
-    "id": 826,
-    "name": "orbeetle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "id": 680,
+    "name": "doublade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
     "types": [
-      "bug",
-      "psychic"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T07:27:37.951Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-10-09T14:31:46.454Z"
   },
   "pulls": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-10-09T14:31:46.454Z"
+    },
     {
       "id": 826,
       "name": "orbeetle",
@@ -120,17 +132,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-07T10:58:32.841Z"
-    },
-    {
-      "id": 224,
-      "name": "octillery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-07T03:59:27.237Z"
     }
   ],
   "pokemon": {
@@ -1485,6 +1486,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:36:49.930Z",
       "lastPulledAt": "2026-10-02T08:36:49.930Z"
+    },
+    "680": {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-10-09T14:31:46.454Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T14:31:46.454Z",
+      "lastPulledAt": "2026-10-09T14:31:46.454Z"
     },
     "684": {
       "id": 684,
