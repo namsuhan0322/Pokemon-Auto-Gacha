@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-08T21:16:00.368Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-09T01:15:33.421Z",
   "lastPull": {
-    "id": 592,
-    "name": "frillish-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "id": 748,
+    "name": "toxapex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
     "types": [
-      "water",
-      "ghost"
+      "poison",
+      "water"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-08T21:16:00.368Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-09T01:15:33.421Z"
   },
   "pulls": [
+    {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-09T01:15:33.421Z"
+    },
     {
       "id": 592,
       "name": "frillish-male",
@@ -118,18 +130,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-06T23:51:39.789Z"
-    },
-    {
-      "id": 400,
-      "name": "bibarel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
-      "types": [
-        "normal",
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-06T20:12:32.718Z"
     }
   ],
   "pokemon": {
@@ -1593,6 +1593,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T10:58:32.841Z",
       "lastPulledAt": "2026-10-07T10:58:32.841Z"
+    },
+    "748": {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-09T01:15:33.421Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T01:15:33.421Z",
+      "lastPulledAt": "2026-10-09T01:15:33.421Z"
     },
     "779": {
       "id": 779,
