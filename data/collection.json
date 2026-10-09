@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T14:31:46.454Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T19:42:43.333Z",
   "lastPull": {
-    "id": 680,
-    "name": "doublade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "id": 493,
+    "name": "arceus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
     "types": [
-      "steel",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 448,
-    "grade": "R",
-    "pulledAt": "2026-10-09T14:31:46.454Z"
+    "totalStats": 720,
+    "grade": "SSR",
+    "pulledAt": "2026-10-09T19:42:43.333Z"
   },
   "pulls": [
+    {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-09T19:42:43.333Z"
+    },
     {
       "id": 680,
       "name": "doublade",
@@ -120,18 +130,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-07T17:42:59.901Z"
-    },
-    {
-      "id": 733,
-      "name": "toucannon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-07T10:58:32.841Z"
     }
   ],
   "pokemon": {
@@ -1237,6 +1235,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:30:50.842Z",
       "lastPulledAt": "2026-09-19T19:30:50.842Z"
+    },
+    "493": {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-09T19:42:43.333Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T19:42:43.333Z",
+      "lastPulledAt": "2026-10-09T19:42:43.333Z"
     },
     "500": {
       "id": 500,
