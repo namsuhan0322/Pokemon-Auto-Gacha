@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T19:42:43.333Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T23:34:16.874Z",
   "lastPull": {
-    "id": 493,
-    "name": "arceus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "id": 286,
+    "name": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
     "types": [
-      "normal"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 720,
-    "grade": "SSR",
-    "pulledAt": "2026-10-09T19:42:43.333Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-09T23:34:16.874Z"
   },
   "pulls": [
+    {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-09T23:34:16.874Z"
+    },
     {
       "id": 493,
       "name": "arceus",
@@ -119,17 +132,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-07T22:17:16.307Z"
-    },
-    {
-      "id": 831,
-      "name": "wooloo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-07T17:42:59.901Z"
     }
   ],
   "pokemon": {
@@ -834,6 +836,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:38:23.410Z",
       "lastPulledAt": "2026-09-18T13:38:23.410Z"
+    },
+    "286": {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-09T23:34:16.874Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T23:34:16.874Z",
+      "lastPulledAt": "2026-10-09T23:34:16.874Z"
     },
     "292": {
       "id": 292,
