@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T19:20:46.963Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T22:47:17.573Z",
   "lastPull": {
-    "id": 202,
-    "name": "wobbuffet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "id": 537,
+    "name": "seismitoad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
     "types": [
-      "psychic"
+      "water",
+      "ground"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-10T19:20:46.963Z"
+    "totalStats": 509,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T22:47:17.573Z"
   },
   "pulls": [
+    {
+      "id": 537,
+      "name": "seismitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 509,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T22:47:17.573Z"
+    },
     {
       "id": 202,
       "name": "wobbuffet",
@@ -117,18 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-09T01:15:33.421Z"
-    },
-    {
-      "id": 592,
-      "name": "frillish-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-08T21:16:00.368Z"
     }
   ],
   "pokemon": {
@@ -1357,6 +1358,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T20:48:28.969Z",
       "lastPulledAt": "2026-10-05T20:48:28.969Z"
+    },
+    "537": {
+      "id": 537,
+      "name": "seismitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 509,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T22:47:17.573Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T22:47:17.573Z",
+      "lastPulledAt": "2026-10-10T22:47:17.573Z"
     },
     "548": {
       "id": 548,
