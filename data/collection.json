@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-10T02:42:10.845Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T09:05:40.295Z",
   "lastPull": {
-    "id": 993,
-    "name": "iron-jugulis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "dark",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 507,
     "grade": "SR",
-    "pulledAt": "2026-10-10T02:42:10.845Z"
+    "pulledAt": "2026-10-10T09:05:40.295Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T09:05:40.295Z"
+    },
     {
       "id": 993,
       "name": "iron-jugulis",
@@ -120,18 +130,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-10-08T08:53:15.262Z"
-    },
-    {
-      "id": 140,
-      "name": "kabuto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-08T02:03:04.571Z"
     }
   ],
   "pokemon": {
@@ -1839,10 +1837,10 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-25T23:30:11.592Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:30:11.592Z",
-      "lastPulledAt": "2026-09-25T23:30:11.592Z"
+      "lastPulledAt": "2026-10-10T09:05:40.295Z"
     },
     "866": {
       "id": 866,
