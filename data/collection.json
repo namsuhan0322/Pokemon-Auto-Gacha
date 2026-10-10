@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-10T09:05:40.295Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-10T15:17:58.948Z",
   "lastPull": {
-    "id": 865,
-    "name": "sirfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "id": 601,
+    "name": "klinklang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
     "types": [
-      "fighting"
+      "steel"
     ],
-    "totalStats": 507,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-10-10T09:05:40.295Z"
+    "pulledAt": "2026-10-10T15:17:58.948Z"
   },
   "pulls": [
+    {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:17:58.948Z"
+    },
     {
       "id": 865,
       "name": "sirfetchd",
@@ -119,17 +130,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-08T16:05:25.573Z"
-    },
-    {
-      "id": 513,
-      "name": "pansear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-10-08T08:53:15.262Z"
     }
   ],
   "pokemon": {
@@ -1405,6 +1405,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T21:16:00.368Z",
       "lastPulledAt": "2026-10-08T21:16:00.368Z"
+    },
+    "601": {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T15:17:58.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T15:17:58.948Z",
+      "lastPulledAt": "2026-10-10T15:17:58.948Z"
     },
     "607": {
       "id": 607,
