@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T23:34:16.874Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-10T02:42:10.845Z",
   "lastPull": {
-    "id": 286,
-    "name": "breloom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "grass",
-      "fighting"
+      "dark",
+      "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-09T23:34:16.874Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T02:42:10.845Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T02:42:10.845Z"
+    },
     {
       "id": 286,
       "name": "breloom",
@@ -120,18 +132,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-08T02:03:04.571Z"
-    },
-    {
-      "id": 130,
-      "name": "gyarados",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T22:17:16.307Z"
     }
   ],
   "pokemon": {
@@ -2048,6 +2048,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:42:52.223Z",
       "lastPulledAt": "2026-09-19T21:42:52.223Z"
+    },
+    "993": {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T02:42:10.845Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T02:42:10.845Z",
+      "lastPulledAt": "2026-10-10T02:42:10.845Z"
     },
     "997": {
       "id": 997,
