@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-11T01:19:50.943Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-11T07:20:11.060Z",
   "lastPull": {
-    "id": 813,
-    "name": "scorbunny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "id": 36,
+    "name": "clefable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
     "types": [
-      "fire"
+      "fairy"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-11T01:19:50.943Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-10-11T07:20:11.060Z"
   },
   "pulls": [
+    {
+      "id": 36,
+      "name": "clefable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:20:11.060Z"
+    },
     {
       "id": 813,
       "name": "scorbunny",
@@ -116,18 +127,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-10-09T14:31:46.454Z"
-    },
-    {
-      "id": 826,
-      "name": "orbeetle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T07:27:37.951Z"
     }
   ],
   "pokemon": {
@@ -193,6 +192,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T14:21:26.451Z",
       "lastPulledAt": "2026-10-04T14:21:26.451Z"
+    },
+    "36": {
+      "id": 36,
+      "name": "clefable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:20:11.060Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T07:20:11.060Z",
+      "lastPulledAt": "2026-10-11T07:20:11.060Z"
     },
     "37": {
       "id": 37,
