@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-11T07:20:11.060Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-11T14:16:31.137Z",
   "lastPull": {
-    "id": 36,
-    "name": "clefable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "id": 346,
+    "name": "cradily",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
     "types": [
-      "fairy"
+      "rock",
+      "grass"
     ],
-    "totalStats": 483,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-11T07:20:11.060Z"
+    "pulledAt": "2026-10-11T14:16:31.137Z"
   },
   "pulls": [
+    {
+      "id": 346,
+      "name": "cradily",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-11T14:16:31.137Z"
+    },
     {
       "id": 36,
       "name": "clefable",
@@ -115,18 +128,6 @@
       "totalStats": 720,
       "grade": "SSR",
       "pulledAt": "2026-10-09T19:42:43.333Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-10-09T14:31:46.454Z"
     }
   ],
   "pokemon": {
@@ -1014,10 +1015,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-30T21:10:48.679Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T21:10:48.679Z",
-      "lastPulledAt": "2026-09-30T21:10:48.679Z"
+      "lastPulledAt": "2026-10-11T14:16:31.137Z"
     },
     "351": {
       "id": 351,
