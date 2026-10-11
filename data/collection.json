@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-10-11T14:16:31.137Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-10-11T18:59:01.614Z",
   "lastPull": {
-    "id": 346,
-    "name": "cradily",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "id": 6,
+    "name": "charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "types": [
-      "rock",
-      "grass"
+      "fire",
+      "flying"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-11T14:16:31.137Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T18:59:01.614Z"
   },
   "pulls": [
+    {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:59:01.614Z"
+    },
     {
       "id": 346,
       "name": "cradily",
@@ -117,17 +129,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-09T23:34:16.874Z"
-    },
-    {
-      "id": 493,
-      "name": "arceus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 720,
-      "grade": "SSR",
-      "pulledAt": "2026-10-09T19:42:43.333Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T16:37:42.271Z",
       "lastPulledAt": "2026-09-29T16:37:42.271Z"
+    },
+    "6": {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:59:01.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T18:59:01.614Z",
+      "lastPulledAt": "2026-10-11T18:59:01.614Z"
     },
     "22": {
       "id": 22,
