@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T18:59:01.614Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T22:44:59.026Z",
   "lastPull": {
-    "id": 6,
-    "name": "charizard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "id": 124,
+    "name": "jynx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
     "types": [
-      "fire",
-      "flying"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T18:59:01.614Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-11T22:44:59.026Z"
   },
   "pulls": [
+    {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:44:59.026Z"
+    },
     {
       "id": 6,
       "name": "charizard",
@@ -117,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-10T02:42:10.845Z"
-    },
-    {
-      "id": 286,
-      "name": "breloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-09T23:34:16.874Z"
     }
   ],
   "pokemon": {
@@ -490,6 +490,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:15:55.056Z",
       "lastPulledAt": "2026-10-04T18:15:55.056Z"
+    },
+    "124": {
+      "id": 124,
+      "name": "jynx",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:44:59.026Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:44:59.026Z",
+      "lastPulledAt": "2026-10-11T22:44:59.026Z"
     },
     "130": {
       "id": 130,
