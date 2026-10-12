@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-10-12T01:48:51.245Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-10-12T08:06:32.221Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 144,
+    "name": "articuno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
     "types": [
-      "steel",
-      "poison"
+      "ice",
+      "flying"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-12T01:48:51.245Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-12T08:06:32.221Z"
   },
   "pulls": [
+    {
+      "id": 144,
+      "name": "articuno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T08:06:32.221Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -118,17 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-10T15:17:58.948Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T09:05:40.295Z"
     }
   ],
   "pokemon": {
@@ -553,6 +554,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T02:03:04.571Z",
       "lastPulledAt": "2026-10-08T02:03:04.571Z"
+    },
+    "144": {
+      "id": 144,
+      "name": "articuno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T08:06:32.221Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T08:06:32.221Z",
+      "lastPulledAt": "2026-10-12T08:06:32.221Z"
     },
     "151": {
       "id": 151,
