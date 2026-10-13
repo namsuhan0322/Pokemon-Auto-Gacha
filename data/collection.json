@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-13T03:57:42.577Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-13T11:30:37.604Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 107,
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "types": [
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 292,
-    "grade": "N",
-    "pulledAt": "2026-10-13T03:57:42.577Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-13T11:30:37.604Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-13T11:30:37.604Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -118,17 +129,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-11T07:20:11.060Z"
-    },
-    {
-      "id": 813,
-      "name": "scorbunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-11T01:19:50.943Z"
     }
   ],
   "pokemon": {
@@ -444,6 +444,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T02:11:12.108Z",
       "lastPulledAt": "2026-10-02T02:11:12.108Z"
+    },
+    "107": {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-13T11:30:37.604Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T11:30:37.604Z",
+      "lastPulledAt": "2026-10-13T11:30:37.604Z"
     },
     "115": {
       "id": 115,
