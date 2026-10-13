@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-12T23:49:08.207Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-13T03:57:42.577Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 517,
+    "name": "munna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
     "types": [
-      "fire",
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T23:49:08.207Z"
+    "totalStats": 292,
+    "grade": "N",
+    "pulledAt": "2026-10-13T03:57:42.577Z"
   },
   "pulls": [
+    {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-13T03:57:42.577Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -119,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-11T01:19:50.943Z"
-    },
-    {
-      "id": 537,
-      "name": "seismitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 509,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T22:47:17.573Z"
     }
   ],
   "pokemon": {
@@ -1406,6 +1404,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T08:53:15.262Z",
       "lastPulledAt": "2026-10-08T08:53:15.262Z"
+    },
+    "517": {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-13T03:57:42.577Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T03:57:42.577Z",
+      "lastPulledAt": "2026-10-13T03:57:42.577Z"
     },
     "520": {
       "id": 520,
