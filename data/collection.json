@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T11:30:37.604Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T18:29:02.564Z",
   "lastPull": {
     "id": 107,
     "name": "hitmonchan",
@@ -11,9 +11,20 @@
     ],
     "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-10-13T11:30:37.604Z"
+    "pulledAt": "2026-10-13T18:29:02.564Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-13T18:29:02.564Z"
+    },
     {
       "id": 107,
       "name": "hitmonchan",
@@ -118,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-11T14:16:31.137Z"
-    },
-    {
-      "id": 36,
-      "name": "clefable",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-11T07:20:11.060Z"
     }
   ],
   "pokemon": {
@@ -455,10 +455,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-13T11:30:37.604Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T11:30:37.604Z",
-      "lastPulledAt": "2026-10-13T11:30:37.604Z"
+      "lastPulledAt": "2026-10-13T18:29:02.564Z"
     },
     "115": {
       "id": 115,
