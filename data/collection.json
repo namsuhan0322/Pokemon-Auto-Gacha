@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-13T18:29:02.564Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-13T23:01:56.409Z",
   "lastPull": {
-    "id": 107,
-    "name": "hitmonchan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "id": 733,
+    "name": "toucannon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
     "types": [
-      "fighting"
+      "normal",
+      "flying"
     ],
-    "totalStats": 455,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-13T18:29:02.564Z"
+    "pulledAt": "2026-10-13T23:01:56.409Z"
   },
   "pulls": [
+    {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-13T23:01:56.409Z"
+    },
     {
       "id": 107,
       "name": "hitmonchan",
@@ -117,18 +130,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-11T18:59:01.614Z"
-    },
-    {
-      "id": 346,
-      "name": "cradily",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
-      "types": [
-        "rock",
-        "grass"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-11T14:16:31.137Z"
     }
   ],
   "pokemon": {
@@ -1774,10 +1775,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-07T10:58:32.841Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T10:58:32.841Z",
-      "lastPulledAt": "2026-10-07T10:58:32.841Z"
+      "lastPulledAt": "2026-10-13T23:01:56.409Z"
     },
     "748": {
       "id": 748,
