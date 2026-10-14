@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-10-14T20:57:47.413Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-10-14T23:45:13.537Z",
   "lastPull": {
-    "id": 374,
-    "name": "beldum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "id": 631,
+    "name": "heatmor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
     "types": [
-      "steel",
-      "psychic"
+      "fire"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-14T20:57:47.413Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-10-14T23:45:13.537Z"
   },
   "pulls": [
+    {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-14T23:45:13.537Z"
+    },
     {
       "id": 374,
       "name": "beldum",
@@ -117,18 +127,6 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-10-13T03:57:42.577Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T23:49:08.207Z"
     }
   ],
   "pokemon": {
@@ -1667,6 +1665,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T06:29:47.106Z",
       "lastPulledAt": "2026-10-01T06:29:47.106Z"
+    },
+    "631": {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-14T23:45:13.537Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T23:45:13.537Z",
+      "lastPulledAt": "2026-10-14T23:45:13.537Z"
     },
     "632": {
       "id": 632,
