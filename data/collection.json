@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-13T23:01:56.409Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-14T01:50:13.705Z",
   "lastPull": {
-    "id": 733,
-    "name": "toucannon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "id": 58,
+    "name": "growlithe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-13T23:01:56.409Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-10-14T01:50:13.705Z"
   },
   "pulls": [
+    {
+      "id": 58,
+      "name": "growlithe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-10-14T01:50:13.705Z"
+    },
     {
       "id": 733,
       "name": "toucannon",
@@ -118,18 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-11T22:44:59.026Z"
-    },
-    {
-      "id": 6,
-      "name": "charizard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T18:59:01.614Z"
     }
   ],
   "pokemon": {
@@ -319,6 +317,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:00:26.595Z",
       "lastPulledAt": "2026-09-16T16:00:26.595Z"
+    },
+    "58": {
+      "id": 58,
+      "name": "growlithe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-10-14T01:50:13.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T01:50:13.705Z",
+      "lastPulledAt": "2026-10-14T01:50:13.705Z"
     },
     "75": {
       "id": 75,
