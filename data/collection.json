@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-14T23:45:13.537Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-15T01:52:55.870Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 90,
+    "name": "shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-10-14T23:45:13.537Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-15T01:52:55.870Z"
   },
   "pulls": [
+    {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-15T01:52:55.870Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -116,17 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-13T11:30:37.604Z"
-    },
-    {
-      "id": 517,
-      "name": "munna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-10-13T03:57:42.577Z"
     }
   ],
   "pokemon": {
@@ -410,6 +410,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T23:55:37.805Z",
       "lastPulledAt": "2026-09-28T23:55:37.805Z"
+    },
+    "90": {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-15T01:52:55.870Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T01:52:55.870Z",
+      "lastPulledAt": "2026-10-15T01:52:55.870Z"
     },
     "94": {
       "id": 94,
