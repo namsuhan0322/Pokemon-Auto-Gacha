@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-10-15T01:52:55.870Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-10-15T06:53:42.879Z",
   "lastPull": {
-    "id": 90,
-    "name": "shellder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "id": 785,
+    "name": "tapu-koko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
     "types": [
-      "water"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-15T01:52:55.870Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T06:53:42.879Z"
   },
   "pulls": [
+    {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T06:53:42.879Z"
+    },
     {
       "id": 90,
       "name": "shellder",
@@ -116,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-13T18:29:02.564Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-13T11:30:37.604Z"
     }
   ],
   "pokemon": {
@@ -1915,6 +1917,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T02:05:51.628Z",
       "lastPulledAt": "2026-10-03T02:05:51.628Z"
+    },
+    "785": {
+      "id": 785,
+      "name": "tapu-koko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T06:53:42.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T06:53:42.879Z",
+      "lastPulledAt": "2026-10-15T06:53:42.879Z"
     },
     "797": {
       "id": 797,
