@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-15T06:53:42.879Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-15T12:25:06.856Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 671,
+    "name": "florges",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
     "types": [
-      "electric",
       "fairy"
     ],
-    "totalStats": 570,
+    "totalStats": 552,
     "grade": "SR",
-    "pulledAt": "2026-10-15T06:53:42.879Z"
+    "pulledAt": "2026-10-15T12:25:06.856Z"
   },
   "pulls": [
+    {
+      "id": 671,
+      "name": "florges",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 552,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T12:25:06.856Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -118,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-13T23:01:56.409Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-13T18:29:02.564Z"
     }
   ],
   "pokemon": {
@@ -1745,6 +1744,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:36:49.930Z",
       "lastPulledAt": "2026-10-02T08:36:49.930Z"
+    },
+    "671": {
+      "id": 671,
+      "name": "florges",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 552,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T12:25:06.856Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T12:25:06.856Z",
+      "lastPulledAt": "2026-10-15T12:25:06.856Z"
     },
     "680": {
       "id": 680,
