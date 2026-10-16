@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-16T21:45:46.463Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-16T23:56:15.096Z",
   "lastPull": {
-    "id": 206,
-    "name": "dunsparce",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "id": 898,
+    "name": "calyrex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
     "types": [
-      "normal"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-10-16T21:45:46.463Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-16T23:56:15.096Z"
   },
   "pulls": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T23:56:15.096Z"
+    },
     {
       "id": 206,
       "name": "dunsparce",
@@ -118,17 +131,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-15T17:14:36.154Z"
-    },
-    {
-      "id": 671,
-      "name": "florges",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 552,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T12:25:06.856Z"
     }
   ],
   "pokemon": {
@@ -2305,6 +2307,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:12:18.965Z",
       "lastPulledAt": "2026-09-18T17:12:18.965Z"
+    },
+    "898": {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T23:56:15.096Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T23:56:15.096Z",
+      "lastPulledAt": "2026-10-16T23:56:15.096Z"
     },
     "902": {
       "id": 902,
