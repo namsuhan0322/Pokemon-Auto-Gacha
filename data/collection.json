@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T18:45:55.485Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T21:45:46.463Z",
   "lastPull": {
-    "id": 17,
-    "name": "pidgeotto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "id": 206,
+    "name": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
     "types": [
-      "normal",
-      "flying"
+      "normal"
     ],
-    "totalStats": 349,
-    "grade": "N",
-    "pulledAt": "2026-10-16T18:45:55.485Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-10-16T21:45:46.463Z"
   },
   "pulls": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-16T21:45:46.463Z"
+    },
     {
       "id": 17,
       "name": "pidgeotto",
@@ -119,18 +129,6 @@
       "totalStats": 552,
       "grade": "SR",
       "pulledAt": "2026-10-15T12:25:06.856Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T06:53:42.879Z"
     }
   ],
   "pokemon": {
@@ -785,6 +783,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:10:25.581Z",
       "lastPulledAt": "2026-09-21T01:10:25.581Z"
+    },
+    "206": {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-16T21:45:46.463Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T21:45:46.463Z",
+      "lastPulledAt": "2026-10-16T21:45:46.463Z"
     },
     "207": {
       "id": 207,
