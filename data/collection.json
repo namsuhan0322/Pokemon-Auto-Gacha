@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T10:44:18.550Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T15:01:04.319Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 499,
+    "name": "pignite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
     "types": [
-      "bug",
-      "electric"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 319,
-    "grade": "N",
-    "pulledAt": "2026-10-16T10:44:18.550Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-10-16T15:01:04.319Z"
   },
   "pulls": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-16T15:01:04.319Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -118,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-15T01:52:55.870Z"
-    },
-    {
-      "id": 631,
-      "name": "heatmor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-14T23:45:13.537Z"
     }
   ],
   "pokemon": {
@@ -1481,6 +1482,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T19:42:43.333Z",
       "lastPulledAt": "2026-10-09T19:42:43.333Z"
+    },
+    "499": {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-16T15:01:04.319Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T15:01:04.319Z",
+      "lastPulledAt": "2026-10-16T15:01:04.319Z"
     },
     "500": {
       "id": 500,
