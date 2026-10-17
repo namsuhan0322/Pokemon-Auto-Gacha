@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T14:27:41.068Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T17:26:58.233Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 53,
+    "name": "persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
     "types": [
       "normal"
     ],
-    "totalStats": 490,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-17T14:27:41.068Z"
+    "pulledAt": "2026-10-17T17:26:58.233Z"
   },
   "pulls": [
+    {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:26:58.233Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -119,18 +130,6 @@
       "totalStats": 319,
       "grade": "N",
       "pulledAt": "2026-10-16T10:44:18.550Z"
-    },
-    {
-      "id": 145,
-      "name": "zapdos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T05:56:16.352Z"
     }
   ],
   "pokemon": {
@@ -336,6 +335,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:00:26.595Z",
       "lastPulledAt": "2026-09-16T16:00:26.595Z"
+    },
+    "53": {
+      "id": 53,
+      "name": "persian",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:26:58.233Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T17:26:58.233Z",
+      "lastPulledAt": "2026-10-17T17:26:58.233Z"
     },
     "58": {
       "id": 58,
