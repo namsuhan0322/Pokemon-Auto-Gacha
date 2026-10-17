@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-17T03:04:10.455Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-17T07:42:24.538Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 274,
+    "name": "nuzleaf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
     "types": [
-      "electric",
-      "fairy"
+      "grass",
+      "dark"
     ],
-    "totalStats": 431,
-    "grade": "R",
-    "pulledAt": "2026-10-17T03:04:10.455Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-17T07:42:24.538Z"
   },
   "pulls": [
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-17T07:42:24.538Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -120,18 +132,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-15T23:09:35.821Z"
-    },
-    {
-      "id": 75,
-      "name": "graveler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-10-15T20:22:05.730Z"
     }
   ],
   "pokemon": {
@@ -990,6 +990,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:18:26.690Z",
       "lastPulledAt": "2026-10-02T23:18:26.690Z"
+    },
+    "274": {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-17T07:42:24.538Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T07:42:24.538Z",
+      "lastPulledAt": "2026-10-17T07:42:24.538Z"
     },
     "282": {
       "id": 282,
