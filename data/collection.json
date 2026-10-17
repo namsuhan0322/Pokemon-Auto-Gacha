@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T07:42:24.538Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T11:46:16.332Z",
   "lastPull": {
-    "id": 274,
-    "name": "nuzleaf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "id": 298,
+    "name": "azurill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
     "types": [
-      "grass",
-      "dark"
+      "normal",
+      "fairy"
     ],
-    "totalStats": 340,
+    "totalStats": 190,
     "grade": "N",
-    "pulledAt": "2026-10-17T07:42:24.538Z"
+    "pulledAt": "2026-10-17T11:46:16.332Z"
   },
   "pulls": [
+    {
+      "id": 298,
+      "name": "azurill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 190,
+      "grade": "N",
+      "pulledAt": "2026-10-17T11:46:16.332Z"
+    },
     {
       "id": 274,
       "name": "nuzleaf",
@@ -120,18 +132,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-16T01:18:48.735Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T23:09:35.821Z"
     }
   ],
   "pokemon": {
@@ -1054,6 +1054,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:51:01.948Z",
       "lastPulledAt": "2026-10-03T22:51:01.948Z"
+    },
+    "298": {
+      "id": 298,
+      "name": "azurill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 190,
+      "grade": "N",
+      "pulledAt": "2026-10-17T11:46:16.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T11:46:16.332Z",
+      "lastPulledAt": "2026-10-17T11:46:16.332Z"
     },
     "300": {
       "id": 300,
