@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T11:46:16.332Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T14:27:41.068Z",
   "lastPull": {
-    "id": 298,
-    "name": "azurill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "normal",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 190,
-    "grade": "N",
-    "pulledAt": "2026-10-17T11:46:16.332Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-17T14:27:41.068Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-17T14:27:41.068Z"
+    },
     {
       "id": 298,
       "name": "azurill",
@@ -121,17 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-16T05:56:16.352Z"
-    },
-    {
-      "id": 419,
-      "name": "floatzel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-16T01:18:48.735Z"
     }
   ],
   "pokemon": {
@@ -519,10 +518,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-16T22:18:02.124Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:18:02.124Z",
-      "lastPulledAt": "2026-09-16T22:18:02.124Z"
+      "lastPulledAt": "2026-10-17T14:27:41.068Z"
     },
     "118": {
       "id": 118,
