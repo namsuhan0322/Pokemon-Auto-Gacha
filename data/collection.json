@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-18T14:47:19.200Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-18T17:35:01.486Z",
   "lastPull": {
-    "id": 87,
-    "name": "dewgong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "id": 575,
+    "name": "gothorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
     "types": [
-      "water",
-      "ice"
+      "psychic"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-18T14:47:19.200Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-10-18T17:35:01.486Z"
   },
   "pulls": [
+    {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-10-18T17:35:01.486Z"
+    },
     {
       "id": 87,
       "name": "dewgong",
@@ -117,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-17T14:27:41.068Z"
-    },
-    {
-      "id": 298,
-      "name": "azurill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 190,
-      "grade": "N",
-      "pulledAt": "2026-10-17T11:46:16.332Z"
     }
   ],
   "pokemon": {
@@ -1730,6 +1728,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:00:01.884Z",
       "lastPulledAt": "2026-09-26T22:00:01.884Z"
+    },
+    "575": {
+      "id": 575,
+      "name": "gothorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-10-18T17:35:01.486Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T17:35:01.486Z",
+      "lastPulledAt": "2026-10-18T17:35:01.486Z"
     },
     "580": {
       "id": 580,
