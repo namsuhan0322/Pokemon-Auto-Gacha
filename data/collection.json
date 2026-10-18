@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-10-18T01:26:51.471Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-10-18T06:23:08.813Z",
   "lastPull": {
-    "id": 854,
-    "name": "sinistea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "id": 192,
+    "name": "sunflora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
     "types": [
-      "ghost"
+      "grass"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-10-18T01:26:51.471Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-18T06:23:08.813Z"
   },
   "pulls": [
+    {
+      "id": 192,
+      "name": "sunflora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-18T06:23:08.813Z"
+    },
     {
       "id": 854,
       "name": "sinistea",
@@ -118,18 +129,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-10-17T03:04:10.455Z"
-    },
-    {
-      "id": 898,
-      "name": "calyrex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T23:56:15.096Z"
     }
   ],
   "pokemon": {
@@ -765,10 +764,10 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-09-18T21:54:23.098Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:54:23.098Z",
-      "lastPulledAt": "2026-10-06T08:05:04.764Z"
+      "lastPulledAt": "2026-10-18T06:23:08.813Z"
     },
     "202": {
       "id": 202,
