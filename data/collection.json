@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T17:35:01.486Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T19:38:32.430Z",
   "lastPull": {
-    "id": 575,
-    "name": "gothorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "id": 714,
+    "name": "noibat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
     "types": [
-      "psychic"
+      "flying",
+      "dragon"
     ],
-    "totalStats": 390,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-10-18T17:35:01.486Z"
+    "pulledAt": "2026-10-18T19:38:32.430Z"
   },
   "pulls": [
+    {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:38:32.430Z"
+    },
     {
       "id": 575,
       "name": "gothorita",
@@ -116,17 +129,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-17T17:26:58.233Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-17T14:27:41.068Z"
     }
   ],
   "pokemon": {
@@ -2039,6 +2041,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:33:19.467Z",
       "lastPulledAt": "2026-09-25T20:33:19.467Z"
+    },
+    "714": {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:38:32.430Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T19:38:32.430Z",
+      "lastPulledAt": "2026-10-18T19:38:32.430Z"
     },
     "715": {
       "id": 715,
