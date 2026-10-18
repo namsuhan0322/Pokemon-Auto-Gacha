@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T21:52:12.745Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-18T23:52:50.414Z",
   "lastPull": {
-    "id": 589,
-    "name": "escavalier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "bug",
-      "steel"
+      "grass"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-18T21:52:12.745Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T23:52:50.414Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T23:52:50.414Z"
+    },
     {
       "id": 589,
       "name": "escavalier",
@@ -118,18 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-17T21:43:18.362Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-17T19:37:30.707Z"
     }
   ],
   "pokemon": {
@@ -1542,10 +1540,10 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-04T08:38:05.305Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T08:38:05.305Z",
-      "lastPulledAt": "2026-10-04T08:38:05.305Z"
+      "lastPulledAt": "2026-10-18T23:52:50.414Z"
     },
     "487": {
       "id": 487,
