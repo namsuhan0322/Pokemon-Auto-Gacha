@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 181,
-  "updatedAt": "2026-10-18T11:31:41.682Z",
+  "totalPulls": 182,
+  "updatedAt": "2026-10-18T14:47:19.200Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 87,
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "types": [
-      "grass"
+      "water",
+      "ice"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T11:31:41.682Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-18T14:47:19.200Z"
   },
   "pulls": [
+    {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-18T14:47:19.200Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -116,18 +129,6 @@
       "totalStats": 190,
       "grade": "N",
       "pulledAt": "2026-10-17T11:46:16.332Z"
-    },
-    {
-      "id": 274,
-      "name": "nuzleaf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-17T07:42:24.538Z"
     }
   ],
   "pokemon": {
@@ -438,10 +439,10 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-28T23:55:37.805Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T23:55:37.805Z",
-      "lastPulledAt": "2026-09-28T23:55:37.805Z"
+      "lastPulledAt": "2026-10-18T14:47:19.200Z"
     },
     "90": {
       "id": 90,
