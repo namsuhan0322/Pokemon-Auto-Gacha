@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-18T06:23:08.813Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T11:31:41.682Z",
   "lastPull": {
-    "id": 192,
-    "name": "sunflora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "id": 1017,
+    "name": "ogerpon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
     "types": [
       "grass"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-18T06:23:08.813Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T11:31:41.682Z"
   },
   "pulls": [
+    {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T11:31:41.682Z"
+    },
     {
       "id": 192,
       "name": "sunflora",
@@ -117,18 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-17T07:42:24.538Z"
-    },
-    {
-      "id": 702,
-      "name": "dedenne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 431,
-      "grade": "R",
-      "pulledAt": "2026-10-17T03:04:10.455Z"
     }
   ],
   "pokemon": {
@@ -2748,6 +2747,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T23:29:31.798Z",
       "lastPulledAt": "2026-10-17T23:29:31.798Z"
+    },
+    "1017": {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T11:31:41.682Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T11:31:41.682Z",
+      "lastPulledAt": "2026-10-18T11:31:41.682Z"
     }
   },
   "typeTotals": {
