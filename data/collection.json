@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T02:59:36.912Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T08:43:13.666Z",
   "lastPull": {
-    "id": 720,
-    "name": "hoopa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "id": 654,
+    "name": "braixen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
     "types": [
-      "psychic",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-19T02:59:36.912Z"
+    "totalStats": 409,
+    "grade": "R",
+    "pulledAt": "2026-10-19T08:43:13.666Z"
   },
   "pulls": [
+    {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-10-19T08:43:13.666Z"
+    },
     {
       "id": 720,
       "name": "hoopa",
@@ -117,18 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-18T01:26:51.471Z"
-    },
-    {
-      "id": 1015,
-      "name": "munkidori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-      "types": [
-        "poison",
-        "psychic"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T23:29:31.798Z"
     }
   ],
   "pokemon": {
@@ -1932,6 +1930,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:47:20.529Z",
       "lastPulledAt": "2026-09-24T06:47:20.529Z"
+    },
+    "654": {
+      "id": 654,
+      "name": "braixen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 409,
+      "grade": "R",
+      "pulledAt": "2026-10-19T08:43:13.666Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T08:43:13.666Z",
+      "lastPulledAt": "2026-10-19T08:43:13.666Z"
     },
     "655": {
       "id": 655,
