@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-19T16:18:01.215Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-19T20:51:08.034Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 674,
+    "name": "pancham",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
     "types": [
-      "normal"
+      "fighting"
     ],
-    "totalStats": 360,
+    "totalStats": 348,
     "grade": "N",
-    "pulledAt": "2026-10-19T16:18:01.215Z"
+    "pulledAt": "2026-10-19T20:51:08.034Z"
   },
   "pulls": [
+    {
+      "id": 674,
+      "name": "pancham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-19T20:51:08.034Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -116,17 +127,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-18T11:31:41.682Z"
-    },
-    {
-      "id": 192,
-      "name": "sunflora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-18T06:23:08.813Z"
     }
   ],
   "pokemon": {
@@ -2007,6 +2007,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T12:25:06.856Z",
       "lastPulledAt": "2026-10-15T12:25:06.856Z"
+    },
+    "674": {
+      "id": 674,
+      "name": "pancham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-19T20:51:08.034Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T20:51:08.034Z",
+      "lastPulledAt": "2026-10-19T20:51:08.034Z"
     },
     "680": {
       "id": 680,
