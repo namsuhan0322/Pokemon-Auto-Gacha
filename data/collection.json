@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T14:29:04.689Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T18:38:44.178Z",
   "lastPull": {
-    "id": 851,
-    "name": "centiskorch",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": [
-      "fire",
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T14:29:04.689Z"
+    "totalStats": 349,
+    "grade": "N",
+    "pulledAt": "2026-10-20T18:38:44.178Z"
   },
   "pulls": [
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-20T18:38:44.178Z"
+    },
     {
       "id": 851,
       "name": "centiskorch",
@@ -115,18 +127,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-18T23:52:50.414Z"
-    },
-    {
-      "id": 589,
-      "name": "escavalier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-18T21:52:12.745Z"
     }
   ],
   "pokemon": {
@@ -173,10 +173,10 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-10-16T18:45:55.485Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T18:45:55.485Z",
-      "lastPulledAt": "2026-10-16T18:45:55.485Z"
+      "lastPulledAt": "2026-10-20T18:38:44.178Z"
     },
     "22": {
       "id": 22,
