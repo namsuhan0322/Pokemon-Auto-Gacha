@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-20T00:04:48.860Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-20T04:40:28.310Z",
   "lastPull": {
-    "id": 201,
-    "name": "unown",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "id": 294,
+    "name": "loudred",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 336,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-20T00:04:48.860Z"
+    "pulledAt": "2026-10-20T04:40:28.310Z"
   },
   "pulls": [
+    {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-20T04:40:28.310Z"
+    },
     {
       "id": 201,
       "name": "unown",
@@ -115,18 +126,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-10-18T17:35:01.486Z"
-    },
-    {
-      "id": 87,
-      "name": "dewgong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-18T14:47:19.200Z"
     }
   ],
   "pokemon": {
@@ -1094,6 +1093,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:51:01.948Z",
       "lastPulledAt": "2026-10-03T22:51:01.948Z"
+    },
+    "294": {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-20T04:40:28.310Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T04:40:28.310Z",
+      "lastPulledAt": "2026-10-20T04:40:28.310Z"
     },
     "298": {
       "id": 298,
