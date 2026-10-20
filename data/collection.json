@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-20T04:40:28.310Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-20T09:40:07.090Z",
   "lastPull": {
-    "id": 294,
-    "name": "loudred",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "id": 874,
+    "name": "stonjourner",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
     "types": [
-      "normal"
+      "rock"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-20T04:40:28.310Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-20T09:40:07.090Z"
   },
   "pulls": [
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-20T09:40:07.090Z"
+    },
     {
       "id": 294,
       "name": "loudred",
@@ -115,17 +126,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-18T19:38:32.430Z"
-    },
-    {
-      "id": 575,
-      "name": "gothorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-10-18T17:35:01.486Z"
     }
   ],
   "pokemon": {
@@ -2502,6 +2502,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T17:48:55.856Z",
       "lastPulledAt": "2026-10-12T17:48:55.856Z"
+    },
+    "874": {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-20T09:40:07.090Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T09:40:07.090Z",
+      "lastPulledAt": "2026-10-20T09:40:07.090Z"
     },
     "882": {
       "id": 882,
