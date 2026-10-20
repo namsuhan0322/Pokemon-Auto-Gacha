@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T09:40:07.090Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T14:29:04.689Z",
   "lastPull": {
-    "id": 874,
-    "name": "stonjourner",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "id": 851,
+    "name": "centiskorch",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
     "types": [
-      "rock"
+      "fire",
+      "bug"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-20T09:40:07.090Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T14:29:04.689Z"
   },
   "pulls": [
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T14:29:04.689Z"
+    },
     {
       "id": 874,
       "name": "stonjourner",
@@ -114,18 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-18T21:52:12.745Z"
-    },
-    {
-      "id": 714,
-      "name": "noibat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-18T19:38:32.430Z"
     }
   ],
   "pokemon": {
@@ -2410,6 +2411,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T17:42:59.901Z",
       "lastPulledAt": "2026-10-07T17:42:59.901Z"
+    },
+    "851": {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T14:29:04.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T14:29:04.689Z",
+      "lastPulledAt": "2026-10-20T14:29:04.689Z"
     },
     "854": {
       "id": 854,
