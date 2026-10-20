@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T18:38:44.178Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-20T21:52:15.461Z",
   "lastPull": {
-    "id": 17,
-    "name": "pidgeotto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "id": 478,
+    "name": "froslass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
     "types": [
-      "normal",
-      "flying"
+      "ice",
+      "ghost"
     ],
-    "totalStats": 349,
-    "grade": "N",
-    "pulledAt": "2026-10-20T18:38:44.178Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-20T21:52:15.461Z"
   },
   "pulls": [
+    {
+      "id": 478,
+      "name": "froslass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+      "types": [
+        "ice",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-20T21:52:15.461Z"
+    },
     {
       "id": 17,
       "name": "pidgeotto",
@@ -116,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-19T02:59:36.912Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T23:52:50.414Z"
     }
   ],
   "pokemon": {
@@ -1588,6 +1589,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T08:38:05.305Z",
       "lastPulledAt": "2026-10-18T23:52:50.414Z"
+    },
+    "478": {
+      "id": 478,
+      "name": "froslass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+      "types": [
+        "ice",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-20T21:52:15.461Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T21:52:15.461Z",
+      "lastPulledAt": "2026-10-20T21:52:15.461Z"
     },
     "487": {
       "id": 487,
