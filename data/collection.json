@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-21T05:06:50.047Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-21T10:04:21.707Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 274,
+    "name": "nuzleaf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
     "types": [
-      "electric",
-      "dragon"
+      "grass",
+      "dark"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T05:06:50.047Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-21T10:04:21.707Z"
   },
   "pulls": [
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-21T10:04:21.707Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -118,17 +130,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-10-19T20:51:08.034Z"
-    },
-    {
-      "id": 190,
-      "name": "aipom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-19T16:18:01.215Z"
     }
   ],
   "pokemon": {
@@ -1044,10 +1045,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-17T07:42:24.538Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T07:42:24.538Z",
-      "lastPulledAt": "2026-10-17T07:42:24.538Z"
+      "lastPulledAt": "2026-10-21T10:04:21.707Z"
     },
     "282": {
       "id": 282,
