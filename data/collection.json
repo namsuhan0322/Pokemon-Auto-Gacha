@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-21T00:21:11.659Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-21T05:06:50.047Z",
   "lastPull": {
-    "id": 144,
-    "name": "articuno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "ice",
-      "flying"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 580,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-10-21T00:21:11.659Z"
+    "pulledAt": "2026-10-21T05:06:50.047Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T05:06:50.047Z"
+    },
     {
       "id": 144,
       "name": "articuno",
@@ -117,17 +129,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-19T16:18:01.215Z"
-    },
-    {
-      "id": 654,
-      "name": "braixen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 409,
-      "grade": "R",
-      "pulledAt": "2026-10-19T08:43:13.666Z"
     }
   ],
   "pokemon": {
@@ -2551,6 +2552,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T09:40:07.090Z",
       "lastPulledAt": "2026-10-20T09:40:07.090Z"
+    },
+    "880": {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T05:06:50.047Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T05:06:50.047Z",
+      "lastPulledAt": "2026-10-21T05:06:50.047Z"
     },
     "882": {
       "id": 882,
