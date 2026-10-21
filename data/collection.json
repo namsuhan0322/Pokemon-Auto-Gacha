@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-21T15:09:35.692Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-21T19:17:24.395Z",
   "lastPull": {
-    "id": 451,
-    "name": "skorupi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "poison",
-      "bug"
+      "ice"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-21T15:09:35.692Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T19:17:24.395Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T19:17:24.395Z"
+    },
     {
       "id": 451,
       "name": "skorupi",
@@ -120,17 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-20T04:40:28.310Z"
-    },
-    {
-      "id": 201,
-      "name": "unown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 336,
-      "grade": "N",
-      "pulledAt": "2026-10-20T00:04:48.860Z"
     }
   ],
   "pokemon": {
@@ -2823,6 +2822,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T09:10:45.541Z",
       "lastPulledAt": "2026-09-18T09:10:45.541Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T19:17:24.395Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T19:17:24.395Z",
+      "lastPulledAt": "2026-10-21T19:17:24.395Z"
     },
     "979": {
       "id": 979,
