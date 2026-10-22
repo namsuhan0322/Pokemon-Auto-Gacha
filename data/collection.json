@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-22T19:27:19.743Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-22T22:37:54.663Z",
   "lastPull": {
-    "id": 255,
-    "name": "torchic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "id": 896,
+    "name": "glastrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
     "types": [
-      "fire"
+      "ice"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-22T19:27:19.743Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T22:37:54.663Z"
   },
   "pulls": [
+    {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T22:37:54.663Z"
+    },
     {
       "id": 255,
       "name": "torchic",
@@ -119,18 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-21T10:04:21.707Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T05:06:50.047Z"
     }
   ],
   "pokemon": {
@@ -2713,6 +2712,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:12:18.965Z",
       "lastPulledAt": "2026-09-18T17:12:18.965Z"
+    },
+    "896": {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T22:37:54.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T22:37:54.663Z",
+      "lastPulledAt": "2026-10-22T22:37:54.663Z"
     },
     "898": {
       "id": 898,
