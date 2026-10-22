@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-22T05:29:14.806Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-22T10:30:54.258Z",
   "lastPull": {
-    "id": 886,
-    "name": "drakloak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "id": 848,
+    "name": "toxel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
     "types": [
-      "dragon",
-      "ghost"
+      "electric",
+      "poison"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-22T05:29:14.806Z"
+    "totalStats": 242,
+    "grade": "N",
+    "pulledAt": "2026-10-22T10:30:54.258Z"
   },
   "pulls": [
+    {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-10-22T10:30:54.258Z"
+    },
     {
       "id": 886,
       "name": "drakloak",
@@ -121,18 +133,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-20T21:52:15.461Z"
-    },
-    {
-      "id": 17,
-      "name": "pidgeotto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 349,
-      "grade": "N",
-      "pulledAt": "2026-10-20T18:38:44.178Z"
     }
   ],
   "pokemon": {
@@ -2465,6 +2465,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T17:42:59.901Z",
       "lastPulledAt": "2026-10-07T17:42:59.901Z"
+    },
+    "848": {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-10-22T10:30:54.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T10:30:54.258Z",
+      "lastPulledAt": "2026-10-22T10:30:54.258Z"
     },
     "851": {
       "id": 851,
