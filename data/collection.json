@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-22T15:36:29.844Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-22T19:27:19.743Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 255,
+    "name": "torchic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
     "types": [
-      "psychic",
-      "grass"
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-22T15:36:29.844Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-22T19:27:19.743Z"
   },
   "pulls": [
+    {
+      "id": 255,
+      "name": "torchic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-22T19:27:19.743Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -121,18 +131,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-21T05:06:50.047Z"
-    },
-    {
-      "id": 144,
-      "name": "articuno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T00:21:11.659Z"
     }
   ],
   "pokemon": {
@@ -988,6 +986,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T15:36:29.844Z",
       "lastPulledAt": "2026-10-22T15:36:29.844Z"
+    },
+    "255": {
+      "id": 255,
+      "name": "torchic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-22T19:27:19.743Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T19:27:19.743Z",
+      "lastPulledAt": "2026-10-22T19:27:19.743Z"
     },
     "259": {
       "id": 259,
