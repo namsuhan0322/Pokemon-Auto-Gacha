@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-21T22:27:06.800Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-22T00:49:04.060Z",
   "lastPull": {
-    "id": 1018,
-    "name": "archaludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    "id": 189,
+    "name": "jumpluff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
     "types": [
-      "steel",
-      "dragon"
+      "grass",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-21T22:27:06.800Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-22T00:49:04.060Z"
   },
   "pulls": [
+    {
+      "id": 189,
+      "name": "jumpluff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:49:04.060Z"
+    },
     {
       "id": 1018,
       "name": "archaludon",
@@ -121,17 +133,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-20T14:29:04.689Z"
-    },
-    {
-      "id": 874,
-      "name": "stonjourner",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-20T09:40:07.090Z"
     }
   ],
   "pokemon": {
@@ -756,6 +757,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T05:47:20.803Z",
       "lastPulledAt": "2026-09-22T05:47:20.803Z"
+    },
+    "189": {
+      "id": 189,
+      "name": "jumpluff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-22T00:49:04.060Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T00:49:04.060Z",
+      "lastPulledAt": "2026-10-22T00:49:04.060Z"
     },
     "190": {
       "id": 190,
