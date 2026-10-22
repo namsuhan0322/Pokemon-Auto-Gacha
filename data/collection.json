@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-22T10:30:54.258Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-22T15:36:29.844Z",
   "lastPull": {
-    "id": 848,
-    "name": "toxel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "id": 251,
+    "name": "celebi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
     "types": [
-      "electric",
-      "poison"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 242,
-    "grade": "N",
-    "pulledAt": "2026-10-22T10:30:54.258Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-22T15:36:29.844Z"
   },
   "pulls": [
+    {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T15:36:29.844Z"
+    },
     {
       "id": 848,
       "name": "toxel",
@@ -121,18 +133,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-21T00:21:11.659Z"
-    },
-    {
-      "id": 478,
-      "name": "froslass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
-      "types": [
-        "ice",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-20T21:52:15.461Z"
     }
   ],
   "pokemon": {
@@ -972,6 +972,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:41:44.842Z",
       "lastPulledAt": "2026-10-06T15:04:09.462Z"
+    },
+    "251": {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T15:36:29.844Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T15:36:29.844Z",
+      "lastPulledAt": "2026-10-22T15:36:29.844Z"
     },
     "259": {
       "id": 259,
