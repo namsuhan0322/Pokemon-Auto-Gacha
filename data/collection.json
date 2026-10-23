@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T19:26:19.416Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-23T22:29:26.218Z",
   "lastPull": {
-    "id": 280,
-    "name": "ralts",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "id": 923,
+    "name": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
     "types": [
-      "psychic",
-      "fairy"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 198,
-    "grade": "N",
-    "pulledAt": "2026-10-23T19:26:19.416Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-23T22:29:26.218Z"
   },
   "pulls": [
+    {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-23T22:29:26.218Z"
+    },
     {
       "id": 280,
       "name": "ralts",
@@ -119,18 +131,6 @@
       "totalStats": 242,
       "grade": "N",
       "pulledAt": "2026-10-22T10:30:54.258Z"
-    },
-    {
-      "id": 886,
-      "name": "drakloak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-22T05:29:14.806Z"
     }
   ],
   "pokemon": {
@@ -2838,6 +2838,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:20:42.609Z",
       "lastPulledAt": "2026-09-24T17:20:42.609Z"
+    },
+    "923": {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-23T22:29:26.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T22:29:26.218Z",
+      "lastPulledAt": "2026-10-23T22:29:26.218Z"
     },
     "929": {
       "id": 929,
