@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 211,
-  "updatedAt": "2026-10-23T10:32:52.755Z",
+  "totalPulls": 212,
+  "updatedAt": "2026-10-23T15:25:47.683Z",
   "lastPull": {
-    "id": 138,
-    "name": "omanyte",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "id": 693,
+    "name": "clawitzer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
     "types": [
-      "rock",
       "water"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-10-23T10:32:52.755Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T15:25:47.683Z"
   },
   "pulls": [
+    {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T15:25:47.683Z"
+    },
     {
       "id": 138,
       "name": "omanyte",
@@ -120,18 +130,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-22T00:49:04.060Z"
-    },
-    {
-      "id": 1018,
-      "name": "archaludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-21T22:27:06.800Z"
     }
   ],
   "pokemon": {
@@ -2183,6 +2181,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:35:32.146Z",
       "lastPulledAt": "2026-09-18T04:35:32.146Z"
+    },
+    "693": {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T15:25:47.683Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T15:25:47.683Z",
+      "lastPulledAt": "2026-10-23T15:25:47.683Z"
     },
     "697": {
       "id": 697,
