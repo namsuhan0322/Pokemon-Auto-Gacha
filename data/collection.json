@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-22T22:37:54.663Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-23T00:55:52.296Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 962,
+    "name": "bombirdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
     "types": [
-      "ice"
+      "flying",
+      "dark"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T22:37:54.663Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-23T00:55:52.296Z"
   },
   "pulls": [
+    {
+      "id": 962,
+      "name": "bombirdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-23T00:55:52.296Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -118,18 +131,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-21T15:09:35.692Z"
-    },
-    {
-      "id": 274,
-      "name": "nuzleaf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-21T10:04:21.707Z"
     }
   ],
   "pokemon": {
@@ -2880,10 +2881,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-04T02:20:32.142Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T02:20:32.142Z",
-      "lastPulledAt": "2026-10-04T02:20:32.142Z"
+      "lastPulledAt": "2026-10-23T00:55:52.296Z"
     },
     "965": {
       "id": 965,
