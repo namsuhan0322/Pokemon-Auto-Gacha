@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-24T09:46:14.930Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-24T13:38:20.326Z",
   "lastPull": {
-    "id": 720,
-    "name": "hoopa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "id": 447,
+    "name": "riolu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
     "types": [
-      "psychic",
-      "ghost"
+      "fighting"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-24T09:46:14.930Z"
+    "totalStats": 285,
+    "grade": "N",
+    "pulledAt": "2026-10-24T13:38:20.326Z"
   },
   "pulls": [
+    {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:38:20.326Z"
+    },
     {
       "id": 720,
       "name": "hoopa",
@@ -120,17 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-23T00:55:52.296Z"
-    },
-    {
-      "id": 896,
-      "name": "glastrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T22:37:54.663Z"
     }
   ],
   "pokemon": {
@@ -1625,6 +1624,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T18:39:39.434Z",
       "lastPulledAt": "2026-09-21T18:39:39.434Z"
+    },
+    "447": {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-24T13:38:20.326Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T13:38:20.326Z",
+      "lastPulledAt": "2026-10-24T13:38:20.326Z"
     },
     "451": {
       "id": 451,
