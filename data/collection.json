@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-24T05:35:25.508Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-24T09:46:14.930Z",
   "lastPull": {
-    "id": 621,
-    "name": "druddigon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "id": 720,
+    "name": "hoopa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
     "types": [
-      "dragon"
+      "psychic",
+      "ghost"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-24T05:35:25.508Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-24T09:46:14.930Z"
   },
   "pulls": [
+    {
+      "id": 720,
+      "name": "hoopa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-24T09:46:14.930Z"
+    },
     {
       "id": 621,
       "name": "druddigon",
@@ -118,17 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-22T22:37:54.663Z"
-    },
-    {
-      "id": 255,
-      "name": "torchic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-22T19:27:19.743Z"
     }
   ],
   "pokemon": {
@@ -2317,10 +2319,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-19T02:59:36.912Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T02:59:36.912Z",
-      "lastPulledAt": "2026-10-19T02:59:36.912Z"
+      "lastPulledAt": "2026-10-24T09:46:14.930Z"
     },
     "724": {
       "id": 724,
