@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-24T13:38:20.326Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-24T16:56:54.564Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 622,
+    "name": "golett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
     "types": [
-      "fighting"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 285,
+    "totalStats": 303,
     "grade": "N",
-    "pulledAt": "2026-10-24T13:38:20.326Z"
+    "pulledAt": "2026-10-24T16:56:54.564Z"
   },
   "pulls": [
+    {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-24T16:56:54.564Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -118,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-23T05:43:17.577Z"
-    },
-    {
-      "id": 962,
-      "name": "bombirdier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-      "types": [
-        "flying",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-23T00:55:52.296Z"
     }
   ],
   "pokemon": {
@@ -2072,6 +2073,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T05:35:25.508Z",
       "lastPulledAt": "2026-10-24T05:35:25.508Z"
+    },
+    "622": {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-24T16:56:54.564Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T16:56:54.564Z",
+      "lastPulledAt": "2026-10-24T16:56:54.564Z"
     },
     "625": {
       "id": 625,
