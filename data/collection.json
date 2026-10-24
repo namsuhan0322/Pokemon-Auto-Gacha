@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-23T22:29:26.218Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-24T00:58:51.687Z",
   "lastPull": {
-    "id": 923,
-    "name": "pawmot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "id": 44,
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "types": [
-      "electric",
-      "fighting"
+      "grass",
+      "poison"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-23T22:29:26.218Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-24T00:58:51.687Z"
   },
   "pulls": [
+    {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-24T00:58:51.687Z"
+    },
     {
       "id": 923,
       "name": "pawmot",
@@ -119,18 +131,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-22T15:36:29.844Z"
-    },
-    {
-      "id": 848,
-      "name": "toxel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 242,
-      "grade": "N",
-      "pulledAt": "2026-10-22T10:30:54.258Z"
     }
   ],
   "pokemon": {
@@ -286,10 +286,10 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-17T15:04:05.331Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:05.331Z",
-      "lastPulledAt": "2026-09-17T15:04:05.331Z"
+      "lastPulledAt": "2026-10-24T00:58:51.687Z"
     },
     "46": {
       "id": 46,
