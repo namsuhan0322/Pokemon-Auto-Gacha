@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-24T00:58:51.687Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-24T05:35:25.508Z",
   "lastPull": {
-    "id": 44,
-    "name": "gloom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "id": 621,
+    "name": "druddigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
     "types": [
-      "grass",
-      "poison"
+      "dragon"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-10-24T00:58:51.687Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-24T05:35:25.508Z"
   },
   "pulls": [
+    {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-24T05:35:25.508Z"
+    },
     {
       "id": 44,
       "name": "gloom",
@@ -119,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-22T19:27:19.743Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-22T15:36:29.844Z"
     }
   ],
   "pokemon": {
@@ -2043,6 +2041,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T15:06:08.993Z",
       "lastPulledAt": "2026-09-22T15:06:08.993Z"
+    },
+    "621": {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-24T05:35:25.508Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T05:35:25.508Z",
+      "lastPulledAt": "2026-10-24T05:35:25.508Z"
     },
     "625": {
       "id": 625,
