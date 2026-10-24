@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T19:16:21.956Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-24T21:39:35.248Z",
   "lastPull": {
-    "id": 152,
-    "name": "chikorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "id": 82,
+    "name": "magneton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
     "types": [
-      "grass"
+      "electric",
+      "steel"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-10-24T19:16:21.956Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-10-24T21:39:35.248Z"
   },
   "pulls": [
+    {
+      "id": 82,
+      "name": "magneton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:39:35.248Z"
+    },
     {
       "id": 152,
       "name": "chikorita",
@@ -117,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-23T15:25:47.683Z"
-    },
-    {
-      "id": 138,
-      "name": "omanyte",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-23T10:32:52.755Z"
     }
   ],
   "pokemon": {
@@ -396,6 +397,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T00:52:58.628Z",
       "lastPulledAt": "2026-09-22T00:52:58.628Z"
+    },
+    "82": {
+      "id": 82,
+      "name": "magneton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:39:35.248Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T21:39:35.248Z",
+      "lastPulledAt": "2026-10-24T21:39:35.248Z"
     },
     "84": {
       "id": 84,
