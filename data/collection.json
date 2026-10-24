@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T16:56:54.564Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T19:16:21.956Z",
   "lastPull": {
-    "id": 622,
-    "name": "golett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "id": 152,
+    "name": "chikorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
     "types": [
-      "ground",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 303,
+    "totalStats": 318,
     "grade": "N",
-    "pulledAt": "2026-10-24T16:56:54.564Z"
+    "pulledAt": "2026-10-24T19:16:21.956Z"
   },
   "pulls": [
+    {
+      "id": 152,
+      "name": "chikorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-10-24T19:16:21.956Z"
+    },
     {
       "id": 622,
       "name": "golett",
@@ -119,18 +129,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-23T10:32:52.755Z"
-    },
-    {
-      "id": 898,
-      "name": "calyrex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T05:43:17.577Z"
     }
   ],
   "pokemon": {
@@ -694,6 +692,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:28:38.729Z",
       "lastPulledAt": "2026-09-19T17:28:38.729Z"
+    },
+    "152": {
+      "id": 152,
+      "name": "chikorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-10-24T19:16:21.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T19:16:21.956Z",
+      "lastPulledAt": "2026-10-24T19:16:21.956Z"
     },
     "157": {
       "id": 157,
