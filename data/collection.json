@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-25T21:52:11.008Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-25T23:44:23.330Z",
   "lastPull": {
-    "id": 730,
-    "name": "primarina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+    "id": 593,
+    "name": "jellicent-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
     "types": [
       "water",
-      "fairy"
+      "ghost"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T21:52:11.008Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-25T23:44:23.330Z"
   },
   "pulls": [
+    {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:44:23.330Z"
+    },
     {
       "id": 730,
       "name": "primarina",
@@ -118,18 +130,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-10-24T19:16:21.956Z"
-    },
-    {
-      "id": 622,
-      "name": "golett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-10-24T16:56:54.564Z"
     }
   ],
   "pokemon": {
@@ -2057,6 +2057,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T21:16:00.368Z",
       "lastPulledAt": "2026-10-08T21:16:00.368Z"
+    },
+    "593": {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-25T23:44:23.330Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:44:23.330Z",
+      "lastPulledAt": "2026-10-25T23:44:23.330Z"
     },
     "595": {
       "id": 595,
