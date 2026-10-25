@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-25T06:56:12.311Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-25T12:20:29.858Z",
   "lastPull": {
-    "id": 874,
-    "name": "stonjourner",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "id": 851,
+    "name": "centiskorch",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
     "types": [
-      "rock"
+      "fire",
+      "bug"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:56:12.311Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T12:20:29.858Z"
   },
   "pulls": [
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:20:29.858Z"
+    },
     {
       "id": 874,
       "name": "stonjourner",
@@ -116,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-24T05:35:25.508Z"
-    },
-    {
-      "id": 44,
-      "name": "gloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-24T00:58:51.687Z"
     }
   ],
   "pokemon": {
@@ -2658,10 +2659,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-20T14:29:04.689Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T14:29:04.689Z",
-      "lastPulledAt": "2026-10-20T14:29:04.689Z"
+      "lastPulledAt": "2026-10-25T12:20:29.858Z"
     },
     "854": {
       "id": 854,
