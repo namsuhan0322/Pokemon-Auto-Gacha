@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-25T19:15:47.760Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-25T21:52:11.008Z",
   "lastPull": {
-    "id": 142,
-    "name": "aerodactyl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "id": 730,
+    "name": "primarina",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
     "types": [
-      "rock",
-      "flying"
+      "water",
+      "fairy"
     ],
-    "totalStats": 515,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-25T19:15:47.760Z"
+    "pulledAt": "2026-10-25T21:52:11.008Z"
   },
   "pulls": [
+    {
+      "id": 730,
+      "name": "primarina",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T21:52:11.008Z"
+    },
     {
       "id": 142,
       "name": "aerodactyl",
@@ -118,17 +130,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-24T16:56:54.564Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-10-24T13:38:20.326Z"
     }
   ],
   "pokemon": {
@@ -2460,6 +2461,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T19:48:24.720Z",
       "lastPulledAt": "2026-10-02T19:48:24.720Z"
+    },
+    "730": {
+      "id": 730,
+      "name": "primarina",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T21:52:11.008Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:52:11.008Z",
+      "lastPulledAt": "2026-10-25T21:52:11.008Z"
     },
     "733": {
       "id": 733,
