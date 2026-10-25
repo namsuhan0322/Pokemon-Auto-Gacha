@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-10-25T16:39:43.562Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-10-25T19:15:47.760Z",
   "lastPull": {
-    "id": 148,
-    "name": "dragonair",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "id": 142,
+    "name": "aerodactyl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "types": [
-      "dragon"
+      "rock",
+      "flying"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-25T16:39:43.562Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T19:15:47.760Z"
   },
   "pulls": [
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T19:15:47.760Z"
+    },
     {
       "id": 148,
       "name": "dragonair",
@@ -116,18 +129,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-10-24T13:38:20.326Z"
-    },
-    {
-      "id": 720,
-      "name": "hoopa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
-      "types": [
-        "psychic",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-24T09:46:14.930Z"
     }
   ],
   "pokemon": {
@@ -660,6 +661,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T02:03:04.571Z",
       "lastPulledAt": "2026-10-08T02:03:04.571Z"
+    },
+    "142": {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T19:15:47.760Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T19:15:47.760Z",
+      "lastPulledAt": "2026-10-25T19:15:47.760Z"
     },
     "144": {
       "id": 144,
