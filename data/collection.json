@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-25T01:42:46.542Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-25T06:56:12.311Z",
   "lastPull": {
-    "id": 242,
-    "name": "blissey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "id": 874,
+    "name": "stonjourner",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
     "types": [
-      "normal"
+      "rock"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T01:42:46.542Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-25T06:56:12.311Z"
   },
   "pulls": [
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:56:12.311Z"
+    },
     {
       "id": 242,
       "name": "blissey",
@@ -117,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-24T00:58:51.687Z"
-    },
-    {
-      "id": 923,
-      "name": "pawmot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-23T22:29:26.218Z"
     }
   ],
   "pokemon": {
@@ -2782,10 +2781,10 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-20T09:40:07.090Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T09:40:07.090Z",
-      "lastPulledAt": "2026-10-20T09:40:07.090Z"
+      "lastPulledAt": "2026-10-25T06:56:12.311Z"
     },
     "880": {
       "id": 880,
