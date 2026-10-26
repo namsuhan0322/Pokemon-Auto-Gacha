@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-25T23:44:23.330Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-26T01:47:48.090Z",
   "lastPull": {
-    "id": 593,
-    "name": "jellicent-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "id": 85,
+    "name": "dodrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
     "types": [
-      "water",
-      "ghost"
+      "normal",
+      "flying"
     ],
-    "totalStats": 480,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-25T23:44:23.330Z"
+    "pulledAt": "2026-10-26T01:47:48.090Z"
   },
   "pulls": [
+    {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:47:48.090Z"
+    },
     {
       "id": 593,
       "name": "jellicent-male",
@@ -119,17 +131,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-24T21:39:35.248Z"
-    },
-    {
-      "id": 152,
-      "name": "chikorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-10-24T19:16:21.956Z"
     }
   ],
   "pokemon": {
@@ -429,6 +430,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:38:05.756Z",
       "lastPulledAt": "2026-09-24T20:38:05.756Z"
+    },
+    "85": {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:47:48.090Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:47:48.090Z",
+      "lastPulledAt": "2026-10-26T01:47:48.090Z"
     },
     "86": {
       "id": 86,
