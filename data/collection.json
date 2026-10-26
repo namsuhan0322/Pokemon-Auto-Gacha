@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-26T07:03:48.709Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-26T14:09:44.038Z",
   "lastPull": {
-    "id": 553,
-    "name": "krookodile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "id": 467,
+    "name": "magmortar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
     "types": [
-      "ground",
-      "dark"
+      "fire"
     ],
-    "totalStats": 519,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-10-26T07:03:48.709Z"
+    "pulledAt": "2026-10-26T14:09:44.038Z"
   },
   "pulls": [
+    {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T14:09:44.038Z"
+    },
     {
       "id": 553,
       "name": "krookodile",
@@ -119,18 +129,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-25T01:42:46.542Z"
-    },
-    {
-      "id": 860,
-      "name": "morgrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
-      "types": [
-        "dark",
-        "fairy"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-24T23:42:58.285Z"
     }
   ],
   "pokemon": {
@@ -1795,6 +1793,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T08:38:05.305Z",
       "lastPulledAt": "2026-10-18T23:52:50.414Z"
+    },
+    "467": {
+      "id": 467,
+      "name": "magmortar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T14:09:44.038Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T14:09:44.038Z",
+      "lastPulledAt": "2026-10-26T14:09:44.038Z"
     },
     "478": {
       "id": 478,
