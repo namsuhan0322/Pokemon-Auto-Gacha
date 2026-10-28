@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-28T15:26:21.278Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-28T20:27:26.499Z",
   "lastPull": {
-    "id": 34,
-    "name": "nidoking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "id": 67,
+    "name": "machoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
     "types": [
-      "poison",
-      "ground"
+      "fighting"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T15:26:21.278Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-28T20:27:26.499Z"
   },
   "pulls": [
+    {
+      "id": 67,
+      "name": "machoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-28T20:27:26.499Z"
+    },
     {
       "id": 34,
       "name": "nidoking",
@@ -118,17 +128,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-10-26T23:31:56.916Z"
-    },
-    {
-      "id": 55,
-      "name": "golduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T19:55:17.908Z"
     }
   ],
   "pokemon": {
@@ -395,6 +394,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T01:50:13.705Z",
       "lastPulledAt": "2026-10-14T01:50:13.705Z"
+    },
+    "67": {
+      "id": 67,
+      "name": "machoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-28T20:27:26.499Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T20:27:26.499Z",
+      "lastPulledAt": "2026-10-28T20:27:26.499Z"
     },
     "75": {
       "id": 75,
