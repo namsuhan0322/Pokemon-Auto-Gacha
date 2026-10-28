@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-10-28T02:10:35.283Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-10-28T08:39:11.808Z",
   "lastPull": {
-    "id": 411,
-    "name": "bastiodon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "id": 843,
+    "name": "silicobra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
     "types": [
-      "rock",
-      "steel"
+      "ground"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-28T02:10:35.283Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-28T08:39:11.808Z"
   },
   "pulls": [
+    {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-28T08:39:11.808Z"
+    },
     {
       "id": 411,
       "name": "bastiodon",
@@ -117,18 +127,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-26T14:09:44.038Z"
-    },
-    {
-      "id": 553,
-      "name": "krookodile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 519,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T07:03:48.709Z"
     }
   ],
   "pokemon": {
@@ -2865,6 +2863,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T17:42:59.901Z",
       "lastPulledAt": "2026-10-07T17:42:59.901Z"
+    },
+    "843": {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-28T08:39:11.808Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T08:39:11.808Z",
+      "lastPulledAt": "2026-10-28T08:39:11.808Z"
     },
     "848": {
       "id": 848,
