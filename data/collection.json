@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 241,
-  "updatedAt": "2026-10-28T08:39:11.808Z",
+  "totalPulls": 242,
+  "updatedAt": "2026-10-28T15:26:21.278Z",
   "lastPull": {
-    "id": 843,
-    "name": "silicobra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
+      "poison",
       "ground"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-28T08:39:11.808Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T15:26:21.278Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T15:26:21.278Z"
+    },
     {
       "id": 843,
       "name": "silicobra",
@@ -116,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-26T19:55:17.908Z"
-    },
-    {
-      "id": 467,
-      "name": "magmortar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T14:09:44.038Z"
     }
   ],
   "pokemon": {
@@ -209,6 +211,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T23:07:40.047Z",
       "lastPulledAt": "2026-10-01T23:07:40.047Z"
+    },
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T15:26:21.278Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T15:26:21.278Z",
+      "lastPulledAt": "2026-10-28T15:26:21.278Z"
     },
     "35": {
       "id": 35,
