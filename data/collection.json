@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 245,
-  "updatedAt": "2026-10-29T05:54:36.577Z",
+  "totalPulls": 246,
+  "updatedAt": "2026-10-29T12:11:17.592Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 556,
+    "name": "maractus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
     "types": [
-      "water",
-      "dragon"
+      "grass"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-29T05:54:36.577Z"
+    "totalStats": 461,
+    "grade": "R",
+    "pulledAt": "2026-10-29T12:11:17.592Z"
   },
   "pulls": [
+    {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-10-29T12:11:17.592Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -119,17 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-27T14:29:15.503Z"
-    },
-    {
-      "id": 150,
-      "name": "mewtwo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-27T08:10:06.118Z"
     }
   ],
   "pokemon": {
@@ -2149,6 +2148,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T07:03:48.709Z",
       "lastPulledAt": "2026-10-26T07:03:48.709Z"
+    },
+    "556": {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-10-29T12:11:17.592Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T12:11:17.592Z",
+      "lastPulledAt": "2026-10-29T12:11:17.592Z"
     },
     "575": {
       "id": 575,
