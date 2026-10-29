@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-29T12:11:17.592Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-29T18:30:51.208Z",
   "lastPull": {
-    "id": 556,
-    "name": "maractus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "id": 255,
+    "name": "torchic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
     "types": [
-      "grass"
+      "fire"
     ],
-    "totalStats": 461,
-    "grade": "R",
-    "pulledAt": "2026-10-29T12:11:17.592Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-29T18:30:51.208Z"
   },
   "pulls": [
+    {
+      "id": 255,
+      "name": "torchic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-29T18:30:51.208Z"
+    },
     {
       "id": 556,
       "name": "maractus",
@@ -117,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-27T19:34:37.762Z"
-    },
-    {
-      "id": 639,
-      "name": "terrakion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
-      "types": [
-        "rock",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-27T14:29:15.503Z"
     }
   ],
   "pokemon": {
@@ -1180,10 +1179,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-22T19:27:19.743Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T19:27:19.743Z",
-      "lastPulledAt": "2026-10-22T19:27:19.743Z"
+      "lastPulledAt": "2026-10-29T18:30:51.208Z"
     },
     "256": {
       "id": 256,
