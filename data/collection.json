@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 243,
-  "updatedAt": "2026-10-28T20:27:26.499Z",
+  "totalPulls": 244,
+  "updatedAt": "2026-10-29T00:12:56.100Z",
   "lastPull": {
-    "id": 67,
-    "name": "machoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "id": 256,
+    "name": "combusken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
     "types": [
+      "fire",
       "fighting"
     ],
     "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-28T20:27:26.499Z"
+    "pulledAt": "2026-10-29T00:12:56.100Z"
   },
   "pulls": [
+    {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-29T00:12:56.100Z"
+    },
     {
       "id": 67,
       "name": "machoke",
@@ -116,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-27T02:23:39.965Z"
-    },
-    {
-      "id": 778,
-      "name": "mimikyu-disguised",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-10-26T23:31:56.916Z"
     }
   ],
   "pokemon": {
@@ -1183,6 +1184,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T19:27:19.743Z",
       "lastPulledAt": "2026-10-22T19:27:19.743Z"
+    },
+    "256": {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-29T00:12:56.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T00:12:56.100Z",
+      "lastPulledAt": "2026-10-29T00:12:56.100Z"
     },
     "259": {
       "id": 259,
