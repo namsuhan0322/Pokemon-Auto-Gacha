@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-29T00:12:56.100Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-29T05:54:36.577Z",
   "lastPull": {
-    "id": 256,
-    "name": "combusken",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "id": 882,
+    "name": "dracovish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
     "types": [
-      "fire",
-      "fighting"
+      "water",
+      "dragon"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-29T00:12:56.100Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-29T05:54:36.577Z"
   },
   "pulls": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T05:54:36.577Z"
+    },
     {
       "id": 256,
       "name": "combusken",
@@ -118,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-27T08:10:06.118Z"
-    },
-    {
-      "id": 128,
-      "name": "tauros",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-27T02:23:39.965Z"
     }
   ],
   "pokemon": {
@@ -3110,10 +3111,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:36:14.279Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:36:14.279Z",
-      "lastPulledAt": "2026-09-16T01:36:14.279Z"
+      "lastPulledAt": "2026-10-29T05:54:36.577Z"
     },
     "883": {
       "id": 883,
