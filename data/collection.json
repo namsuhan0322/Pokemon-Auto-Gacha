@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-30T02:25:59.228Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-30T08:51:19.843Z",
   "lastPull": {
-    "id": 994,
-    "name": "iron-moth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+    "id": 837,
+    "name": "rolycoly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
     "types": [
-      "fire",
-      "poison"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T02:25:59.228Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-30T08:51:19.843Z"
   },
   "pulls": [
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-30T08:51:19.843Z"
+    },
     {
       "id": 994,
       "name": "iron-moth",
@@ -118,18 +128,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-28T08:39:11.808Z"
-    },
-    {
-      "id": 411,
-      "name": "bastiodon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-28T02:10:35.283Z"
     }
   ],
   "pokemon": {
@@ -2944,6 +2942,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T17:42:59.901Z",
       "lastPulledAt": "2026-10-07T17:42:59.901Z"
+    },
+    "837": {
+      "id": 837,
+      "name": "rolycoly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-30T08:51:19.843Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T08:51:19.843Z",
+      "lastPulledAt": "2026-10-30T08:51:19.843Z"
     },
     "843": {
       "id": 843,
