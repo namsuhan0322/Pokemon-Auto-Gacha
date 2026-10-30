@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-30T15:29:13.860Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-30T20:02:44.727Z",
   "lastPull": {
-    "id": 232,
-    "name": "donphan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "ground"
+      "fighting"
     ],
-    "totalStats": 500,
+    "totalStats": 507,
     "grade": "SR",
-    "pulledAt": "2026-10-30T15:29:13.860Z"
+    "pulledAt": "2026-10-30T20:02:44.727Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T20:02:44.727Z"
+    },
     {
       "id": 232,
       "name": "donphan",
@@ -116,18 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-28T20:27:26.499Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T15:26:21.278Z"
     }
   ],
   "pokemon": {
@@ -3092,10 +3091,10 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-25T23:30:11.592Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:30:11.592Z",
-      "lastPulledAt": "2026-10-10T09:05:40.295Z"
+      "lastPulledAt": "2026-10-30T20:02:44.727Z"
     },
     "866": {
       "id": 866,
