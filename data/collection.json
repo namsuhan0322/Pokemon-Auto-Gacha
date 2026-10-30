@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-30T08:51:19.843Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-30T15:29:13.860Z",
   "lastPull": {
-    "id": 837,
-    "name": "rolycoly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "id": 232,
+    "name": "donphan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
     "types": [
-      "rock"
+      "ground"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-30T08:51:19.843Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T15:29:13.860Z"
   },
   "pulls": [
+    {
+      "id": 232,
+      "name": "donphan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T15:29:13.860Z"
+    },
     {
       "id": 837,
       "name": "rolycoly",
@@ -117,17 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-28T15:26:21.278Z"
-    },
-    {
-      "id": 843,
-      "name": "silicobra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-28T08:39:11.808Z"
     }
   ],
   "pokemon": {
@@ -1107,6 +1107,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:32:26.531Z",
       "lastPulledAt": "2026-09-27T05:32:26.531Z"
+    },
+    "232": {
+      "id": 232,
+      "name": "donphan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T15:29:13.860Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T15:29:13.860Z",
+      "lastPulledAt": "2026-10-30T15:29:13.860Z"
     },
     "236": {
       "id": 236,
