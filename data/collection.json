@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-30T20:02:44.727Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-30T23:40:09.658Z",
   "lastPull": {
-    "id": 865,
-    "name": "sirfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "id": 129,
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 507,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T20:02:44.727Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-10-30T23:40:09.658Z"
   },
   "pulls": [
+    {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-30T23:40:09.658Z"
+    },
     {
       "id": 865,
       "name": "sirfetchd",
@@ -116,17 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-29T00:12:56.100Z"
-    },
-    {
-      "id": 67,
-      "name": "machoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-28T20:27:26.499Z"
     }
   ],
   "pokemon": {
@@ -673,6 +673,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T02:23:39.965Z",
       "lastPulledAt": "2026-10-27T02:23:39.965Z"
+    },
+    "129": {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-30T23:40:09.658Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T23:40:09.658Z",
+      "lastPulledAt": "2026-10-30T23:40:09.658Z"
     },
     "130": {
       "id": 130,
