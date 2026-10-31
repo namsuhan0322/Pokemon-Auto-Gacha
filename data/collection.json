@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-31T19:14:18.718Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-31T22:31:22.539Z",
   "lastPull": {
-    "id": 493,
-    "name": "arceus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "id": 928,
+    "name": "smoliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
     "types": [
+      "grass",
       "normal"
     ],
-    "totalStats": 720,
-    "grade": "SSR",
-    "pulledAt": "2026-10-31T19:14:18.718Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-10-31T22:31:22.539Z"
   },
   "pulls": [
+    {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:31:22.539Z"
+    },
     {
       "id": 493,
       "name": "arceus",
@@ -115,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-30T02:25:59.228Z"
-    },
-    {
-      "id": 737,
-      "name": "charjabug",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-10-29T22:57:25.990Z"
     }
   ],
   "pokemon": {
@@ -3362,6 +3363,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T22:29:26.218Z",
       "lastPulledAt": "2026-10-23T22:29:26.218Z"
+    },
+    "928": {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:31:22.539Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T22:31:22.539Z",
+      "lastPulledAt": "2026-10-31T22:31:22.539Z"
     },
     "929": {
       "id": 929,
