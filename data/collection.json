@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-31T08:55:49.998Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-31T15:00:18.802Z",
   "lastPull": {
-    "id": 842,
-    "name": "appletun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
-      "grass",
+      "dark",
       "dragon"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-31T08:55:49.998Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-31T15:00:18.802Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-31T15:00:18.802Z"
+    },
     {
       "id": 842,
       "name": "appletun",
@@ -116,17 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-29T18:30:51.208Z"
-    },
-    {
-      "id": 556,
-      "name": "maractus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 461,
-      "grade": "R",
-      "pulledAt": "2026-10-29T12:11:17.592Z"
     }
   ],
   "pokemon": {
@@ -2440,6 +2441,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:47:20.529Z",
       "lastPulledAt": "2026-09-24T06:47:20.529Z"
+    },
+    "633": {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-31T15:00:18.802Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T15:00:18.802Z",
+      "lastPulledAt": "2026-10-31T15:00:18.802Z"
     },
     "639": {
       "id": 639,
