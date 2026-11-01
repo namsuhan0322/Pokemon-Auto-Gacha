@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-11-01T07:49:53.633Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-11-01T14:32:50.053Z",
   "lastPull": {
-    "id": 438,
-    "name": "bonsly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "id": 813,
+    "name": "scorbunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
     "types": [
-      "rock"
+      "fire"
     ],
-    "totalStats": 290,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-11-01T07:49:53.633Z"
+    "pulledAt": "2026-11-01T14:32:50.053Z"
   },
   "pulls": [
+    {
+      "id": 813,
+      "name": "scorbunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-01T14:32:50.053Z"
+    },
     {
       "id": 438,
       "name": "bonsly",
@@ -115,17 +126,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-10-30T20:02:44.727Z"
-    },
-    {
-      "id": 232,
-      "name": "donphan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T15:29:13.860Z"
     }
   ],
   "pokemon": {
@@ -2905,10 +2905,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-11T01:19:50.943Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:19:50.943Z",
-      "lastPulledAt": "2026-10-11T01:19:50.943Z"
+      "lastPulledAt": "2026-11-01T14:32:50.053Z"
     },
     "814": {
       "id": 814,
