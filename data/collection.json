@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-11-01T01:25:39.815Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-11-01T07:49:53.633Z",
   "lastPull": {
-    "id": 266,
-    "name": "silcoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+    "id": 438,
+    "name": "bonsly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
     "types": [
-      "bug"
+      "rock"
     ],
-    "totalStats": 205,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-11-01T01:25:39.815Z"
+    "pulledAt": "2026-11-01T07:49:53.633Z"
   },
   "pulls": [
+    {
+      "id": 438,
+      "name": "bonsly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-01T07:49:53.633Z"
+    },
     {
       "id": 266,
       "name": "silcoon",
@@ -115,17 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-30T15:29:13.860Z"
-    },
-    {
-      "id": 837,
-      "name": "rolycoly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-30T08:51:19.843Z"
     }
   ],
   "pokemon": {
@@ -1831,10 +1831,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-28T12:02:40.676Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T12:02:40.676Z",
-      "lastPulledAt": "2026-09-28T12:02:40.676Z"
+      "lastPulledAt": "2026-11-01T07:49:53.633Z"
     },
     "439": {
       "id": 439,
