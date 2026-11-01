@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-11-01T19:09:51.237Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-11-01T22:47:05.902Z",
   "lastPull": {
-    "id": 520,
-    "name": "tranquill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "normal",
-      "flying"
+      "dark"
     ],
-    "totalStats": 358,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-01T19:09:51.237Z"
+    "pulledAt": "2026-11-01T22:47:05.902Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-01T22:47:05.902Z"
+    },
     {
       "id": 520,
       "name": "tranquill",
@@ -117,17 +127,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-31T02:43:27.681Z"
-    },
-    {
-      "id": 129,
-      "name": "magikarp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-10-30T23:40:09.658Z"
     }
   ],
   "pokemon": {
@@ -3441,6 +3440,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T23:49:08.207Z",
       "lastPulledAt": "2026-10-12T23:49:08.207Z"
+    },
+    "942": {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-01T22:47:05.902Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T22:47:05.902Z",
+      "lastPulledAt": "2026-11-01T22:47:05.902Z"
     },
     "951": {
       "id": 951,
