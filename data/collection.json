@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 264,
-  "updatedAt": "2026-11-02T01:53:54.565Z",
+  "totalPulls": 265,
+  "updatedAt": "2026-11-02T08:47:03.386Z",
   "lastPull": {
-    "id": 181,
-    "name": "ampharos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "id": 187,
+    "name": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
     "types": [
-      "electric"
+      "grass",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-02T01:53:54.565Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-11-02T08:47:03.386Z"
   },
   "pulls": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-02T08:47:03.386Z"
+    },
     {
       "id": 181,
       "name": "ampharos",
@@ -115,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-31T15:00:18.802Z"
-    },
-    {
-      "id": 842,
-      "name": "appletun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-31T08:55:49.998Z"
     }
   ],
   "pokemon": {
@@ -951,6 +952,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T05:47:20.803Z",
       "lastPulledAt": "2026-09-22T05:47:20.803Z"
+    },
+    "187": {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-02T08:47:03.386Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T08:47:03.386Z",
+      "lastPulledAt": "2026-11-02T08:47:03.386Z"
     },
     "189": {
       "id": 189,
