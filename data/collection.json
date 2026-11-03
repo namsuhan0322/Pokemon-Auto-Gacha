@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-03T16:20:19.168Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-03T21:52:51.369Z",
   "lastPull": {
-    "id": 622,
-    "name": "golett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "id": 791,
+    "name": "solgaleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
     "types": [
-      "ground",
-      "ghost"
+      "psychic",
+      "steel"
     ],
-    "totalStats": 303,
-    "grade": "N",
-    "pulledAt": "2026-11-03T16:20:19.168Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-03T21:52:51.369Z"
   },
   "pulls": [
+    {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-03T21:52:51.369Z"
+    },
     {
       "id": 622,
       "name": "golett",
@@ -117,17 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-01T14:32:50.053Z"
-    },
-    {
-      "id": 438,
-      "name": "bonsly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-01T07:49:53.633Z"
     }
   ],
   "pokemon": {
@@ -2941,6 +2942,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T06:53:42.879Z",
       "lastPulledAt": "2026-10-15T06:53:42.879Z"
+    },
+    "791": {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-03T21:52:51.369Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T21:52:51.369Z",
+      "lastPulledAt": "2026-11-03T21:52:51.369Z"
     },
     "797": {
       "id": 797,
