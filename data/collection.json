@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-03T08:17:56.599Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-03T16:20:19.168Z",
   "lastPull": {
-    "id": 923,
-    "name": "pawmot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "id": 622,
+    "name": "golett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
     "types": [
-      "electric",
-      "fighting"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-03T08:17:56.599Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-11-03T16:20:19.168Z"
   },
   "pulls": [
+    {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-03T16:20:19.168Z"
+    },
     {
       "id": 923,
       "name": "pawmot",
@@ -116,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-01T07:49:53.633Z"
-    },
-    {
-      "id": 266,
-      "name": "silcoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-11-01T01:25:39.815Z"
     }
   ],
   "pokemon": {
@@ -2465,10 +2466,10 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-24T16:56:54.564Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T16:56:54.564Z",
-      "lastPulledAt": "2026-10-24T16:56:54.564Z"
+      "lastPulledAt": "2026-11-03T16:20:19.168Z"
     },
     "625": {
       "id": 625,
