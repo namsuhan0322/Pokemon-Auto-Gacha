@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-03T01:26:10.557Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-03T08:17:56.599Z",
   "lastPull": {
-    "id": 33,
-    "name": "nidorino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "id": 923,
+    "name": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
     "types": [
-      "poison"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-11-03T01:26:10.557Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-03T08:17:56.599Z"
   },
   "pulls": [
+    {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-03T08:17:56.599Z"
+    },
     {
       "id": 33,
       "name": "nidorino",
@@ -114,18 +127,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-01T01:25:39.815Z"
-    },
-    {
-      "id": 928,
-      "name": "smoliv",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-10-31T22:31:22.539Z"
     }
   ],
   "pokemon": {
@@ -3433,10 +3434,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-23T22:29:26.218Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T22:29:26.218Z",
-      "lastPulledAt": "2026-10-23T22:29:26.218Z"
+      "lastPulledAt": "2026-11-03T08:17:56.599Z"
     },
     "928": {
       "id": 928,
