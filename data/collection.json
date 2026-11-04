@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-04T16:34:40.765Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-04T22:09:46.798Z",
   "lastPull": {
-    "id": 417,
-    "name": "pachirisu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "id": 806,
+    "name": "blacephalon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
     "types": [
-      "electric"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-04T16:34:40.765Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T22:09:46.798Z"
   },
   "pulls": [
+    {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T22:09:46.798Z"
+    },
     {
       "id": 417,
       "name": "pachirisu",
@@ -117,17 +130,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-02T08:47:03.386Z"
-    },
-    {
-      "id": 181,
-      "name": "ampharos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T01:53:54.565Z"
     }
   ],
   "pokemon": {
@@ -3003,6 +3005,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:03:14.620Z",
       "lastPulledAt": "2026-09-20T21:03:14.620Z"
+    },
+    "806": {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T22:09:46.798Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T22:09:46.798Z",
+      "lastPulledAt": "2026-11-04T22:09:46.798Z"
     },
     "813": {
       "id": 813,
