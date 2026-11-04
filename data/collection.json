@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-03T21:52:51.369Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-04T01:51:17.329Z",
   "lastPull": {
-    "id": 791,
-    "name": "solgaleo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "id": 614,
+    "name": "beartic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
     "types": [
-      "psychic",
-      "steel"
+      "ice"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-03T21:52:51.369Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T01:51:17.329Z"
   },
   "pulls": [
+    {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T01:51:17.329Z"
+    },
     {
       "id": 791,
       "name": "solgaleo",
@@ -118,17 +128,6 @@
       "totalStats": 358,
       "grade": "N",
       "pulledAt": "2026-11-01T19:09:51.237Z"
-    },
-    {
-      "id": 813,
-      "name": "scorbunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-01T14:32:50.053Z"
     }
   ],
   "pokemon": {
@@ -2410,6 +2409,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T11:36:34.656Z",
       "lastPulledAt": "2026-09-19T11:36:34.656Z"
+    },
+    "614": {
+      "id": 614,
+      "name": "beartic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T01:51:17.329Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T01:51:17.329Z",
+      "lastPulledAt": "2026-11-04T01:51:17.329Z"
     },
     "616": {
       "id": 616,
