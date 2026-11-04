@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-04T01:51:17.329Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-04T08:30:38.900Z",
   "lastPull": {
-    "id": 614,
-    "name": "beartic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "id": 454,
+    "name": "toxicroak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
     "types": [
-      "ice"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T01:51:17.329Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-04T08:30:38.900Z"
   },
   "pulls": [
+    {
+      "id": 454,
+      "name": "toxicroak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-04T08:30:38.900Z"
+    },
     {
       "id": 614,
       "name": "beartic",
@@ -116,18 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-01T22:47:05.902Z"
-    },
-    {
-      "id": 520,
-      "name": "tranquill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 358,
-      "grade": "N",
-      "pulledAt": "2026-11-01T19:09:51.237Z"
     }
   ],
   "pokemon": {
@@ -1957,10 +1958,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-26T19:18:34.194Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T19:18:34.194Z",
-      "lastPulledAt": "2026-09-26T19:18:34.194Z"
+      "lastPulledAt": "2026-11-04T08:30:38.900Z"
     },
     "456": {
       "id": 456,
