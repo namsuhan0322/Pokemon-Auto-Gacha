@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-05T17:40:38.129Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-05T22:54:58.634Z",
   "lastPull": {
-    "id": 310,
-    "name": "manectric",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
     "types": [
-      "electric"
+      "ghost"
     ],
-    "totalStats": 475,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-11-05T17:40:38.129Z"
+    "pulledAt": "2026-11-05T22:54:58.634Z"
   },
   "pulls": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-05T22:54:58.634Z"
+    },
     {
       "id": 310,
       "name": "manectric",
@@ -117,18 +128,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-11-03T16:20:19.168Z"
-    },
-    {
-      "id": 923,
-      "name": "pawmot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-03T08:17:56.599Z"
     }
   ],
   "pokemon": {
@@ -1884,6 +1883,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:59:40.130Z",
       "lastPulledAt": "2026-09-23T17:59:40.130Z"
+    },
+    "429": {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-05T22:54:58.634Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T22:54:58.634Z",
+      "lastPulledAt": "2026-11-05T22:54:58.634Z"
     },
     "431": {
       "id": 431,
