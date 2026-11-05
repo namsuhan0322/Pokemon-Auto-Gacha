@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-05T02:24:04.133Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-05T09:42:40.267Z",
   "lastPull": {
-    "id": 915,
-    "name": "lechonk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    "id": 787,
+    "name": "tapu-bulu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
     "types": [
-      "normal"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 254,
-    "grade": "N",
-    "pulledAt": "2026-11-05T02:24:04.133Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T09:42:40.267Z"
   },
   "pulls": [
+    {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T09:42:40.267Z"
+    },
     {
       "id": 915,
       "name": "lechonk",
@@ -117,17 +130,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-03T01:26:10.557Z"
-    },
-    {
-      "id": 456,
-      "name": "finneon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-02T18:52:27.263Z"
     }
   ],
   "pokemon": {
@@ -2971,6 +2973,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T06:53:42.879Z",
       "lastPulledAt": "2026-10-15T06:53:42.879Z"
+    },
+    "787": {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T09:42:40.267Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T09:42:40.267Z",
+      "lastPulledAt": "2026-11-05T09:42:40.267Z"
     },
     "791": {
       "id": 791,
