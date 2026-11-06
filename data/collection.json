@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 280,
-  "updatedAt": "2026-11-06T10:44:02.410Z",
+  "totalPulls": 281,
+  "updatedAt": "2026-11-06T17:42:00.892Z",
   "lastPull": {
-    "id": 473,
-    "name": "mamoswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "id": 406,
+    "name": "budew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
     "types": [
-      "ice",
-      "ground"
+      "grass",
+      "poison"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-06T10:44:02.410Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-11-06T17:42:00.892Z"
   },
   "pulls": [
+    {
+      "id": 406,
+      "name": "budew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-06T17:42:00.892Z"
+    },
     {
       "id": 473,
       "name": "mamoswine",
@@ -118,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-04T08:30:38.900Z"
-    },
-    {
-      "id": 614,
-      "name": "beartic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T01:51:17.329Z"
     }
   ],
   "pokemon": {
@@ -1818,10 +1819,10 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-17T10:13:24.446Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:13:24.446Z",
-      "lastPulledAt": "2026-09-17T10:13:24.446Z"
+      "lastPulledAt": "2026-11-06T17:42:00.892Z"
     },
     "411": {
       "id": 411,
