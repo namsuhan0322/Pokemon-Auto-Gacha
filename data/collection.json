@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-05T22:54:58.634Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-06T03:03:44.520Z",
   "lastPull": {
-    "id": 429,
-    "name": "mismagius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "id": 774,
+    "name": "minior-red-meteor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
     "types": [
-      "ghost"
+      "rock",
+      "flying"
     ],
-    "totalStats": 495,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-11-05T22:54:58.634Z"
+    "pulledAt": "2026-11-06T03:03:44.520Z"
   },
   "pulls": [
+    {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:03:44.520Z"
+    },
     {
       "id": 429,
       "name": "mismagius",
@@ -116,18 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-03T21:52:51.369Z"
-    },
-    {
-      "id": 622,
-      "name": "golett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-11-03T16:20:19.168Z"
     }
   ],
   "pokemon": {
@@ -2938,6 +2939,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T01:15:33.421Z",
       "lastPulledAt": "2026-10-09T01:15:33.421Z"
+    },
+    "774": {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:03:44.520Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T03:03:44.520Z",
+      "lastPulledAt": "2026-11-06T03:03:44.520Z"
     },
     "778": {
       "id": 778,
