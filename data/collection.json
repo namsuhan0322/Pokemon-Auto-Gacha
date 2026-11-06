@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 281,
-  "updatedAt": "2026-11-06T17:42:00.892Z",
+  "totalPulls": 282,
+  "updatedAt": "2026-11-06T22:25:23.398Z",
   "lastPull": {
-    "id": 406,
-    "name": "budew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
     "types": [
-      "grass",
-      "poison"
+      "bug"
     ],
-    "totalStats": 280,
+    "totalStats": 224,
     "grade": "N",
-    "pulledAt": "2026-11-06T17:42:00.892Z"
+    "pulledAt": "2026-11-06T22:25:23.398Z"
   },
   "pulls": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-11-06T22:25:23.398Z"
+    },
     {
       "id": 406,
       "name": "budew",
@@ -118,18 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-04T16:34:40.765Z"
-    },
-    {
-      "id": 454,
-      "name": "toxicroak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-04T08:30:38.900Z"
     }
   ],
   "pokemon": {
@@ -1839,6 +1837,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T02:10:35.283Z",
       "lastPulledAt": "2026-10-28T02:10:35.283Z"
+    },
+    "412": {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-11-06T22:25:23.398Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T22:25:23.398Z",
+      "lastPulledAt": "2026-11-06T22:25:23.398Z"
     },
     "417": {
       "id": 417,
