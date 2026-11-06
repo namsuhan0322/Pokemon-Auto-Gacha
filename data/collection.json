@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-06T03:03:44.520Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-06T10:44:02.410Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 473,
+    "name": "mamoswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
     "types": [
-      "rock",
-      "flying"
+      "ice",
+      "ground"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-06T03:03:44.520Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T10:44:02.410Z"
   },
   "pulls": [
+    {
+      "id": 473,
+      "name": "mamoswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T10:44:02.410Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -117,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-04T01:51:17.329Z"
-    },
-    {
-      "id": 791,
-      "name": "solgaleo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
-      "types": [
-        "psychic",
-        "steel"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-03T21:52:51.369Z"
     }
   ],
   "pokemon": {
@@ -2082,6 +2082,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T14:09:44.038Z",
       "lastPulledAt": "2026-10-26T14:09:44.038Z"
+    },
+    "473": {
+      "id": 473,
+      "name": "mamoswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T10:44:02.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T10:44:02.410Z",
+      "lastPulledAt": "2026-11-06T10:44:02.410Z"
     },
     "478": {
       "id": 478,
