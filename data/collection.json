@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-07T19:28:23.587Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-07T22:54:53.836Z",
   "lastPull": {
-    "id": 178,
-    "name": "xatu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "id": 235,
+    "name": "smeargle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
     "types": [
-      "psychic",
-      "flying"
+      "normal"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-11-07T19:28:23.587Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-11-07T22:54:53.836Z"
   },
   "pulls": [
+    {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-07T22:54:53.836Z"
+    },
     {
       "id": 178,
       "name": "xatu",
@@ -118,17 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-05T22:54:58.634Z"
-    },
-    {
-      "id": 310,
-      "name": "manectric",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-05T17:40:38.129Z"
     }
   ],
   "pokemon": {
@@ -1231,6 +1230,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T15:29:13.860Z",
       "lastPulledAt": "2026-10-30T15:29:13.860Z"
+    },
+    "235": {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-07T22:54:53.836Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T22:54:53.836Z",
+      "lastPulledAt": "2026-11-07T22:54:53.836Z"
     },
     "236": {
       "id": 236,
