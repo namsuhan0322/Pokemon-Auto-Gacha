@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-08T02:00:01.249Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-08T08:52:12.526Z",
   "lastPull": {
-    "id": 494,
-    "name": "victini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "id": 564,
+    "name": "tirtouga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
     "types": [
-      "psychic",
-      "fire"
+      "water",
+      "rock"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-08T02:00:01.249Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-11-08T08:52:12.526Z"
   },
   "pulls": [
+    {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-08T08:52:12.526Z"
+    },
     {
       "id": 494,
       "name": "victini",
@@ -118,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-06T10:44:02.410Z"
-    },
-    {
-      "id": 774,
-      "name": "minior-red-meteor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-06T03:03:44.520Z"
     }
   ],
   "pokemon": {
@@ -2424,6 +2424,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T12:11:17.592Z",
       "lastPulledAt": "2026-10-29T12:11:17.592Z"
+    },
+    "564": {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-08T08:52:12.526Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T08:52:12.526Z",
+      "lastPulledAt": "2026-11-08T08:52:12.526Z"
     },
     "575": {
       "id": 575,
