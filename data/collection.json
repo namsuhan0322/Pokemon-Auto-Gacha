@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-07T22:54:53.836Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-08T02:00:01.249Z",
   "lastPull": {
-    "id": 235,
-    "name": "smeargle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "id": 494,
+    "name": "victini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
     "types": [
-      "normal"
+      "psychic",
+      "fire"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-11-07T22:54:53.836Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-08T02:00:01.249Z"
   },
   "pulls": [
+    {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T02:00:01.249Z"
+    },
     {
       "id": 235,
       "name": "smeargle",
@@ -117,17 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-06T03:03:44.520Z"
-    },
-    {
-      "id": 429,
-      "name": "mismagius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-05T22:54:58.634Z"
     }
   ],
   "pokemon": {
@@ -2236,6 +2238,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T19:42:43.333Z",
       "lastPulledAt": "2026-10-31T19:14:18.718Z"
+    },
+    "494": {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T02:00:01.249Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T02:00:01.249Z",
+      "lastPulledAt": "2026-11-08T02:00:01.249Z"
     },
     "499": {
       "id": 499,
