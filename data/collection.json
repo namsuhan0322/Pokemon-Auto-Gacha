@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-09T10:56:23.944Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-09T21:17:32.766Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-09T10:56:23.944Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-09T21:17:32.766Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-09T21:17:32.766Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -117,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-07T19:28:23.587Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-07T15:12:31.186Z"
     }
   ],
   "pokemon": {
@@ -1789,6 +1789,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:21:58.278Z",
       "lastPulledAt": "2026-09-17T05:21:58.278Z"
+    },
+    "367": {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-09T21:17:32.766Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T21:17:32.766Z",
+      "lastPulledAt": "2026-11-09T21:17:32.766Z"
     },
     "370": {
       "id": 370,
