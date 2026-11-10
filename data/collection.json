@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-10T18:52:43.285Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-10T23:52:35.251Z",
   "lastPull": {
-    "id": 134,
-    "name": "vaporeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "id": 1017,
+    "name": "ogerpon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 525,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-11-10T18:52:43.285Z"
+    "pulledAt": "2026-11-10T23:52:35.251Z"
   },
   "pulls": [
+    {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T23:52:35.251Z"
+    },
     {
       "id": 134,
       "name": "vaporeon",
@@ -116,18 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-08T15:44:16.008Z"
-    },
-    {
-      "id": 564,
-      "name": "tirtouga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-11-08T08:52:12.526Z"
     }
   ],
   "pokemon": {
@@ -4138,10 +4137,10 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-18T11:31:41.682Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T11:31:41.682Z",
-      "lastPulledAt": "2026-10-18T11:31:41.682Z"
+      "lastPulledAt": "2026-11-10T23:52:35.251Z"
     },
     "1018": {
       "id": 1018,
