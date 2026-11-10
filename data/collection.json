@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-10T11:45:03.561Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-10T18:52:43.285Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 134,
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "types": [
-      "steel",
-      "psychic"
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-10T11:45:03.561Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T18:52:43.285Z"
   },
   "pulls": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T18:52:43.285Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -118,18 +128,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-11-08T08:52:12.526Z"
-    },
-    {
-      "id": 494,
-      "name": "victini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
-      "types": [
-        "psychic",
-        "fire"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-08T02:00:01.249Z"
     }
   ],
   "pokemon": {
@@ -763,10 +761,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-28T00:37:20.539Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:37:20.539Z",
-      "lastPulledAt": "2026-09-28T00:37:20.539Z"
+      "lastPulledAt": "2026-11-10T18:52:43.285Z"
     },
     "135": {
       "id": 135,
