@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-11T12:00:22.955Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-11T19:31:32.161Z",
   "lastPull": {
-    "id": 157,
-    "name": "typhlosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+    "id": 796,
+    "name": "xurkitree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
     "types": [
-      "fire"
+      "electric"
     ],
-    "totalStats": 534,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-11T12:00:22.955Z"
+    "pulledAt": "2026-11-11T19:31:32.161Z"
   },
   "pulls": [
+    {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T19:31:32.161Z"
+    },
     {
       "id": 157,
       "name": "typhlosion",
@@ -115,18 +126,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-09T02:56:36.253Z"
-    },
-    {
-      "id": 848,
-      "name": "toxel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 242,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:33:06.844Z"
     }
   ],
   "pokemon": {
@@ -3265,6 +3264,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T21:52:51.369Z",
       "lastPulledAt": "2026-11-03T21:52:51.369Z"
+    },
+    "796": {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T19:31:32.161Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T19:31:32.161Z",
+      "lastPulledAt": "2026-11-11T19:31:32.161Z"
     },
     "797": {
       "id": 797,
