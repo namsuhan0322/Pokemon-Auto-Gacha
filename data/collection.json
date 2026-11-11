@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-10T23:52:35.251Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-11T04:25:38.163Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 434,
+    "name": "stunky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
     "types": [
-      "grass"
+      "poison",
+      "dark"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-10T23:52:35.251Z"
+    "totalStats": 329,
+    "grade": "N",
+    "pulledAt": "2026-11-11T04:25:38.163Z"
   },
   "pulls": [
+    {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-11-11T04:25:38.163Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -115,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-08T19:59:09.149Z"
-    },
-    {
-      "id": 84,
-      "name": "doduo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-08T15:44:16.008Z"
     }
   ],
   "pokemon": {
@@ -2049,6 +2050,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:08:49.024Z",
       "lastPulledAt": "2026-09-21T13:08:49.024Z"
+    },
+    "434": {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-11-11T04:25:38.163Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T04:25:38.163Z",
+      "lastPulledAt": "2026-11-11T04:25:38.163Z"
     },
     "436": {
       "id": 436,
