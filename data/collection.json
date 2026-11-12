@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-12T08:50:12.809Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-12T17:18:34.038Z",
   "lastPull": {
-    "id": 478,
-    "name": "froslass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "id": 313,
+    "name": "volbeat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
     "types": [
-      "ice",
-      "ghost"
+      "bug"
     ],
-    "totalStats": 480,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-11-12T08:50:12.809Z"
+    "pulledAt": "2026-11-12T17:18:34.038Z"
   },
   "pulls": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-12T17:18:34.038Z"
+    },
     {
       "id": 478,
       "name": "froslass",
@@ -118,17 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-10T03:38:23.349Z"
-    },
-    {
-      "id": 367,
-      "name": "huntail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-09T21:17:32.766Z"
     }
   ],
   "pokemon": {
@@ -1652,6 +1651,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-05T17:40:38.129Z",
       "lastPulledAt": "2026-11-05T17:40:38.129Z"
+    },
+    "313": {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-12T17:18:34.038Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T17:18:34.038Z",
+      "lastPulledAt": "2026-11-12T17:18:34.038Z"
     },
     "318": {
       "id": 318,
