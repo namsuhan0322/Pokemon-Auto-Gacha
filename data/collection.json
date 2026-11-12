@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 305,
-  "updatedAt": "2026-11-12T17:18:34.038Z",
+  "totalPulls": 306,
+  "updatedAt": "2026-11-12T22:45:56.052Z",
   "lastPull": {
-    "id": 313,
-    "name": "volbeat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 430,
+    "totalStats": 415,
     "grade": "R",
-    "pulledAt": "2026-11-12T17:18:34.038Z"
+    "pulledAt": "2026-11-12T22:45:56.052Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:45:56.052Z"
+    },
     {
       "id": 313,
       "name": "volbeat",
@@ -116,18 +127,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-10T11:45:03.561Z"
-    },
-    {
-      "id": 881,
-      "name": "arctozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
-      "types": [
-        "electric",
-        "ice"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T03:38:23.349Z"
     }
   ],
   "pokemon": {
@@ -950,6 +949,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:41:21.631Z",
       "lastPulledAt": "2026-09-25T06:41:21.631Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:45:56.052Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T22:45:56.052Z",
+      "lastPulledAt": "2026-11-12T22:45:56.052Z"
     },
     "167": {
       "id": 167,
