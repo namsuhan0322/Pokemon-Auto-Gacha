@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-11T19:31:32.161Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-12T01:39:47.061Z",
   "lastPull": {
-    "id": 796,
-    "name": "xurkitree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "id": 411,
+    "name": "bastiodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
     "types": [
-      "electric"
+      "rock",
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T19:31:32.161Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-12T01:39:47.061Z"
   },
   "pulls": [
+    {
+      "id": 411,
+      "name": "bastiodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-12T01:39:47.061Z"
+    },
     {
       "id": 796,
       "name": "xurkitree",
@@ -115,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-09T10:56:23.944Z"
-    },
-    {
-      "id": 57,
-      "name": "primeape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-09T02:56:36.253Z"
     }
   ],
   "pokemon": {
@@ -1953,10 +1955,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-28T02:10:35.283Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T02:10:35.283Z",
-      "lastPulledAt": "2026-10-28T02:10:35.283Z"
+      "lastPulledAt": "2026-11-12T01:39:47.061Z"
     },
     "412": {
       "id": 412,
