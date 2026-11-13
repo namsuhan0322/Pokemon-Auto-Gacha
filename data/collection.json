@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-13T18:07:18.694Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-13T23:29:15.802Z",
   "lastPull": {
-    "id": 704,
-    "name": "goomy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "id": 768,
+    "name": "golisopod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
     "types": [
-      "dragon"
+      "bug",
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-13T18:07:18.694Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T23:29:15.802Z"
   },
   "pulls": [
+    {
+      "id": 768,
+      "name": "golisopod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T23:29:15.802Z"
+    },
     {
       "id": 704,
       "name": "goomy",
@@ -116,18 +129,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-11-11T12:00:22.955Z"
-    },
-    {
-      "id": 434,
-      "name": "stunky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-11-11T04:25:38.163Z"
     }
   ],
   "pokemon": {
@@ -3200,6 +3201,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T01:15:33.421Z",
       "lastPulledAt": "2026-10-09T01:15:33.421Z"
+    },
+    "768": {
+      "id": 768,
+      "name": "golisopod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T23:29:15.802Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T23:29:15.802Z",
+      "lastPulledAt": "2026-11-13T23:29:15.802Z"
     },
     "774": {
       "id": 774,
