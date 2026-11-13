@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-12T22:45:56.052Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-13T02:57:43.770Z",
   "lastPull": {
-    "id": 162,
-    "name": "furret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
     "types": [
-      "normal"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 415,
-    "grade": "R",
-    "pulledAt": "2026-11-12T22:45:56.052Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T02:57:43.770Z"
   },
   "pulls": [
+    {
+      "id": 905,
+      "name": "enamorus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T02:57:43.770Z"
+    },
     {
       "id": 162,
       "name": "furret",
@@ -115,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-10T18:52:43.285Z"
-    },
-    {
-      "id": 436,
-      "name": "bronzor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-10T11:45:03.561Z"
     }
   ],
   "pokemon": {
@@ -3793,6 +3794,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T23:09:35.821Z",
       "lastPulledAt": "2026-10-15T23:09:35.821Z"
+    },
+    "905": {
+      "id": 905,
+      "name": "enamorus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T02:57:43.770Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T02:57:43.770Z",
+      "lastPulledAt": "2026-11-13T02:57:43.770Z"
     },
     "915": {
       "id": 915,
