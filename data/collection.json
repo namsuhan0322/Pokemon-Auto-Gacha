@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-13T02:57:43.770Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-13T10:40:16.603Z",
   "lastPull": {
-    "id": 905,
-    "name": "enamorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "id": 1010,
+    "name": "iron-leaves",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
     "types": [
-      "fairy",
-      "flying"
+      "grass",
+      "psychic"
     ],
-    "totalStats": 580,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-11-13T02:57:43.770Z"
+    "pulledAt": "2026-11-13T10:40:16.603Z"
   },
   "pulls": [
+    {
+      "id": 1010,
+      "name": "iron-leaves",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T10:40:16.603Z"
+    },
     {
       "id": 905,
       "name": "enamorus-incarnate",
@@ -117,17 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-10T23:52:35.251Z"
-    },
-    {
-      "id": 134,
-      "name": "vaporeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T18:52:43.285Z"
     }
   ],
   "pokemon": {
@@ -4188,6 +4189,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T16:28:01.340Z",
       "lastPulledAt": "2026-09-26T16:28:01.340Z"
+    },
+    "1010": {
+      "id": 1010,
+      "name": "iron-leaves",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T10:40:16.603Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T10:40:16.603Z",
+      "lastPulledAt": "2026-11-13T10:40:16.603Z"
     },
     "1015": {
       "id": 1015,
