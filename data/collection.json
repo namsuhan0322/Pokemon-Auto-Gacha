@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-14T16:44:48.455Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-14T20:57:30.335Z",
   "lastPull": {
-    "id": 137,
-    "name": "porygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "id": 154,
+    "name": "meganium",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-11-14T16:44:48.455Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T20:57:30.335Z"
   },
   "pulls": [
+    {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T20:57:30.335Z"
+    },
     {
       "id": 137,
       "name": "porygon",
@@ -117,18 +128,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-12T17:18:34.038Z"
-    },
-    {
-      "id": 478,
-      "name": "froslass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
-      "types": [
-        "ice",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-12T08:50:12.809Z"
     }
   ],
   "pokemon": {
@@ -936,6 +935,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T19:16:21.956Z",
       "lastPulledAt": "2026-10-24T19:16:21.956Z"
+    },
+    "154": {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T20:57:30.335Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T20:57:30.335Z",
+      "lastPulledAt": "2026-11-14T20:57:30.335Z"
     },
     "157": {
       "id": 157,
