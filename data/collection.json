@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-14T03:29:16.360Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-14T10:49:50.676Z",
   "lastPull": {
-    "id": 941,
-    "name": "kilowattrel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
     "types": [
-      "electric",
-      "flying"
+      "rock",
+      "electric"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-14T03:29:16.360Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T10:49:50.676Z"
   },
   "pulls": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T10:49:50.676Z"
+    },
     {
       "id": 941,
       "name": "kilowattrel",
@@ -119,17 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-12T01:39:47.061Z"
-    },
-    {
-      "id": 796,
-      "name": "xurkitree",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T19:31:32.161Z"
     }
   ],
   "pokemon": {
@@ -4157,6 +4158,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T02:25:59.228Z",
       "lastPulledAt": "2026-10-30T02:25:59.228Z"
+    },
+    "995": {
+      "id": 995,
+      "name": "iron-thorns",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T10:49:50.676Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T10:49:50.676Z",
+      "lastPulledAt": "2026-11-14T10:49:50.676Z"
     },
     "997": {
       "id": 997,
