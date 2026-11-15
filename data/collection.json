@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-15T07:16:09.531Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-15T14:49:43.773Z",
   "lastPull": {
-    "id": 20,
-    "name": "raticate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "id": 93,
+    "name": "haunter",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
     "types": [
-      "normal"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 413,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-11-15T07:16:09.531Z"
+    "pulledAt": "2026-11-15T14:49:43.773Z"
   },
   "pulls": [
+    {
+      "id": 93,
+      "name": "haunter",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T14:49:43.773Z"
+    },
     {
       "id": 20,
       "name": "raticate",
@@ -116,18 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-13T10:40:16.603Z"
-    },
-    {
-      "id": 905,
-      "name": "enamorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T02:57:43.770Z"
     }
   ],
   "pokemon": {
@@ -580,6 +581,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T01:52:55.870Z",
       "lastPulledAt": "2026-10-15T01:52:55.870Z"
+    },
+    "93": {
+      "id": 93,
+      "name": "haunter",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T14:49:43.773Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T14:49:43.773Z",
+      "lastPulledAt": "2026-11-15T14:49:43.773Z"
     },
     "94": {
       "id": 94,
