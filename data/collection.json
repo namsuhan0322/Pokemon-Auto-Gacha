@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-15T19:59:23.854Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-15T23:53:42.323Z",
   "lastPull": {
-    "id": 608,
-    "name": "lampent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "ghost",
-      "fire"
+      "electric",
+      "normal"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-11-15T19:59:23.854Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-11-15T23:53:42.323Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-15T23:53:42.323Z"
+    },
     {
       "id": 608,
       "name": "lampent",
@@ -118,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-13T23:29:15.802Z"
-    },
-    {
-      "id": 704,
-      "name": "goomy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-13T18:07:18.694Z"
     }
   ],
   "pokemon": {
@@ -3073,6 +3074,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T15:25:47.683Z",
       "lastPulledAt": "2026-10-23T15:25:47.683Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-15T23:53:42.323Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T23:53:42.323Z",
+      "lastPulledAt": "2026-11-15T23:53:42.323Z"
     },
     "697": {
       "id": 697,
