@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-15T00:49:39.795Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-15T07:16:09.531Z",
   "lastPull": {
-    "id": 951,
-    "name": "capsakid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "id": 20,
+    "name": "raticate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-11-15T00:49:39.795Z"
+    "totalStats": 413,
+    "grade": "R",
+    "pulledAt": "2026-11-15T07:16:09.531Z"
   },
   "pulls": [
+    {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-11-15T07:16:09.531Z"
+    },
     {
       "id": 951,
       "name": "capsakid",
@@ -117,17 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-13T02:57:43.770Z"
-    },
-    {
-      "id": 162,
-      "name": "furret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-11-12T22:45:56.052Z"
     }
   ],
   "pokemon": {
@@ -178,6 +178,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T18:45:55.485Z",
       "lastPulledAt": "2026-10-20T18:38:44.178Z"
+    },
+    "20": {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-11-15T07:16:09.531Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T07:16:09.531Z",
+      "lastPulledAt": "2026-11-15T07:16:09.531Z"
     },
     "22": {
       "id": 22,
