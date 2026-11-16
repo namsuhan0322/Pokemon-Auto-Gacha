@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-16T13:04:59.580Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-16T22:51:45.299Z",
   "lastPull": {
-    "id": 418,
-    "name": "buizel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "id": 492,
+    "name": "shaymin-land",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-16T13:04:59.580Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-16T22:51:45.299Z"
   },
   "pulls": [
+    {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-16T22:51:45.299Z"
+    },
     {
       "id": 418,
       "name": "buizel",
@@ -115,18 +126,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-11-14T16:44:48.455Z"
-    },
-    {
-      "id": 995,
-      "name": "iron-thorns",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-      "types": [
-        "rock",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T10:49:50.676Z"
     }
   ],
   "pokemon": {
@@ -2433,6 +2432,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:30:50.842Z",
       "lastPulledAt": "2026-09-19T19:30:50.842Z"
+    },
+    "492": {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-16T22:51:45.299Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T22:51:45.299Z",
+      "lastPulledAt": "2026-11-16T22:51:45.299Z"
     },
     "493": {
       "id": 493,
