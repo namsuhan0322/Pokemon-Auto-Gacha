@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-15T23:53:42.323Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-16T04:29:53.455Z",
   "lastPull": {
-    "id": 695,
-    "name": "heliolisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "id": 172,
+    "name": "pichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
     "types": [
-      "electric",
-      "normal"
+      "electric"
     ],
-    "totalStats": 481,
-    "grade": "R",
-    "pulledAt": "2026-11-15T23:53:42.323Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-11-16T04:29:53.455Z"
   },
   "pulls": [
+    {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-16T04:29:53.455Z"
+    },
     {
       "id": 695,
       "name": "heliolisk",
@@ -118,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-14T03:29:16.360Z"
-    },
-    {
-      "id": 768,
-      "name": "golisopod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
-      "types": [
-        "bug",
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T23:29:15.802Z"
     }
   ],
   "pokemon": {
@@ -1044,6 +1042,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T13:47:57.796Z",
       "lastPulledAt": "2026-10-01T13:47:57.796Z"
+    },
+    "172": {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-16T04:29:53.455Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T04:29:53.455Z",
+      "lastPulledAt": "2026-11-16T04:29:53.455Z"
     },
     "177": {
       "id": 177,
