@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-16T04:29:53.455Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-16T13:04:59.580Z",
   "lastPull": {
-    "id": 172,
-    "name": "pichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "id": 418,
+    "name": "buizel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 205,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-16T04:29:53.455Z"
+    "pulledAt": "2026-11-16T13:04:59.580Z"
   },
   "pulls": [
+    {
+      "id": 418,
+      "name": "buizel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-16T13:04:59.580Z"
+    },
     {
       "id": 172,
       "name": "pichu",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-14T10:49:50.676Z"
-    },
-    {
-      "id": 941,
-      "name": "kilowattrel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-14T03:29:16.360Z"
     }
   ],
   "pokemon": {
@@ -2095,6 +2094,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T16:34:40.765Z",
       "lastPulledAt": "2026-11-04T16:34:40.765Z"
+    },
+    "418": {
+      "id": 418,
+      "name": "buizel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-16T13:04:59.580Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T13:04:59.580Z",
+      "lastPulledAt": "2026-11-16T13:04:59.580Z"
     },
     "419": {
       "id": 419,
