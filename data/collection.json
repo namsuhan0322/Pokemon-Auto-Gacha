@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-16T22:51:45.299Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-17T04:56:09.209Z",
   "lastPull": {
-    "id": 492,
-    "name": "shaymin-land",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "id": 582,
+    "name": "vanillite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
     "types": [
-      "grass"
+      "ice"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-16T22:51:45.299Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-17T04:56:09.209Z"
   },
   "pulls": [
+    {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-17T04:56:09.209Z"
+    },
     {
       "id": 492,
       "name": "shaymin-land",
@@ -115,17 +126,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-14T20:57:30.335Z"
-    },
-    {
-      "id": 137,
-      "name": "porygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-14T16:44:48.455Z"
     }
   ],
   "pokemon": {
@@ -2695,6 +2695,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:38:13.342Z",
       "lastPulledAt": "2026-09-20T18:38:13.342Z"
+    },
+    "582": {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-17T04:56:09.209Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T04:56:09.209Z",
+      "lastPulledAt": "2026-11-17T04:56:09.209Z"
     },
     "584": {
       "id": 584,
