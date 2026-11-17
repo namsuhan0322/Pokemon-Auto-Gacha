@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-17T04:56:09.209Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-17T14:06:25.199Z",
   "lastPull": {
-    "id": 582,
-    "name": "vanillite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
-      "ice"
+      "water",
+      "grass"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-17T04:56:09.209Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-17T14:06:25.199Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-17T14:06:25.199Z"
+    },
     {
       "id": 582,
       "name": "vanillite",
@@ -115,17 +128,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-11-15T00:49:39.795Z"
-    },
-    {
-      "id": 154,
-      "name": "meganium",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T20:57:30.335Z"
     }
   ],
   "pokemon": {
@@ -1547,10 +1549,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-02T23:18:26.690Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:18:26.690Z",
-      "lastPulledAt": "2026-10-02T23:18:26.690Z"
+      "lastPulledAt": "2026-11-17T14:06:25.199Z"
     },
     "274": {
       "id": 274,
