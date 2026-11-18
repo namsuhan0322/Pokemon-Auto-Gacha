@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-17T22:15:11.534Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-18T03:43:55.091Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 206,
+    "name": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
     "types": [
-      "electric",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T22:15:11.534Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-11-18T03:43:55.091Z"
   },
   "pulls": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-11-18T03:43:55.091Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -118,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-15T14:49:43.773Z"
-    },
-    {
-      "id": 20,
-      "name": "raticate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-11-15T07:16:09.531Z"
     }
   ],
   "pokemon": {
@@ -1254,10 +1253,10 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-10-16T21:45:46.463Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T21:45:46.463Z",
-      "lastPulledAt": "2026-10-16T21:45:46.463Z"
+      "lastPulledAt": "2026-11-18T03:43:55.091Z"
     },
     "207": {
       "id": 207,
