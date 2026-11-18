@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-18T03:43:55.091Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-18T12:18:31.049Z",
   "lastPull": {
-    "id": 206,
-    "name": "dunsparce",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "id": 997,
+    "name": "arctibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
     "types": [
-      "normal"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 415,
+    "totalStats": 423,
     "grade": "R",
-    "pulledAt": "2026-11-18T03:43:55.091Z"
+    "pulledAt": "2026-11-18T12:18:31.049Z"
   },
   "pulls": [
+    {
+      "id": 997,
+      "name": "arctibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-11-18T12:18:31.049Z"
+    },
     {
       "id": 206,
       "name": "dunsparce",
@@ -116,18 +129,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-11-15T19:59:23.854Z"
-    },
-    {
-      "id": 93,
-      "name": "haunter",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-15T14:49:43.773Z"
     }
   ],
   "pokemon": {
@@ -4336,10 +4337,10 @@
       "totalStats": 423,
       "grade": "R",
       "pulledAt": "2026-09-19T01:41:44.831Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:41:44.831Z",
-      "lastPulledAt": "2026-09-19T01:41:44.831Z"
+      "lastPulledAt": "2026-11-18T12:18:31.049Z"
     },
     "998": {
       "id": 998,
