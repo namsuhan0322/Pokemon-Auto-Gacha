@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 329,
-  "updatedAt": "2026-11-19T02:02:09.139Z",
+  "totalPulls": 330,
+  "updatedAt": "2026-11-19T10:12:03.728Z",
   "lastPull": {
-    "id": 479,
-    "name": "rotom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "id": 552,
+    "name": "krokorok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
     "types": [
-      "electric",
-      "ghost"
+      "ground",
+      "dark"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-19T02:02:09.139Z"
+    "totalStats": 351,
+    "grade": "N",
+    "pulledAt": "2026-11-19T10:12:03.728Z"
   },
   "pulls": [
+    {
+      "id": 552,
+      "name": "krokorok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 351,
+      "grade": "N",
+      "pulledAt": "2026-11-19T10:12:03.728Z"
+    },
     {
       "id": 479,
       "name": "rotom",
@@ -118,17 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-16T13:04:59.580Z"
-    },
-    {
-      "id": 172,
-      "name": "pichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-11-16T04:29:53.455Z"
     }
   ],
   "pokemon": {
@@ -2652,6 +2653,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:00:01.884Z",
       "lastPulledAt": "2026-09-26T22:00:01.884Z"
+    },
+    "552": {
+      "id": 552,
+      "name": "krokorok",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 351,
+      "grade": "N",
+      "pulledAt": "2026-11-19T10:12:03.728Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T10:12:03.728Z",
+      "lastPulledAt": "2026-11-19T10:12:03.728Z"
     },
     "553": {
       "id": 553,
