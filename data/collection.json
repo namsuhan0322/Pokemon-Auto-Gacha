@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-18T20:42:01.931Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-19T02:02:09.139Z",
   "lastPull": {
-    "id": 225,
-    "name": "delibird",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "id": 479,
+    "name": "rotom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
     "types": [
-      "ice",
-      "flying"
+      "electric",
+      "ghost"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-18T20:42:01.931Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-19T02:02:09.139Z"
   },
   "pulls": [
+    {
+      "id": 479,
+      "name": "rotom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-19T02:02:09.139Z"
+    },
     {
       "id": 225,
       "name": "delibird",
@@ -117,18 +129,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-16T04:29:53.455Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-11-15T23:53:42.323Z"
     }
   ],
   "pokemon": {
@@ -2420,6 +2420,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T21:52:15.461Z",
       "lastPulledAt": "2026-11-12T08:50:12.809Z"
+    },
+    "479": {
+      "id": 479,
+      "name": "rotom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-19T02:02:09.139Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T02:02:09.139Z",
+      "lastPulledAt": "2026-11-19T02:02:09.139Z"
     },
     "487": {
       "id": 487,
