@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-20T08:37:58.055Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-20T17:15:19.896Z",
   "lastPull": {
-    "id": 103,
-    "name": "exeggutor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "id": 427,
+    "name": "buneary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
     "types": [
-      "grass",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-20T08:37:58.055Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-20T17:15:19.896Z"
   },
   "pulls": [
+    {
+      "id": 427,
+      "name": "buneary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-20T17:15:19.896Z"
+    },
     {
       "id": 103,
       "name": "exeggutor",
@@ -120,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-17T22:15:11.534Z"
-    },
-    {
-      "id": 272,
-      "name": "ludicolo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-17T14:06:25.199Z"
     }
   ],
   "pokemon": {
@@ -2161,6 +2159,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:59:40.130Z",
       "lastPulledAt": "2026-09-23T17:59:40.130Z"
+    },
+    "427": {
+      "id": 427,
+      "name": "buneary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-20T17:15:19.896Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T17:15:19.896Z",
+      "lastPulledAt": "2026-11-20T17:15:19.896Z"
     },
     "429": {
       "id": 429,
