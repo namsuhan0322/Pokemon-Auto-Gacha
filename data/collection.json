@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-20T01:13:05.336Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-20T08:37:58.055Z",
   "lastPull": {
-    "id": 913,
-    "name": "quaxwell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "id": 103,
+    "name": "exeggutor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
     "types": [
-      "water"
+      "grass",
+      "psychic"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-20T01:13:05.336Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-20T08:37:58.055Z"
   },
   "pulls": [
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-20T08:37:58.055Z"
+    },
     {
       "id": 913,
       "name": "quaxwell",
@@ -119,17 +132,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-17T14:06:25.199Z"
-    },
-    {
-      "id": 582,
-      "name": "vanillite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-17T04:56:09.209Z"
     }
   ],
   "pokemon": {
@@ -656,10 +658,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-02T02:11:12.108Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T02:11:12.108Z",
-      "lastPulledAt": "2026-10-02T02:11:12.108Z"
+      "lastPulledAt": "2026-11-20T08:37:58.055Z"
     },
     "107": {
       "id": 107,
