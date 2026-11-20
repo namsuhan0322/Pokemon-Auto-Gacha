@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-19T19:01:12.829Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-20T01:13:05.336Z",
   "lastPull": {
-    "id": 698,
-    "name": "amaura",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "id": 913,
+    "name": "quaxwell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
     "types": [
-      "rock",
-      "ice"
+      "water"
     ],
-    "totalStats": 362,
-    "grade": "N",
-    "pulledAt": "2026-11-19T19:01:12.829Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-20T01:13:05.336Z"
   },
   "pulls": [
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T01:13:05.336Z"
+    },
     {
       "id": 698,
       "name": "amaura",
@@ -120,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-17T04:56:09.209Z"
-    },
-    {
-      "id": 492,
-      "name": "shaymin-land",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-16T22:51:45.299Z"
     }
   ],
   "pokemon": {
@@ -4061,6 +4060,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T02:57:43.770Z",
       "lastPulledAt": "2026-11-13T02:57:43.770Z"
+    },
+    "913": {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T01:13:05.336Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T01:13:05.336Z",
+      "lastPulledAt": "2026-11-20T01:13:05.336Z"
     },
     "915": {
       "id": 915,
