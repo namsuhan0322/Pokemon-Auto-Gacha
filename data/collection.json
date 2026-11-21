@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-21T19:07:24.423Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-21T23:46:28.995Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 441,
+    "name": "chatot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
     "types": [
-      "water",
-      "fighting"
+      "normal",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T19:07:24.423Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-11-21T23:46:28.995Z"
   },
   "pulls": [
+    {
+      "id": 441,
+      "name": "chatot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-21T23:46:28.995Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -119,18 +131,6 @@
       "totalStats": 351,
       "grade": "N",
       "pulledAt": "2026-11-19T10:12:03.728Z"
-    },
-    {
-      "id": 479,
-      "name": "rotom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
-      "types": [
-        "electric",
-        "ghost"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-19T02:02:09.139Z"
     }
   ],
   "pokemon": {
@@ -2300,6 +2300,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T12:50:06.356Z",
       "lastPulledAt": "2026-10-14T12:50:06.356Z"
+    },
+    "441": {
+      "id": 441,
+      "name": "chatot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-21T23:46:28.995Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T23:46:28.995Z",
+      "lastPulledAt": "2026-11-21T23:46:28.995Z"
     },
     "446": {
       "id": 446,
