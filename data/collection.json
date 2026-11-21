@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-21T03:56:10.228Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-21T12:06:12.194Z",
   "lastPull": {
-    "id": 315,
-    "name": "roselia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "id": 692,
+    "name": "clauncher",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
     "types": [
-      "grass",
-      "poison"
+      "water"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-21T03:56:10.228Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-21T12:06:12.194Z"
   },
   "pulls": [
+    {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-21T12:06:12.194Z"
+    },
     {
       "id": 315,
       "name": "roselia",
@@ -120,18 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-18T20:42:01.931Z"
-    },
-    {
-      "id": 997,
-      "name": "arctibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-11-18T12:18:31.049Z"
     }
   ],
   "pokemon": {
@@ -3216,6 +3214,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:35:32.146Z",
       "lastPulledAt": "2026-09-18T04:35:32.146Z"
+    },
+    "692": {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-21T12:06:12.194Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T12:06:12.194Z",
+      "lastPulledAt": "2026-11-21T12:06:12.194Z"
     },
     "693": {
       "id": 693,
