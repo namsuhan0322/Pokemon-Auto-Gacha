@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-21T12:06:12.194Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-21T19:07:24.423Z",
   "lastPull": {
-    "id": 692,
-    "name": "clauncher",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "id": 914,
+    "name": "quaquaval",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
     "types": [
-      "water"
+      "water",
+      "fighting"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-21T12:06:12.194Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T19:07:24.423Z"
   },
   "pulls": [
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T19:07:24.423Z"
+    },
     {
       "id": 692,
       "name": "clauncher",
@@ -118,18 +131,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-19T02:02:09.139Z"
-    },
-    {
-      "id": 225,
-      "name": "delibird",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-18T20:42:01.931Z"
     }
   ],
   "pokemon": {
@@ -4137,6 +4138,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-20T01:13:05.336Z",
       "lastPulledAt": "2026-11-20T01:13:05.336Z"
+    },
+    "914": {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T19:07:24.423Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T19:07:24.423Z",
+      "lastPulledAt": "2026-11-21T19:07:24.423Z"
     },
     "915": {
       "id": 915,
