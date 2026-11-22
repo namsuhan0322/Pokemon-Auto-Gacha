@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-22T11:56:42.767Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-22T19:05:55.185Z",
   "lastPull": {
-    "id": 179,
-    "name": "mareep",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "id": 60,
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 280,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-22T11:56:42.767Z"
+    "pulledAt": "2026-11-22T19:05:55.185Z"
   },
   "pulls": [
+    {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-22T19:05:55.185Z"
+    },
     {
       "id": 179,
       "name": "mareep",
@@ -118,17 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-20T08:37:58.055Z"
-    },
-    {
-      "id": 913,
-      "name": "quaxwell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-20T01:13:05.336Z"
     }
   ],
   "pokemon": {
@@ -440,6 +440,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T01:50:13.705Z",
       "lastPulledAt": "2026-10-14T01:50:13.705Z"
+    },
+    "60": {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-22T19:05:55.185Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T19:05:55.185Z",
+      "lastPulledAt": "2026-11-22T19:05:55.185Z"
     },
     "67": {
       "id": 67,
