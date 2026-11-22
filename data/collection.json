@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-21T23:46:28.995Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-22T03:31:39.660Z",
   "lastPull": {
-    "id": 441,
-    "name": "chatot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "id": 680,
+    "name": "doublade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 411,
+    "totalStats": 448,
     "grade": "R",
-    "pulledAt": "2026-11-21T23:46:28.995Z"
+    "pulledAt": "2026-11-22T03:31:39.660Z"
   },
   "pulls": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-11-22T03:31:39.660Z"
+    },
     {
       "id": 441,
       "name": "chatot",
@@ -119,18 +131,6 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-11-19T19:01:12.829Z"
-    },
-    {
-      "id": 552,
-      "name": "krokorok",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 351,
-      "grade": "N",
-      "pulledAt": "2026-11-19T10:12:03.728Z"
     }
   ],
   "pokemon": {
@@ -3212,10 +3212,10 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-10-09T14:31:46.454Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T14:31:46.454Z",
-      "lastPulledAt": "2026-10-09T14:31:46.454Z"
+      "lastPulledAt": "2026-11-22T03:31:39.660Z"
     },
     "684": {
       "id": 684,
