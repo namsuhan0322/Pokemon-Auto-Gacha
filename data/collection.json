@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 343,
-  "updatedAt": "2026-11-23T00:13:27.440Z",
+  "totalPulls": 344,
+  "updatedAt": "2026-11-23T07:48:06.166Z",
   "lastPull": {
-    "id": 460,
-    "name": "abomasnow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "id": 477,
+    "name": "dusknoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
     "types": [
-      "grass",
-      "ice"
+      "ghost"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-11-23T00:13:27.440Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T07:48:06.166Z"
   },
   "pulls": [
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T07:48:06.166Z"
+    },
     {
       "id": 460,
       "name": "abomasnow",
@@ -119,17 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-20T23:07:48.386Z"
-    },
-    {
-      "id": 427,
-      "name": "buneary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-20T17:15:19.896Z"
     }
   ],
   "pokemon": {
@@ -2514,6 +2513,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T10:44:02.410Z",
       "lastPulledAt": "2026-11-06T10:44:02.410Z"
+    },
+    "477": {
+      "id": 477,
+      "name": "dusknoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T07:48:06.166Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T07:48:06.166Z",
+      "lastPulledAt": "2026-11-23T07:48:06.166Z"
     },
     "478": {
       "id": 478,
