@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 347,
-  "updatedAt": "2026-11-24T15:05:48.140Z",
+  "totalPulls": 348,
+  "updatedAt": "2026-11-24T23:51:20.821Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 231,
+    "name": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
     "types": [
-      "dark",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 348,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-24T15:05:48.140Z"
+    "pulledAt": "2026-11-24T23:51:20.821Z"
   },
   "pulls": [
+    {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-24T23:51:20.821Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -119,18 +129,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-21T23:46:28.995Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T19:07:24.423Z"
     }
   ],
   "pokemon": {
@@ -1385,6 +1383,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:32:26.531Z",
       "lastPulledAt": "2026-09-27T05:32:26.531Z"
+    },
+    "231": {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-24T23:51:20.821Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T23:51:20.821Z",
+      "lastPulledAt": "2026-11-24T23:51:20.821Z"
     },
     "232": {
       "id": 232,
