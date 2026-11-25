@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-24T23:51:20.821Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-25T06:43:55.686Z",
   "lastPull": {
-    "id": 231,
-    "name": "phanpy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "id": 225,
+    "name": "delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
     "types": [
-      "ground"
+      "ice",
+      "flying"
     ],
     "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-24T23:51:20.821Z"
+    "pulledAt": "2026-11-25T06:43:55.686Z"
   },
   "pulls": [
+    {
+      "id": 225,
+      "name": "delibird",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-25T06:43:55.686Z"
+    },
     {
       "id": 231,
       "name": "phanpy",
@@ -117,18 +130,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-11-22T03:31:39.660Z"
-    },
-    {
-      "id": 441,
-      "name": "chatot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-11-21T23:46:28.995Z"
     }
   ],
   "pokemon": {
@@ -1347,10 +1348,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-18T20:42:01.931Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-18T20:42:01.931Z",
-      "lastPulledAt": "2026-11-18T20:42:01.931Z"
+      "lastPulledAt": "2026-11-25T06:43:55.686Z"
     },
     "227": {
       "id": 227,
