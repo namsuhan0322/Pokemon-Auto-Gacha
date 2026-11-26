@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-26T09:29:07.521Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-26T19:14:26.435Z",
   "lastPull": {
-    "id": 353,
-    "name": "shuppet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "id": 388,
+    "name": "grotle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
     "types": [
-      "ghost"
+      "grass"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-11-26T09:29:07.521Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-26T19:14:26.435Z"
   },
   "pulls": [
+    {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-26T19:14:26.435Z"
+    },
     {
       "id": 353,
       "name": "shuppet",
@@ -117,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-23T07:48:06.166Z"
-    },
-    {
-      "id": 460,
-      "name": "abomasnow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
-      "types": [
-        "grass",
-        "ice"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-11-23T00:13:27.440Z"
     }
   ],
   "pokemon": {
@@ -2080,6 +2079,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-09T10:56:23.944Z",
       "lastPulledAt": "2026-11-09T10:56:23.944Z"
+    },
+    "388": {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-26T19:14:26.435Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T19:14:26.435Z",
+      "lastPulledAt": "2026-11-26T19:14:26.435Z"
     },
     "396": {
       "id": 396,
