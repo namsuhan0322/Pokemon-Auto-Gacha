@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 357,
-  "updatedAt": "2026-11-28T02:14:25.908Z",
+  "totalPulls": 358,
+  "updatedAt": "2026-11-28T10:33:17.477Z",
   "lastPull": {
-    "id": 467,
-    "name": "magmortar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "id": 962,
+    "name": "bombirdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
     "types": [
-      "fire"
+      "flying",
+      "dark"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-28T02:14:25.908Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-28T10:33:17.477Z"
   },
   "pulls": [
+    {
+      "id": 962,
+      "name": "bombirdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-28T10:33:17.477Z"
+    },
     {
       "id": 467,
       "name": "magmortar",
@@ -115,17 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-25T06:43:55.686Z"
-    },
-    {
-      "id": 231,
-      "name": "phanpy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-24T23:51:20.821Z"
     }
   ],
   "pokemon": {
@@ -4533,10 +4535,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-04T02:20:32.142Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T02:20:32.142Z",
-      "lastPulledAt": "2026-10-23T00:55:52.296Z"
+      "lastPulledAt": "2026-11-28T10:33:17.477Z"
     },
     "965": {
       "id": 965,
